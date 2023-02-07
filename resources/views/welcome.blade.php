@@ -79,11 +79,11 @@
                                             </li><!-- .dropdown end -->
 
 
-											<li><a href="media.html">Media</a></li>
+											<li><a href="#">Media</a></li>
 
-											<li><a href="terms-conditions.html">Terms & Conditions</a></li>
+											<li><a href="#">Terms & Conditions</a></li>
 
-											<li><a href="contact-us.html">Contacts</a></li>
+											<li><a href="#">Contacts</a></li>
 
                                         </ul><!-- .nav.navbar-nav end -->
 
@@ -93,25 +93,25 @@
 
                                             <ul class="dl-menu">
                                                 <li>
-                                                    <a href="index-3.html">Home</a>
+                                                    <a href="#">Home</a>
 
                                                 </li>
 
-                                                <li><a href="about-php.html">About</a></li>
+                                                <li><a href="#">About</a></li>
 
                                                 <li>
                                                     <a href="#">Services</a>
                                                     <ul class="dl-submenu">
-                                                        <li><a href="services01.html">Services overview</a></li>
+                                                        <li><a href="#">Services overview</a></li>
                                                         <li>
                                                             <a href="#">Logistics</a>
                                                             <ul class="dl-submenu">
-																<li><a href="services02.html">Logistics</a></li>
-																<li><a href="overland-transportation.html">Overland transportation</a></li>
-																<li><a href="air-freight.html">Air freight</a></li>
-																<li><a href="ocean-freight.html">Ocean freight</a></li>
-																<li><a href="large-projects.html">Large projects</a></li>
-																<li><a href="rail-transportation.html">Rail international shipping</a></li>
+																<li><a href="#">Logistics</a></li>
+																<li><a href="#">Overland transportation</a></li>
+																<li><a href="#">Air freight</a></li>
+																<li><a href="#">Ocean freight</a></li>
+																<li><a href="#">Large projects</a></li>
+																<li><a href="#">Rail international shipping</a></li>
                                                             </ul><!-- .dl-submenu end -->
                                                         </li>
                                                     <li><a href="warehousing.html">Warehousing</a></li>
