@@ -114,17 +114,17 @@
 																<li><a href="#">Rail international shipping</a></li>
                                                             </ul><!-- .dl-submenu end -->
                                                         </li>
-                                                    <li><a href="warehousing.html">Warehousing</a></li>
-                                                    <li><a href="supply-chain-management.html">Supply chain management</a></li>
-                                                    <li><a href="packaging-options.html">Packaging options</a></li>
-                                                    <li><a href="consulting-services.html">Consulting services</a></li>
+                                                    <li><a href="#">Warehousing</a></li>
+                                                    <li><a href="#">Supply chain management</a></li>
+                                                    <li><a href="#">Packaging options</a></li>
+                                                    <li><a href="#">Consulting services</a></li>
                                                     </ul><!-- dl-submenu end -->
                                                 </li>
 
 
-												<li><a href="media.html">Media</a></li>
-												<li><a href="terms-conditions.html">Terms & Conditions</a></li>
-												<li><a href="contact-us.html">Contacts</a></li>
+												<li><a href="#">Media</a></li>
+												<li><a href="#">Terms & Conditions</a></li>
+												<li><a href="#">Contacts</a></li>
                                             </ul><!-- .dl-menu end -->
                                         </div><!-- #dl-menu end -->
 
@@ -148,7 +148,7 @@
         <div id="masterslider" class="master-slider ms-skin-default mb-0">
             <!-- slide start -->
             <div class="ms-slide">
-                <img src="masterslider/blank.gif" data-src="img/slider/slide05-01.jpg" alt=""/>
+                <img src="{{asset('giant/masterslider/blank.gif')}}" data-src="{{asset('giant/img/slider/slide05-01.jpg')}}" alt=""/>
 
                 <h2 class="ms-layer pi-caption01 pi-caption-dark"
                     style="left: 390px; top: 260px;"
@@ -177,7 +177,7 @@
                     services
                 </h2>
 
-                <img class="ms-layer" src="masterslider/blank.gif" data-src="img/slider/slide05-02.png" alt=""
+                <img class="ms-layer" src="{{asset('giant/masterslider/blank.gif')}}" data-src="{{asset('giant/img/slider/slide05-02.png')}}" alt=""
                      style="left: 390px; top: 220px;"
                      data-type="image"
                      data-delay="100"
@@ -205,7 +205,7 @@
 
             <!-- slide start -->
             <div class="ms-slide">
-                <img src="masterslider/blank.gif" data-src="img/slider/slide05-05.jpg" alt=""/>
+                <img src="{{asset('giant/masterslider/blank.gif')}}" data-src="{{asset('giant/img/slider/slide05-05.jpg')}}" alt=""/>
 
                 <h2 class="ms-layer pi-caption01 pi-caption-dark"
                     style="left: 390px; top: 340px;"
@@ -234,14 +234,14 @@
                     or sea
                 </h2>
 
-                <img class="ms-layer" src="masterslider/blank.gif" data-src="img/slider/slide05-04.png" alt=""
+                <img class="ms-layer" src="{{asset('giant/masterslider/blank.gif')}}" data-src="{{asset('giant/img/slider/slide05-04.png')}}" alt=""
                      style="left: 800px; top: 430px;"
                      data-type="image"
                      data-delay="100"
                      data-parallax="15"
                      />
 
-                <img class="ms-layer" src="masterslider/blank.gif" data-src="img/slider/slide05-03.png" alt=""
+                <img class="ms-layer" src="{{asset('giant/masterslider/blank.gif')}}" data-src="{{asset('giant/img/slider/slide05-03.png')}}" alt=""
                      style="left: 1200px; top: 220px;"
                      data-type="image"
                      data-delay="100"
@@ -270,10 +270,10 @@
                                     Selecting all services of what Giant Freight can offer.
 									we are not limited to a unit or sub-Saharan size load
 									but its all about what comes and we can handle it for
-									you at our best. We make sure to keep up with today’s
+									you at our best. We make sure to keep up with today
 									standards to serve and expand and satisfy all our
 									clients globally with integrity, professionalism and
-									reliability. KARIBU – SANA.
+									reliability. KARIBU SANA.
                                 </p>
                             </div><!-- .text end -->
 
@@ -304,15 +304,15 @@
                                 <div class="owl-item">
                                     <div class="service-feature-box">
                                         <div class="service-media">
-                                            <img src="img/pics/img01.jpg" alt="Giant Freight"/>
+                                            <img src="{{asset('giant/img/pics/img01.jpg')}}" alt="Giant Freight"/>
 
-                                            <a href="overland-transportation.html" class="read-more02">
+                                            <a href="" class="read-more02">
                                                 <span>
                                                     Learn More
                                                     <i class="fa fa-chevron-right"></i>
                                                 </span>
                                             </a>
-                                        </div><!-- .service-media end -->
+                                        </div> <!-- .service-media end -->
 
                                         <div class="service-body">
                                             <div class="custom-heading">
@@ -559,7 +559,7 @@
                             <h2>Download our brochure</h2>
                         </div>
 
-                        <img src="img/pics/brochure01.jpg" class="float-left" alt=""/>
+                        <img src="{{asset('giant/img/pics/brochure01.jpg')}}" class="float-left" alt=""/>
                         <br />
 
                         <p>
@@ -592,15 +592,15 @@
                     <div class="col-md-12">
                         <div class="carousel-container">
                             <div id="client-carousel" class="owl-carousel owl-carousel-navigation">
-                                <div class="owl-item"><img src="img/pics/client-01.jpg" alt=""/></div>
-                                <div class="owl-item"><img src="img/pics/client-02.jpg" alt=""/></div>
-                                <div class="owl-item"><img src="img/pics/client-03.jpg" alt=""/></div>
-                                <div class="owl-item"><img src="img/pics/client-04.png" alt=""/></div>
-                                <div class="owl-item"><img src="img/pics/client-05.jpg" alt=""/></div>
-                                <div class="owl-item"><img src="img/pics/client-06.jpg" alt=""/></div>
-								<div class="owl-item"><img src="img/pics/client-07.jpg" alt=""/></div>
-								<div class="owl-item"><img src="img/pics/client-08.jpg" alt=""/></div>
-								<div class="owl-item"><img src="img/pics/client-11.jpg" alt=""/></div>
+                                <div class="owl-item"><img src="{{asset('giant/img/pics/client-01.jpg')}}" alt=""/></div>
+                                <div class="owl-item"><img src="{{asset('giant/img/pics/client-02.jpg')}}" alt=""/></div>
+                                <div class="owl-item"><img src="{{asset('giant/img/pics/client-03.jpg')}}" alt=""/></div>
+                                <div class="owl-item"><img src="{{asset('giant/img/pics/client-04.png')}}" alt=""/></div>
+                                <div class="owl-item"><img src="{{asset('giant/img/pics/client-05.jpg')}}" alt=""/></div>
+                                <div class="owl-item"><img src="{{asset('giant/img/pics/client-06.jpg')}}" alt=""/></div>
+								<div class="owl-item"><img src="{{asset('giant/img/pics/client-07.jpg')}}" alt=""/></div>
+								<div class="owl-item"><img src="{{asset('giant/img/pics/client-08.jpg')}}" alt=""/></div>
+								<div class="owl-item"><img src="{{asset('giant/img/pics/client-11.jpg')}}" alt=""/></div>
                             </div><!-- .owl-carousel.owl-carousel-navigation end -->
                         </div><!-- .carousel-container end -->
                     </div><!-- .col-md-12 end -->
@@ -632,7 +632,7 @@
                                 </form>
 
                                 <br/> <br/>
-                                 <img src="img/payment-options.png" alt="Payment Options" style="width:100%; ">
+                                 <img src="{{asset('giant/img/payment-options.png')}}" alt="Payment Options" style="width:100%; ">
 
 
                             </li><!-- .widget.widget_newsletterwidget end -->
@@ -646,9 +646,9 @@
                                 </div>
 
                                 <ul>
-                                    <li><a href="about.html">About us</a></li>
-                                    <li><a href="terms-conditions.html">Terms & Conditions</a></li>
-                                    <li><a href="contact-us.html">Contact Us</a></li>
+                                    <li><a href="#">About us</a></li>
+                                    <li><a href="#">Terms & Conditions</a></li>
+                                    <li><a href="#">Contact Us</a></li>
                                 </ul>
 
 
@@ -663,15 +663,15 @@
                                 </div>
 
                                 <ul>
-									 <li><a href="warehousing.html">Ware Housing</a></li>
-									 <li><a href="supply-chain-management.html">Supply Chain Management</a></li>
-									 <li><a href="packaging-options.html">Packaging Options</a></li>
-									 <li><a href="consulting-services.html">Consulting Services</a></li>
-									 <li><a href="services02.html">Logistics</a></li>
-									 <li><a href="overland-transportation.html">Overland Transportation</a></li>
-									 <li><a href="ocean-freight.html">Ocean Freight</a></li>
-									 <li><a href="large-projects.html">Large Projects</a></li>
-									 <li><a href="rail-transportation.html">Rail Transportation</a></li>
+									 <li><a href="#">Ware Housing</a></li>
+									 <li><a href="#">Supply Chain Management</a></li>
+									 <li><a href="#">Packaging Options</a></li>
+									 <li><a href="#">Consulting Services</a></li>
+									 <li><a href="#">Logistics</a></li>
+									 <li><a href="#">Overland Transportation</a></li>
+									 <li><a href="#">Ocean Freight</a></li>
+									 <li><a href="#">Large Projects</a></li>
+									 <li><a href="#">Rail Transportation</a></li>
                                 </ul>
 
                             </li><!-- .widget-pages end -->
@@ -684,23 +684,23 @@
                                 </div>
 
                                 <address>
-								King Palace House 2nd floor,<br />
-								 Mnazi Mmoja Area<br />
+								Najmi Manzil Building 4th floor,<br />
+								 Clock Tower<br />
 								 P.0. Box 68045 <br />
 								Dar es salaam - Tanzania
                                 </address>
 
                                 <span class="text-big">
-                                    +255 712 736 581
+                                    +255 624 524 149
                                 </span>
                                 <br />
 
-                                <a href="mailto:">info@iwefreight.com</a>
+                                <a href="mailto:">info@giantfreight.com</a>
                                 <br />
                                 <ul class="footer-social-icons">
-                                    <li><a href="https://web.facebook.com/Iwe-Freight-Ltd-705979053122625/?hc_ref=ARSkjwRofd0-nlx-qrVTMdJ6Zz09OVvo8nV1cfyPUzK1xTkXb6Qn0yk4BnOWJRJnJ7M&amp;fref=nf&amp;__xts__%5B0%5D=68.ARBj7FdUsztlEmYc7M7DkxCRxyCR5WJTdcHhbGcKSFaMDEkfKvWz_tBLyqhvGKW9SmGzKZ3zrkbnPKkIuZt0Tn4l8Z1jrEUnqdxkjjly-yb2Owt8AEUCAvz6r4jiic5kx-PG4nBW3srj09Yo8PZ6S8KcKEzaFiQEmpKCAkxJmGn3bK5GsR9RbMfjmCpb00y9E21PMytWt442KZLLyDvJjm6ApzrQLGCTp8ConCrHeaxdakDqRTNm4jlIiE_aI1Tb8sQ8ivSuA15vxst08XARXi9r3UGEipQFjKyRGCQj0UrF8QTFnxhOI2pZW9lxAMp0-ZMEqCNlHvRWYuB_jIRCMzQ&amp;__tn__=kC-R" class="fa fa-facebook"></a></li>
-                                    <li><a href="https://www.instagram.com/iwefreightltd/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://twitter.com/LtdIwe" class="fa fa-twitter"></a></li>
+                                    <li><a href="#"></a></li>
+                                    <li><a href="#" class="fa fa-instagram"></a></li>
+                                    <li><a href="#" class="fa fa-twitter"></a></li>
                                 </ul><!-- .footer-social-icons end -->
                             </li><!-- .widget.widget-text end -->
                         </ul><!-- .col-md-3.footer-widget-container end -->
@@ -712,7 +712,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-6">
-                            <p>Giant Freight Limited 2001-2019. All RIGHTS RESERVED.</p>
+                            <p>Giant Freight Limited 2001-2023. All RIGHTS RESERVED.</p>
                         </div><!-- .col-md-6 end -->
 
                         <div class="col-md-6">
@@ -724,14 +724,14 @@
 
             <a href="#" class="scroll-up">Scroll</a>
         </div><!-- #footer-wrapper end -->
-        <script src="js/jquery-2.1.4.min.js"></script><!-- jQuery library -->
-        <script src="js/bootstrap.min.js"></script><!-- .bootstrap script -->
-        <script src="js/jquery.srcipts.min.js"></script><!-- modernizr, retina, stellar for parallax -->
-        <script src="owl-carousel/owl.carousel.min.js"></script><!-- Carousels script -->
-        <script src="masterslider/masterslider.min.js"></script><!-- Master slider main js -->
-        <script src="js/jquery.dlmenu.min.js"></script><!-- for responsive menu -->
-        <script src="style-switcher/styleSwitcher.js"></script><!-- styleswitcher script -->
-        <script src="js/include.js"></script><!-- custom js functions -->
+        <script src="{{asset('giant/js/jquery-2.1.4.min.js')}}"></script><!-- jQuery library -->
+        <script src="{{asset('giant/js/bootstrap.min.js')}}"></script><!-- .bootstrap script -->
+        <script src="{{asset('giant/js/jquery.srcipts.min.js')}}"></script><!-- modernizr, retina, stellar for parallax -->
+        <script src="{{asset('giant/owl-carousel/owl.carousel.min.js')}}"></script><!-- Carousels script -->
+        <script src="{{asset('giant/masterslider/masterslider.min.js')}}"></script><!-- Master slider main js -->
+        <script src="{{asset('giant/js/jquery.dlmenu.min.js')}}"></script><!-- for responsive menu -->
+        <script src="{{asset('giant/style-switcher/styleSwitcher.js')}}"></script><!-- styleswitcher script -->
+        <script src="{{asset('giant/js/include.js')}}"></script><!-- custom js functions -->
 
         <script>
             /* <![CDATA[ */
