@@ -271,7 +271,7 @@
                                 </p>
                             </div><!-- .text end -->
 
-                            <a href="#" class="btn btn-big">
+                            <a href="" class="btn btn-big">
                                 <span>get a quote</span>
                             </a>
                         </div><!-- .call-to-action end -->
@@ -286,7 +286,7 @@
                     <div class="custom-heading02">
                         <h2>Our services</h2>
                         <p>
-                            tailored logistics services
+                            Giant Freight Limited
                         </p>
                     </div><!-- .custom-heading02 end -->
                 </div><!-- .row end -->
@@ -298,7 +298,7 @@
                                 <div class="owl-item">
                                     <div class="service-feature-box">
                                         <div class="service-media">
-                                            <img src="{{asset('giant/img/pics/img01.jpg')}}" alt="Giant Freight"/>
+                                            <img src="{{asset('giant/img/pics/img01.jpg')}}" alt="Road Transport"/>
 
                                             <a href="" class="read-more02">
                                                 <span>
@@ -310,7 +310,7 @@
 
                                         <div class="service-body">
                                             <div class="custom-heading">
-                                                <h4>GROUND SHIPPING</h4>
+                                                <h4>ROAD TRANSPORT</h4>
                                             </div><!-- .custom-heading end -->
 
                                             <p>
@@ -326,7 +326,7 @@
                                 <div class="owl-item">
                                     <div class="service-feature-box">
                                         <div class="service-media">
-                                            <img src="{{asset('giant/img/pics/img02.jpg')}}" alt="Trucking"/>
+                                            <img src="{{asset('giant/img/pics/img02.jpg')}}" alt="Warehousing"/>
 
                                             <a href="" class="read-more02">
                                                 <span>
@@ -338,7 +338,7 @@
 
                                         <div class="service-body">
                                             <div class="custom-heading">
-                                                <h4>LARGE PROJECTS</h4>
+                                                <h4>WAREHOUSING</h4>
                                             </div><!-- .custom-heading end -->
 
                                             <p>
@@ -354,7 +354,7 @@
                                 <div class="owl-item">
                                     <div class="service-feature-box">
                                         <div class="service-media">
-                                            <img src="{{asset('giant/img/pics/img03.jpg')}}" alt="Trucking"/>
+                                            <img src="{{asset('giant/img/pics/img03.jpg')}}" alt="Air Freight"/>
 
                                             <a href="" class="read-more02">
                                                 <span>
@@ -366,7 +366,7 @@
 
                                         <div class="service-body">
                                             <div class="custom-heading">
-                                                <h4>INTERNATIONAL AIR FREIGHT</h4>
+                                                <h4>AIR FREIGHT</h4>
                                             </div><!-- .custom-heading end -->
 
                                             <p>
@@ -382,7 +382,7 @@
                                 <div class="owl-item">
                                     <div class="service-feature-box">
                                         <div class="service-media">
-                                            <img src="{{asset('giant/img/pics/img13.jpg')}}" alt="Trucking"/>
+                                            <img src="{{asset('giant/img/pics/img13.jpg')}}" alt="Customs Clearance"/>
 
                                             <a href="" class="read-more02">
                                                 <span>
@@ -394,7 +394,7 @@
 
                                         <div class="service-body">
                                             <div class="custom-heading">
-                                                <h4>contract logistics</h4>
+                                                <h4>CUSTOMS CLEARANCE</h4>
                                             </div><!-- .custom-heading end -->
 
                                             <p>
@@ -411,7 +411,7 @@
                                 <div class="owl-item">
                                     <div class="service-feature-box">
                                         <div class="service-media">
-                                            <img src="{{asset('giant/img/pics/img14.jpg')}}" alt="Trucking"/>
+                                            <img src="{{asset('giant/img/pics/img14.jpg')}}" alt="Value Added Service"/>
 
                                             <a href="" class="read-more02">
                                                 <span>
@@ -423,7 +423,7 @@
 
                                         <div class="service-body">
                                             <div class="custom-heading">
-                                                <h4>WAREHOUSING</h4>
+                                                <h4>VALUE ADDED SERVICE</h4>
                                             </div><!-- .custom-heading end -->
 
                                             <p>
@@ -440,7 +440,7 @@
                                 <div class="owl-item">
                                     <div class="service-feature-box">
                                         <div class="service-media">
-                                            <img src="{{asset('giant/img/pics/img15.jpg')}}" alt="Trucking"/>
+                                            <img src="{{asset('giant/img/pics/img15.jpg')}}" alt="Ocean Freight"/>
 
                                             <a href="" class="read-more02">
                                                 <span>
@@ -452,7 +452,7 @@
 
                                         <div class="service-body">
                                             <div class="custom-heading">
-                                                <h4>CONSULTING</h4>
+                                                <h4>OCEAN FREIGHT</h4>
                                             </div><!-- .custom-heading end -->
 
                                             <p>
