@@ -43,8 +43,9 @@
                                     <!-- .navbar-header start -->
                                     <div class="navbar-header">
                                         <div class="logo">
-                                            <a href="index-2.html">
-                                                 <img src="{{asset('giant/img/logo.png')}}" alt="Giant Freight"/>
+                                            <a href="index-2.html" style="padding-bottom: 3px; font-size: 13px; color: #2780BA; font-weight: 700;">
+                                                 {{--  <img src="{{asset('giant/img/logo.png')}}" alt="Giant Freight"/>  --}}
+                                                 Giant Freight Limited
                                             </a>
                                         </div><!-- .logo end -->
                                     </div><!-- .navbar-header start -->
@@ -128,13 +129,6 @@
                                             </ul><!-- .dl-menu end -->
                                         </div><!-- #dl-menu end -->
 
-                                        <!-- #search start -->
-                                        <div id="search">
-                                            <form action="#" method="get">
-                                                <input class="search-submit" type="submit" />
-                                                <input id="m_search" name="s" type="text" placeholder="Type and hit enter..." />
-                                            </form>
-                                        </div><!-- #search end -->
                                     </div><!-- MAIN NAVIGATION END -->
                                 </nav><!-- .navbar.navbar-default end -->
                             </div><!-- .col-md-12 end -->
