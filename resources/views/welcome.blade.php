@@ -150,10 +150,10 @@
                     data-delay="100"
                     data-parallax="10"
                     >
-                    worldwide
+                    worldwide Freight Services
                 </h2>
 
-                <h2 class="ms-layer pi-caption01 pi-caption-dark"
+                {{--  <h2 class="ms-layer pi-caption01 pi-caption-dark"
                     style="left: 390px; top: 320px;"
                     data-type="text"
                     data-delay="100"
@@ -169,7 +169,7 @@
                     data-parallax="10"
                     >
                     services
-                </h2>
+                </h2>  --}}
 
                 <img class="ms-layer" src="{{asset('giant/masterslider/blank.gif')}}" data-src="{{asset('giant/img/slider/slide05-02.png')}}" alt=""
                      style="left: 390px; top: 220px;"
@@ -184,17 +184,17 @@
                    data-delay="100"
                    data-parallax="10"
                    >
-                    Road, air train or overseas
+                    Air freight all over
                 </p>
 
-                <p class="ms-layer pi-text"
+                {{--  <p class="ms-layer pi-text"
                    style="left: 390px; top: 500px;"
                    data-type="text"
                    data-delay="100"
                    data-parallax="10"
                    >
                     We got it covered
-                </p>
+                </p>  --}}
             </div><!-- slide end -->
 
             <!-- slide start -->
@@ -207,26 +207,26 @@
                     data-delay="100"
                     data-parallax="10"
                     >
-                    air freight
+                    Cargo Services
                 </h2>
 
-                <h2 class="ms-layer pi-caption01 pi-caption-dark"
+                {{--  <h2 class="ms-layer pi-caption01 pi-caption-dark"
                     style="left: 390px; top: 400px;"
                     data-type="text"
                     data-delay="100"
                     data-parallax="10"
                     >
                     overland
-                </h2>
+                </h2>  --}}
 
-                <h2 class="ms-layer pi-caption01 pi-caption-dark"
+                {{--  <h2 class="ms-layer pi-caption01 pi-caption-dark"
                     style="left: 390px; top: 460px;"
                     data-type="text"
                     data-delay="100"
                     data-parallax="10"
                     >
                     or sea
-                </h2>
+                </h2>  --}}
 
                 <img class="ms-layer" src="{{asset('giant/masterslider/blank.gif')}}" data-src="{{asset('giant/img/slider/slide05-04.png')}}" alt=""
                      style="left: 800px; top: 430px;"
@@ -267,7 +267,7 @@
 									you at our best. We make sure to keep up with today
 									standards to serve and expand and satisfy all our
 									clients globally with integrity, professionalism and
-									reliability. KARIBU SANA.
+									reliability.
                                 </p>
                             </div><!-- .text end -->
 
