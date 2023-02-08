@@ -640,7 +640,7 @@
                             <!-- .widget-pages start -->
                             <li class="widget widget_pages">
                                 <div class="title">
-                                    <h3>Industry solutions</h3>
+                                    <h3>Our Services</h3>
                                 </div>
 
                                 <ul>
