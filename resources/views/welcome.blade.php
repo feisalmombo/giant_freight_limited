@@ -300,7 +300,7 @@
                                         <div class="service-media">
                                             <img src="{{asset('giant/img/pics/img01.jpg')}}" alt="Road Transport"/>
 
-                                            <a href="" class="read-more02">
+                                            <a href="#" class="read-more02">
                                                 <span>
                                                     Learn More
                                                     <i class="fa fa-chevron-right"></i>
@@ -442,7 +442,7 @@
                                         <div class="service-media">
                                             <img src="{{asset('giant/img/pics/img15.jpg')}}" alt="Ocean Freight"/>
 
-                                            <a href="" class="read-more02">
+                                            <a href="#" class="read-more02">
                                                 <span>
                                                     Read more
                                                     <i class="fa fa-chevron-right"></i>
@@ -456,7 +456,7 @@
                                             </div><!-- .custom-heading end -->
 
                                             <p>
-                                                Don't know what mean of
+                                                Don not know what mean of
                                                 transportation would be right for
                                                 you, or you need someone for full
                                                 supply chain management? Please
@@ -480,8 +480,8 @@
                         <ul class="pi-latest-posts02 clearfix">
                             <li>
                                 <div class="post-date">
-                                    <p class="day">31</p>
-                                    <p class="month">March</p>
+                                    <p class="day">08</p>
+                                    <p class="month">February</p>
                                 </div><!-- .post-date end -->
 
                                 <div class="post-details">
@@ -493,7 +493,7 @@
                                     </div><!-- .post-category end -->
 
                                     <a href="news-single.html">
-                                        <h4>Thank you for shipment of my daughter</h4>
+                                        <h4>Shipment of my dream car</h4>
                                     </a>
 
                                     <p>
@@ -514,8 +514,8 @@
 
                             <li>
                                 <div class="post-date">
-                                    <p class="day">22</p>
-                                    <p class="month">Dec</p>
+                                    <p class="day">25</p>
+                                    <p class="month">January</p>
                                 </div><!-- .post-date end -->
 
                                 <div class="post-details">
@@ -527,7 +527,7 @@
                                     </div><!-- .post-category end -->
 
                                     <a href="news-single.html">
-                                        <h4>Such a great service indeed!</h4>
+                                        <h4>Supply best stationary kits!</h4>
                                     </a>
 
                                     <p>
@@ -537,7 +537,7 @@
 									on time.
                                     </p>
 
-                                    <a class="read-more" href="news-single.html">
+                                    <a class="read-more" href="">
                                         <span>
 
                                             <i class="fa fa-long-arrow-right"></i>
@@ -550,20 +550,20 @@
 
                     <div class="col-md-4 col-sm-6 clearfix">
                         <div class="custom-heading">
-                            <h2>Download our brochure</h2>
+                            <h2>Download our Company profile</h2>
                         </div>
 
-                        <img src="{{asset('giant/img/pics/brochure01.jpg')}}" class="float-left" alt=""/>
+                        <img src="" class="float-left" alt=""/>
                         <br />
 
                         <p>
-                            Learn more about us. Download our annual brochure
-                            2019.
+                            Learn more about us. Download our company profile
+                            since 2020.
                         </p>
 
-                        <a class="read-more" href="#">
+                        <a class="read-more" href="">
                             <span>
-                                Download our brochure
+                                Download our Company Profile
                                 <i class="fa fa-chevron-right"></i>
                             </span>
                         </a>
@@ -587,14 +587,6 @@
                         <div class="carousel-container">
                             <div id="client-carousel" class="owl-carousel owl-carousel-navigation">
                                 <div class="owl-item"><img src="{{asset('giant/img/pics/client-01.jpg')}}" alt=""/></div>
-                                <div class="owl-item"><img src="{{asset('giant/img/pics/client-02.jpg')}}" alt=""/></div>
-                                <div class="owl-item"><img src="{{asset('giant/img/pics/client-03.jpg')}}" alt=""/></div>
-                                <div class="owl-item"><img src="{{asset('giant/img/pics/client-04.png')}}" alt=""/></div>
-                                <div class="owl-item"><img src="{{asset('giant/img/pics/client-05.jpg')}}" alt=""/></div>
-                                <div class="owl-item"><img src="{{asset('giant/img/pics/client-06.jpg')}}" alt=""/></div>
-								<div class="owl-item"><img src="{{asset('giant/img/pics/client-07.jpg')}}" alt=""/></div>
-								<div class="owl-item"><img src="{{asset('giant/img/pics/client-08.jpg')}}" alt=""/></div>
-								<div class="owl-item"><img src="{{asset('giant/img/pics/client-11.jpg')}}" alt=""/></div>
                             </div><!-- .owl-carousel.owl-carousel-navigation end -->
                         </div><!-- .carousel-container end -->
                     </div><!-- .col-md-12 end -->
@@ -625,10 +617,6 @@
                                     <input type="submit" class="submit" value="">
                                 </form>
 
-                                <br/> <br/>
-                                 <img src="{{asset('giant/img/payment-options.png')}}" alt="Payment Options" style="width:100%; ">
-
-
                             </li><!-- .widget.widget_newsletterwidget end -->
                         </ul><!-- .col-md-3.footer-widget-container end -->
 
@@ -641,7 +629,6 @@
 
                                 <ul>
                                     <li><a href="#">About us</a></li>
-                                    <li><a href="#">Terms & Conditions</a></li>
                                     <li><a href="#">Contact Us</a></li>
                                 </ul>
 
@@ -657,15 +644,13 @@
                                 </div>
 
                                 <ul>
-									 <li><a href="#">Ware Housing</a></li>
-									 <li><a href="#">Supply Chain Management</a></li>
-									 <li><a href="#">Packaging Options</a></li>
-									 <li><a href="#">Consulting Services</a></li>
-									 <li><a href="#">Logistics</a></li>
-									 <li><a href="#">Overland Transportation</a></li>
+									 <li><a href="#">Road Transport</a></li>
+									 <li><a href="#">Air Freight</a></li>
 									 <li><a href="#">Ocean Freight</a></li>
-									 <li><a href="#">Large Projects</a></li>
-									 <li><a href="#">Rail Transportation</a></li>
+									 <li><a href="#">Customs Clearance</a></li>
+									 <li><a href="#">Warehousing</a></li>
+									 <li><a href="#">Railway Services</a></li>
+									 <li><a href="#">Value Added Services</a></li>
                                 </ul>
 
                             </li><!-- .widget-pages end -->
@@ -692,7 +677,7 @@
                                 <a href="mailto:">info@giantfreight.com</a>
                                 <br />
                                 <ul class="footer-social-icons">
-                                    <li><a href="#"></a></li>
+                                    <li><a href="#" class="fa fa-facebook"></a></li>
                                     <li><a href="#" class="fa fa-instagram"></a></li>
                                     <li><a href="#" class="fa fa-twitter"></a></li>
                                 </ul><!-- .footer-social-icons end -->
@@ -706,7 +691,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-6">
-                            <p>Giant Freight Limited 2001-2023. All RIGHTS RESERVED.</p>
+                            <p>Giant Freight Limited 2020-2023. All RIGHTS RESERVED.</p>
                         </div><!-- .col-md-6 end -->
 
                         <div class="col-md-6">
