@@ -54,10 +54,10 @@
                                     <div class="collapse navbar-collapse">
                                         <ul class="nav navbar-nav">
 											<li><a href="#">Home</a></li>
-                                            <li><a href="#">About</a></li>
+                                            <li><a href="#">About Us</a></li>
 
 											<li class="dropdown">
-                                                <a href="#" data-toggle="dropdown" class="dropdown-toggle">Services</a>
+                                                <a href="#" data-toggle="dropdown" class="dropdown-toggle">Our Services</a>
                                                 <ul class="dropdown-menu">
                                                     <li><a href="#">Services overview</a></li>
                                                     <li class="dropdown dropdown-submenu">
@@ -82,9 +82,9 @@
 
 											<li><a href="#">Media</a></li>
 
-											<li><a href="#">Terms & Conditions</a></li>
+											{{--  <li><a href="#">Terms & Conditions</a></li>  --}}
 
-											<li><a href="#">Contacts</a></li>
+											<li><a href="#">Contacts Us</a></li>
 
                                         </ul><!-- .nav.navbar-nav end -->
 
