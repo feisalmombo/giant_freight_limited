@@ -326,7 +326,7 @@
                                 <div class="owl-item">
                                     <div class="service-feature-box">
                                         <div class="service-media">
-                                            <img src="{{asset('giant/img/pics/img02.jpg')}}" alt="Warehousing"/>
+                                            <img src="{{asset('giant/img/pics/img02.jpg')}}" alt="Ocean Freight"/>
 
                                             <a href="" class="read-more02">
                                                 <span>
@@ -338,7 +338,7 @@
 
                                         <div class="service-body">
                                             <div class="custom-heading">
-                                                <h4>WAREHOUSING</h4>
+                                                <h4>OCEAN FREIGHT</h4>
                                             </div><!-- .custom-heading end -->
 
                                             <p>
@@ -382,7 +382,7 @@
                                 <div class="owl-item">
                                     <div class="service-feature-box">
                                         <div class="service-media">
-                                            <img src="{{asset('giant/img/pics/img13.jpg')}}" alt="Customs Clearance"/>
+                                            <img src="{{asset('giant/img/pics/img13.jpg')}}" alt="Warehousing"/>
 
                                             <a href="" class="read-more02">
                                                 <span>
@@ -394,7 +394,7 @@
 
                                         <div class="service-body">
                                             <div class="custom-heading">
-                                                <h4>CUSTOMS CLEARANCE</h4>
+                                                <h4>WAREHOUSING</h4>
                                             </div><!-- .custom-heading end -->
 
                                             <p>
@@ -440,7 +440,7 @@
                                 <div class="owl-item">
                                     <div class="service-feature-box">
                                         <div class="service-media">
-                                            <img src="{{asset('giant/img/pics/img15.jpg')}}" alt="Ocean Freight"/>
+                                            <img src="{{asset('giant/img/pics/img15.jpg')}}" alt="Customs Clearance"/>
 
                                             <a href="#" class="read-more02">
                                                 <span>
@@ -452,7 +452,7 @@
 
                                         <div class="service-body">
                                             <div class="custom-heading">
-                                                <h4>OCEAN FREIGHT</h4>
+                                                <h4>CUSTOMS CLEARANCE</h4>
                                             </div><!-- .custom-heading end -->
 
                                             <p>
