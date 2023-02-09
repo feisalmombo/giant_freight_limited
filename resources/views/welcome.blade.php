@@ -553,7 +553,7 @@
                             <h2>Download our Company profile</h2>
                         </div>
 
-                        <img src="" class="float-left" alt=""/>
+                        {{--  <img src="" class="float-left" alt=""/>  --}}
                         <br />
 
                         <p>
@@ -561,7 +561,7 @@
                             since 2020.
                         </p>
 
-                        <a class="read-more" href="">
+                        <a class="read-more" href="{{ asset('giant/profile/giant-freight-limited.pdf') }}" target="_blank">
                             <span>
                                 Download our Company Profile
                                 <i class="fa fa-chevron-right"></i>
