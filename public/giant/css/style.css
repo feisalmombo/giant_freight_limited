@@ -3829,7 +3829,7 @@ blockquote{
 }
 
 .footer-dark .footer-widget-container .newsletter .email{
-    color: #bcc0c4;
+    color: #fff;
     background-color: #565f66;
     border: none;
 }
@@ -3907,13 +3907,12 @@ blockquote{
 #footer-wrapper{
     padding-top: 70px;
     position: relative;
-    background-image: url('../img/footer-bkg.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #footer-wrapper.footer-dark{
-    background-color: #25272e;
+    background-color: #1080cc;
 }
 
 #footer-wrapper.footer-light{
@@ -3940,7 +3939,7 @@ blockquote{
 .footer-dark .copyright-container p,
 .footer-dark .copyright-container a,
 .footer-dark .copyright-container span{
-    color: #bcc0c4;
+    color: #fff;
 }
 
 .footer-social-icons{
