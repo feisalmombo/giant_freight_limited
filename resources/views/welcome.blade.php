@@ -663,10 +663,10 @@
                                 </div>
 
                                 <address>
-								Najmi Manzil Building 4th floor, Room 4B,<br />
-								 Clock Tower<br />
-								 P.0. Box 20345 <br />
-								Dar es salaam - Tanzania
+								Railway Street, Plot 158, Near Clock Tower Najmi Manzil Building,<br />
+								 4th Floor Room Number 4B<br />
+								 P.O.Box 70963 <br />
+								Sokoine Drive Dar-es-Salaam - Tanzania
                                 </address>
 
                                 <span class="text-big">
