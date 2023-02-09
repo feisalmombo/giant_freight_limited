@@ -670,7 +670,7 @@
                                 </address>
 
                                 <span class="text-big">
-                                    +255 624 524 149
+                                    +255 758 557 772
                                 </span>
                                 <br />
 
