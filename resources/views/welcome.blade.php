@@ -663,9 +663,9 @@
                                 </div>
 
                                 <address>
-								Najmi Manzil Building 4th floor,<br />
+								Najmi Manzil Building 4th floor, Room 4B,<br />
 								 Clock Tower<br />
-								 P.0. Box 68045 <br />
+								 P.0. Box 20345 <br />
 								Dar es salaam - Tanzania
                                 </address>
 
