@@ -330,7 +330,7 @@
 
                                             <a href="" class="read-more02">
                                                 <span>
-                                                    Learn More
+                                                    Read More
                                                     <i class="fa fa-chevron-right"></i>
                                                 </span>
                                             </a>
