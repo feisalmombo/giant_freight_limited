@@ -54,7 +54,7 @@
                                     <div class="collapse navbar-collapse">
                                         <ul class="nav navbar-nav">
 											<li><a href="#">Home</a></li>
-                                            <li><a href="#">About Us</a></li>
+                                            <li><a href="{{url('/about')}}">About Us</a></li>
 
 											<li class="dropdown">
                                                 <a href="#" data-toggle="dropdown" class="dropdown-toggle">Our Services</a>
