@@ -103,7 +103,7 @@ Route::group(['middleware' => 'CheckUserStatus'], function () {
 });
 
             // About us
-            Route::resource('/about', 'AboutsController');
+            Route::resource('/about', 'AboutController');
 
 
 
