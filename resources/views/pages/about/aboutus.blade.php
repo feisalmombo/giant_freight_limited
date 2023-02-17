@@ -44,7 +44,7 @@
                                     <!-- .navbar-header start -->
                                     <div class="navbar-header">
                                         <div class="logo">
-                                            <a href="#">
+                                            <a href="#" style="padding-bottom: 3px; font-size: 13px; color: #2780BA; font-weight: 700;">
                                                {{--  <img src="{{asset('giant/img/logo.png')}}" alt="Giant Freight"/>  --}}
                                                Giant Freight Limited
                                             </a>
@@ -176,54 +176,51 @@
                         <ul class="aside-widgets">
                             <li class="widget widget_nav_menu clearfix">
                                 <div class="title">
-                                    <h3>Iwe Freight</h3>
+                                    <h3>Giant Freight</h3>
                                 </div>
                                 <ul class="menu">
                                     <li class="menu-item">
-                                        <a href="warehousing.php">Ware Housing</a>
+                                        <a href="#">WareHousing</a>
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="supply-chain-management.php">Supply Chain Management</a>
+                                        <a href="#">Supply Chain Management</a>
                                     </li>
 
                                     <li class="menu-item current-menu-item">
-                                        <a href="packaging-options.php">Packaging Options</a>
+                                        <a href="#">Packaging Options</a>
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="consulting-services.php">Consulting Services</a>
+                                        <a href="#">Consulting Services</a>
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="services02.php">Logistics</a>
+                                        <a href="#">Logistics</a>
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="overland-transportation.php">Overland Transportation</a>
+                                        <a href="#">Overland Transportation</a>
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="ocean-freight.php">Ocean Freight</a>
+                                        <a href="#">Ocean Freight</a>
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="large-projects.php">Large Projects</a>
+                                        <a href="#">Large Projects</a>
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="rail-transportation.php">Rail Transportation</a>
+                                        <a href="#">Rail Transportation</a>
                                     </li>
                                 </ul><!-- .menu end -->
                             </li><!-- .widget.widget_nav_menu end -->
 
                             <li class="widget widget-text">
                                 <div class="title">
-                                    <h3>brochure download</h3>
+                                    <h3>Download Our Company Profile</h3>
                                 </div>
-
-                                <img src="img/pics/brochure01.jpg" alt="Trucking brochure"/>
-                                <br />
 
                                 <a href="trucking_brochure.pdf" target="_blank" class="download-link">
                                     <span>
