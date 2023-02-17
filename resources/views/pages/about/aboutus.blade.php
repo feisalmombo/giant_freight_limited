@@ -335,39 +335,7 @@
                             </div><!-- .col-md-7 end -->
                         </div><!-- .row end -->
 
-                        <div class="custom-heading">
-                            <h3>the board of directors</h3>
-                        </div><!-- .custom-heading end -->
 
-                        <ul class="team-list clearfix">
-                            <li>
-                                <img src="img/pics/team01.jpg" alt=""/>
-
-                                <div class="team-details-container">
-                                    <div class="team-details">
-                                        <h5>Filbert Mwendwa</h5>
-                                        <p class="position">
-                                            Company founder
-                                        </p>
-                                    </div><!-- .team-details end -->
-
-                                    <p>
-                                        Iwe Freight welcomes your business in East Africa
-										and would like to help you in providing our experience
-										in Clearing & Forwarding, Moving & Expert handling of
-										your containers from Seaport/Airport. We are committed
-										to building strong relationships with our clients
-										and making sure that they are satisfied. We are working with the following
-										Government departments:-
-                                    </p>
-
-									<img src="media-iwe/supporters.jpg" alt="Partners" />
-
-
-
-                                </div><!-- .team-details-container end -->
-                            </li><!-- team-member end -->
-                        </ul><!-- .team list end -->
                     </div><!-- .col-md-9 end -->
                 </div><!-- .row end -->
             </div><!-- .container end -->
