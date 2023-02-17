@@ -1,51 +1,109 @@
-<footer class="main-footer">
-    <div class="pull-right hidden-xs">
-      <b>Version</b> 1.0.0
-    </div>
-    <strong>
-        &copy; {{date('Y')}} Golden Forest Logistics Company Limited All Rights Reserved. <a href="#" target="_blank"><strong style="color:#EE4323;">A Product by Doctor with africa</strong></a>
-    </strong>
-</footer>
+<div id="footer-wrapper" class="footer-dark">
+    <footer id="footer">
+        <div class="container">
+            <div class="row">
+                <ul class="col-md-3 col-sm-6 footer-widget-container clearfix">
+                    <!-- .widget.widget_text -->
+                    <li class="widget widget_newsletterwidget">
+                        <div class="title">
+                            <h3>Newsletter subscribe</h3>
+                        </div>
+
+                        <p>
+                            Subscribe to our newsletter and we will
+                            inform you about newest projects and promotions.
+                        </p>
+
+                        <br />
+
+                        <form class="newsletter">
+                            <input class="email" type="email" placeholder="Your email...">
+                            <input type="submit" class="submit" value="">
+                        </form>
+
+                    </li><!-- .widget.widget_newsletterwidget end -->
+                </ul><!-- .col-md-3.footer-widget-container end -->
+
+                <ul class="col-md-3 col-sm-6 footer-widget-container">
+                    <!-- .widget-pages start -->
+                    <li class="widget widget_pages">
+                        <div class="title">
+                            <h3>quick links</h3>
+                        </div>
+
+                        <ul>
+                            <li><a href="#">About us</a></li>
+                            <li><a href="#">Contact Us</a></li>
+                        </ul>
 
 
-<!-- jQuery 3 -->
-<script src="{{asset('temp/bower_components/jquery/dist/jquery.min.js')}}"></script>
-<script src="{{asset('temp/dist/js/permission_ajax.js')}}"></script>
+                    </li><!-- .widget-pages end -->
+                </ul><!-- .col-md-3.footer-widget-container end -->
 
-<!--JQueryFile -->
-<!-- Bootstrap 3.3.7 -->
-<script src="{{asset('temp/bower_components/bootstrap/dist/js/bootstrap.min.js')}}"></script>
-<!-- DataTables -->
-<script src="{{asset('temp/bower_components/datatables.net/js/jquery.dataTables.min.js')}}"></script>
-<script src="{{asset('temp/bower_components/datatables.net-bs/js/dataTables.bootstrap.min.js')}}"></script>
-<!-- SlimScroll -->
-<script src="{{asset('temp/bower_components/jquery-slimscroll/jquery.slimscroll.min.js')}}"></script>
-<!-- FastClick -->
-<script src="{{asset('temp/bower_components/fastclick/lib/fastclick.js')}}"></script>
-<!-- AdminLTE App -->
-<script src="{{asset('temp/dist/js/adminlte.min.js')}}"></script>
-<!-- AdminLTE for demo purposes -->
-<script src="{{asset('temp/dist/js/demo.js')}}"></script>
-<!-- AdminLTE for requests funs -->
-<!-- page script -->
-<script>
+                <ul class="col-md-3 col-sm-6 footer-widget-container">
+                    <!-- .widget-pages start -->
+                    <li class="widget widget_pages">
+                        <div class="title">
+                            <h3>Our Services</h3>
+                        </div>
 
+                        <ul>
+                             <li><a href="#">Road Transport</a></li>
+                             <li><a href="#">Air Freight</a></li>
+                             <li><a href="#">Ocean Freight</a></li>
+                             <li><a href="#">Customs Clearance</a></li>
+                             <li><a href="#">Warehousing</a></li>
+                             <li><a href="#">Railway Services</a></li>
+                             <li><a href="#">Value Added Services</a></li>
+                        </ul>
 
-  $(function () {
-    $('#example1').DataTable()
-    $('#example2').DataTable({
-      'paging'      : true,
-      'lengthChange': false,
-      'searching'   : false,
-      'ordering'    : true,
-      'info'        : true,
-      'autoWidth'   : false
-    })
-  })
-</script>
+                    </li><!-- .widget-pages end -->
+                </ul><!-- .col-md-3.footer-widget-container end -->
 
-</body>
-</html>
+                <ul class="col-md-3 col-sm-6 footer-widget-container">
+                    <li class="widget widget-text">
+                        <div class="title">
+                            <h3>contact us</h3>
+                        </div>
 
+                        <address>
+                        Railway Street, Plot 158, Near Clock Tower Najmi Manzil Building,<br />
+                         4th Floor Room Number 4B<br />
+                         P.O.Box 70963 <br />
+                        Sokoine Drive Dar-es-Salaam - Tanzania
+                        </address>
 
+                        <span class="text-big">
+                            +255 758 557 772
+                        </span>
+                        <br />
 
+                        <a href="mailto:">info@giantfreight.com</a>
+                        <br />
+                        <ul class="footer-social-icons">
+                            <li><a href="#" class="fa fa-facebook"></a></li>
+                            <li><a href="#" class="fa fa-instagram"></a></li>
+                            <li><a href="#" class="fa fa-twitter"></a></li>
+                        </ul><!-- .footer-social-icons end -->
+                    </li><!-- .widget.widget-text end -->
+                </ul><!-- .col-md-3.footer-widget-container end -->
+            </div><!-- .row end -->
+        </div><!-- .container end -->
+    </footer><!-- #footer end -->
+
+    <div class="copyright-container">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <p>Giant Freight Limited 2020-2023. All RIGHTS RESERVED.</p>
+                </div><!-- .col-md-6 end -->
+
+                <div class="col-md-6">
+                    <p class="align-right">DESIGNED AND DEVELOPED BY Feisal Suleiman Mombo</p>
+                </div><!-- .col-md-6 end -->
+            </div><!-- .row end -->
+        </div><!-- .container end -->
+    </div><!-- .copyright-container end -->
+
+    <a href="#" class="scroll-up">Scroll</a>
+</div>
