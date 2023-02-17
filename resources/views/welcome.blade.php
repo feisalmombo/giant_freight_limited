@@ -43,7 +43,7 @@
                                     <!-- .navbar-header start -->
                                     <div class="navbar-header">
                                         <div class="logo">
-                                            <a href="index-2.html" style="padding-bottom: 3px; font-size: 13px; color: #2780BA; font-weight: 700;">
+                                            <a href="#" style="padding-bottom: 3px; font-size: 13px; color: #2780BA; font-weight: 700;">
                                                  {{--  <img src="{{asset('giant/img/logo.png')}}" alt="Giant Freight"/>  --}}
                                                  Giant Freight Limited
                                             </a>
@@ -130,6 +130,7 @@
                                         </div><!-- #dl-menu end -->
 
                                     </div><!-- MAIN NAVIGATION END -->
+
                                 </nav><!-- .navbar.navbar-default end -->
                             </div><!-- .col-md-12 end -->
                         </div><!-- .row end -->
