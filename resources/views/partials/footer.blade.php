@@ -32,7 +32,7 @@
                         </div>
 
                         <ul>
-                            <li><a href="#">About us</a></li>
+                            <li><a href="{{ url('/about') }}">About us</a></li>
                             <li><a href="#">Contact Us</a></li>
                         </ul>
 
