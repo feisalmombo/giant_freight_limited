@@ -222,10 +222,10 @@
                                     <h3>Download Our Company Profile</h3>
                                 </div>
 
-                                <a href="trucking_brochure.pdf" target="_blank" class="download-link">
+                                <a href="{{ asset('giant/profile/giant-freight-limited.pdf') }}" target="_blank" class="download-link">
                                     <span>
                                         <i class="fa fa-file-pdf-o"></i>
-                                        iwe Freight ltd.pdf
+                                        Company Profile
                                     </span>
                                 </a>
                             </li><!-- .widget.widget-text end -->
@@ -236,7 +236,7 @@
                                    <h3>contact us</h3>
                                 </div>
 
-                                <img src="img/pics/locations.jpg" alt="contact us"/>
+                                <img src="{{ asset('giant/img/pics/locations.jpg') }}" alt="contact us"/>
 
                                 <br />
 
@@ -245,7 +245,7 @@
                                     us today!
                                 </p>
 
-                                <a href="contact-us.php" class="read-more">
+                                <a href="#" class="read-more">
                                     <span>
                                         Contact us
                                         <i class="fa fa-chevron-right"></i>
@@ -256,10 +256,10 @@
                     </aside><!-- .aside.aside-left end -->
                     <div class="col-md-9">
                         <div class="custom-heading">
-                            <h2>Iwe Freight</h2>
+                            <h2>Giant Freight Limited</h2>
                         </div>
 
-                        <img class="float-right" src="img/pics/img25.jpg" alt="" width="360"/>
+                        <img class="float-right" src="{{ asset('giant/img/pics/img16.jpg') }}" alt="" width="360"/>
 
                         <p>
                             We are licensed by the Tanzania Customs service providing
@@ -284,7 +284,7 @@
 
                                 <p>
 
-								To use technology leverage, advanced equipment
+								To technology leverage, advanced equipment
 								and innovative ideas to provide efficient, timely
 								and high quality Freight and Logistics services
 								to our esteemed clients.
@@ -298,7 +298,7 @@
 
                             <div class="col-md-7">
                                 <div class="custom-heading">
-                                    <h3>our promise</h3>
+                                    <h3>our Vision</h3>
                                 </div><!-- .custom-heading end -->
 
                                 <ul class="fa-ul">
