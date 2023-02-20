@@ -57,7 +57,7 @@
                                             <li><a href="{{url('/about')}}">About Us</a></li>
 
 											<li class="dropdown">
-                                                <a href="#" data-toggle="dropdown" class="dropdown-toggle">Our Services</a>
+                                                <a href="{{ url('/') }}" data-toggle="dropdown" class="dropdown-toggle">Our Services</a>
                                                 <ul class="dropdown-menu">
                                                     <li><a href="#">Services overview</a></li>
                                                     <li class="dropdown dropdown-submenu">
