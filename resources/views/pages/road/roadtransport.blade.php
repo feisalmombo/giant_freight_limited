@@ -237,7 +237,7 @@
                                     us today!
                                 </p>
 
-                                <a href="contact-us.php" class="read-more">
+                                <a href="#" class="read-more">
                                     <span>
                                         Contact us
                                         <i class="fa fa-chevron-right"></i>
@@ -247,7 +247,7 @@
                         </ul><!-- .aside-widgets end -->
                     </aside><!-- .aside.aside-left end -->
                     <div class="col-md-9">
-                        <img src="img/pics/img27.jpg" alt=""/>
+                        <img src="{{asset('giant/img/pics/img27.jpg')}}" alt=""/>
 
                         <br />
 
@@ -256,12 +256,12 @@
                         </div>
 
                         <p>
-                           Full loads, part loads and groupage
-Overland freight is an affordable shipping method for transporting your goods domestically throughout Tanzania and across East Africa. Whether your ground transport needs are a single shipment, a few pallets or multiple full loads every week, we value and know how to handle your cargo.
+                        Full loads, part loads and groupage
+                        Overland freight is an affordable shipping method for transporting your goods domestically throughout Tanzania and across East Africa. Whether your ground transport needs are a single shipment, a few pallets or multiple full loads every week, we value and know how to handle your cargo.
 
-When your shipment requires overnight, high speed or international delivery outside of East Africa, consider using our sea freight or air freight services as transportation alternatives.
+                        When your shipment requires overnight, high speed or international delivery outside of East Africa, consider using our sea freight or air freight services as transportation alternatives.
 
-Road Transport throughout Tanzania and East Africa.
+                        Road Transport throughout Tanzania and East Africa.
 
 
                         </p>
@@ -279,7 +279,7 @@ Road Transport throughout Tanzania and East Africa.
 
                         <br />
 
-                        <img class="float-right" width="360" src="img/pics/img25.jpg" alt=""/>
+                        <img class="float-right" width="360" src="{{asset('giant/img/pics/img25.jpg')}}" alt=""/>
 
                         <ul class="fa-ul">
                             <li>
@@ -313,38 +313,6 @@ Road Transport throughout Tanzania and East Africa.
                             </li>
                         </ul><!-- .fa-ul end -->
 
-                        <br />
-                        <br />
-
-                        <div class="custom-heading">
-                            <h3>industries covered</h3>
-                        </div><!-- .custom-heading end -->
-
-                        <ul class="service-list-big-icons clearfix">
-                            <li>
-                                <div class="icon-container">
-                                    <img src="img/svg/pi-cargo-retail.svg" alt="retail svg icon"/>
-                                </div>
-
-                                <h4>Textile Logistics</h4>
-                            </li>
-
-                            <li>
-                                <div class="icon-container">
-                                    <img src="img/svg/pi-food-beverage.svg" alt="food and beverage svg icon"/>
-                                </div>
-
-                                <h4>Retail Logistics</h4>
-                            </li>
-
-                            <li>
-                                <div class="icon-container">
-                                    <img src="img/svg/pi-mark-energy.svg" alt="retail svg icon"/>
-                                </div>
-
-                                <h4>Oil & Gas Logistics</h4>
-                            </li>
-                        </ul><!-- .service-list-big-icons end -->
                     </div><!-- .col-md-9 end -->
                 </div><!-- .row end -->
             </div><!-- .container end -->
