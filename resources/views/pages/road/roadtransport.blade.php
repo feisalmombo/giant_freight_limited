@@ -102,7 +102,7 @@
                                                             <a href="#">Logistics</a>
                                                             <ul class="dl-submenu">
 																<li><a href="#">Logistics</a></li>
-																<li><a href="#">Overland transportation</a></li>
+																<li><a href="#">Road Transport</a></li>
 																<li><a href="#">Air freight</a></li>
 																<li><a href="#">Ocean freight</a></li>
 																<li><a href="#">Large projects</a></li>
@@ -137,20 +137,20 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <h1>Services - Overland Transportation</h1>
+                        <h1>Services - Road Transport</h1>
 
                         <div class="breadcrumb-container">
                             <ul class="breadcrumb clearfix">
                                 <li>You are here:</li>
                                 <li>
-                                    <a href="index.html">Home</a>
+                                    <a href="{{ url('/') }}">Home</a>
                                 </li>
                                 <li>
-                                    <a href="services02.html">Services</a>
+                                    <a href="{{ url('/') }}">Services</a>
                                 </li>
 
                                 <li>
-                                    <a href="#">Overland transportation</a>
+                                    <a href="{{ url('/road-transport') }}">Road Transport</a>
                                 </li>
                             </ul><!-- .breadcrumb end -->
                         </div><!-- .breadcrumb-container end -->
@@ -168,59 +168,56 @@
                         <ul class="aside-widgets">
                             <li class="widget widget_nav_menu clearfix">
                                 <div class="title">
-                                    <h3>Iwe Freight</h3>
+                                    <h3>Giant Freight</h3>
                                 </div>
                                 <ul class="menu">
                                     <li class="menu-item">
-                                        <a href="warehousing.php">Ware Housing</a>
+                                        <a href="#">Ware Housing</a>
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="supply-chain-management.php">Supply Chain Management</a>
+                                        <a href="#">Supply Chain Management</a>
                                     </li>
 
                                     <li class="menu-item current-menu-item">
-                                        <a href="packaging-options.php">Packaging Options</a>
+                                        <a href="#">Packaging Options</a>
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="consulting-services.php">Consulting Services</a>
+                                        <a href="#">Consulting Services</a>
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="services02.php">Logistics</a>
+                                        <a href="#">Logistics</a>
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="overland-transportation.php">Overland Transportation</a>
+                                        <a href="#">Road Transport</a>
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="ocean-freight.php">Ocean Freight</a>
+                                        <a href="#">Ocean Freight</a>
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="large-projects.php">Large Projects</a>
+                                        <a href="#">Large Projects</a>
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="rail-transportation.php">Rail Transportation</a>
+                                        <a href="#">Rail Transportation</a>
                                     </li>
                                 </ul><!-- .menu end -->
                             </li><!-- .widget.widget_nav_menu end -->
 
                             <li class="widget widget-text">
                                 <div class="title">
-                                    <h3>brochure download</h3>
+                                    <h3>Download Our Company Profile</h3>
                                 </div>
 
-                                <img src="img/pics/brochure01.jpg" alt="Trucking brochure"/>
-                                <br />
-
-                                <a href="trucking_brochure.pdf" target="_blank" class="download-link">
+                                <a href="{{ asset('giant/profile/giant-freight-limited.pdf') }}" target="_blank" class="download-link">
                                     <span>
                                         <i class="fa fa-file-pdf-o"></i>
-                                        iwe Freight ltd.pdf
+                                        Company Profile
                                     </span>
                                 </a>
                             </li><!-- .widget.widget-text end -->
@@ -231,7 +228,7 @@
                                    <h3>contact us</h3>
                                 </div>
 
-                                <img src="img/pics/locations.jpg" alt="contact us"/>
+                                <img src="{{asset('giant/img/pics/locations.jpg')}}" alt="contact us"/>
 
                                 <br />
 
@@ -255,7 +252,7 @@
                         <br />
 
                         <div class="custom-heading">
-                            <h2>overland transportation</h2>
+                            <h2>Road Transport</h2>
                         </div>
 
                         <p>
@@ -264,7 +261,7 @@ Overland freight is an affordable shipping method for transporting your goods do
 
 When your shipment requires overnight, high speed or international delivery outside of East Africa, consider using our sea freight or air freight services as transportation alternatives.
 
-Overland transportation throughout Tanzania and East Africa.
+Road Transport throughout Tanzania and East Africa.
 
 
                         </p>
@@ -276,7 +273,7 @@ Overland transportation throughout Tanzania and East Africa.
                         <h3>Your benefits</h3>
 
                         <p>
-                            Overland transportation is designed to deliver the goods on time across East Africa. With ease you can track your goods during the transportation
+                            Road Transport is designed to deliver the goods on time across East Africa. With ease you can track your goods during the transportation
 							ensuring flexibility and reliability.
                         </p>
 
@@ -413,7 +410,7 @@ Overland transportation throughout Tanzania and East Africa.
 									 <li><a href="packaging-options.php">Packaging Options</a></li>
 									 <li><a href="consulting-services.php">Consulting Services</a></li>
 									 <li><a href="services02.php">Logistics</a></li>
-									 <li><a href="overland-transportation.php">Overland Transportation</a></li>
+									 <li><a href="overland-transportation.php">Road Transport</a></li>
 									 <li><a href="ocean-freight.php">Ocean Freight</a></li>
 									 <li><a href="large-projects.php">Large Projects</a></li>
 									 <li><a href="rail-transportation.php">Rail Transportation</a></li>
