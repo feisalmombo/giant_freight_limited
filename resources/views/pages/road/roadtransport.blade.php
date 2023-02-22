@@ -5,7 +5,7 @@
 
 <head>
 
- <title>Iwe Freight - Clearing and forwarding company in East Africa</title>
+ <title>Giant Freight Limited - Road Transport</title>
         <meta name="description" content="Iwe Freight - Clearing and forwarding company in East Africa">
         <meta name="author" content="Iwe Freight">
         <meta name="keywords" content="transportation, logistics, transportation , logistics , cargo, business">

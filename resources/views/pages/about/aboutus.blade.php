@@ -4,7 +4,7 @@
 
 <head>
 
- <title>Giant Freight Limited - Welcome Page</title>
+ <title>Giant Freight Limited - About Us</title>
         <meta name="description" content="Giant Freight">
         <meta name="author" content="Giant Freight">
         <meta name="keywords" content="transportation, logistics, transportation , logistics , cargo, business">
