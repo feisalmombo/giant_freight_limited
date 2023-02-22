@@ -58,7 +58,7 @@
                                             <li><a href="{{url('/about')}}">About Us</a></li>
 
 											<li class="dropdown">
-                                                <a href="#" data-toggle="dropdown" class="dropdown-toggle">Our Services</a>
+                                                <a href="{{ url('/') }}" data-toggle="dropdown" class="dropdown-toggle">Our Services</a>
                                                 <ul class="dropdown-menu">
                                                     <li><a href="{{url('/road-transport')}}">Road Transport</a></li>
                                                     <li><a href="#">Air Freight</a></li>
@@ -85,16 +85,16 @@
 
                                             <ul class="dl-menu">
                                                 <li>
-                                                    <a href="#">Home</a>
+                                                    <a href="{{ url('/') }}">Home</a>
 
                                                 </li>
 
-                                                <li><a href="#">About</a></li>
+                                                <li><a href="{{ url('/about') }}">About</a></li>
 
                                                 <li>
-                                                    <a href="#">Services</a>
+                                                    <a href="{{ url('/') }}">Services</a>
                                                     <ul class="dl-submenu">
-                                                        <li><a href="#">Services overview</a></li>
+                                                        <li><a href="{{ url('/') }}">Services overview</a></li>
                                                         <li>
                                                             <a href="#">Logistics</a>
                                                             <ul class="dl-submenu">
