@@ -1,10 +1,10 @@
 
 <!DOCTYPE html>
 <html>
-    
+
 
 <head>
-      
+
  <title>Iwe Freight - Clearing and forwarding company in East Africa</title>
         <meta name="description" content="Iwe Freight - Clearing and forwarding company in East Africa">
         <meta name="author" content="Iwe Freight">
@@ -27,12 +27,12 @@
         <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,800,700,600' rel='stylesheet' type='text/css'>
 
         <!-- Font icons -->
-        <link rel="stylesheet" href="icon-fonts/font-awesome-4.3.0/css/font-awesome.min.css"/><!-- Fontawesome icons css -->   
+        <link rel="stylesheet" href="icon-fonts/font-awesome-4.3.0/css/font-awesome.min.css"/><!-- Fontawesome icons css -->
 </head>
 
     <body>
-        
-        
+
+
         <div class="header-wrapper header-transparent">
             <!-- .header.header-style01 start -->
             <header id="header"  class="header-style01">
@@ -59,7 +59,7 @@
                                         <ul class="nav navbar-nav">
 											<li><a href="index.php">Home</a></li>
                                             <li><a href="about.php">About</a></li>
-                                            
+
 											<li class="dropdown">
                                                 <a href="#" data-toggle="dropdown" class="dropdown-toggle">Services</a>
                                                 <ul class="dropdown-menu">
@@ -73,7 +73,7 @@
                                                             <li><a href="ocean-freight.php">Ocean freight</a></li>
                                                             <li><a href="large-projects.php">Large projects</a></li>
                                                             <li><a href="rail-transportation.php">Rail international shipping</a></li>
-                                                            
+
                                                         </ul><!-- .dropdown-menu end -->
                                                     </li><!-- .dropdown-submenu end -->
                                                     <li><a href="warehousing.php">Warehousing</a></li>
@@ -83,13 +83,13 @@
                                                 </ul><!-- .dropdown-menu end -->
                                             </li><!-- .dropdown end -->
 
-											
+
 											<li><a href="media.php">Media</a></li>
 
 											<li><a href="terms-conditions.php">Terms & Conditions</a></li>
-											
+
 											<li><a href="contact-us.php">Contacts</a></li>
-											
+
                                         </ul><!-- .nav.navbar-nav end -->
 
                                         <!-- RESPONSIVE MENU -->
@@ -99,7 +99,7 @@
                                             <ul class="dl-menu">
                                                 <li>
                                                     <a href="index.php">Home</a>
-                                                    
+
                                                 </li>
 
                                                 <li><a href="about-php">About</a></li>
@@ -125,8 +125,8 @@
                                                     <li><a href="consulting-services.php">Consulting services</a></li>
                                                     </ul><!-- dl-submenu end -->
                                                 </li>
-												
-												
+
+
 												<li><a href="media.php">Media</a></li>
 												<li><a href="terms-conditions.php">Terms & Conditions</a></li>
 												<li><a href="contact-us.php">Contacts</a></li>
@@ -137,7 +137,7 @@
                                         <div id="search">
                                             <form action="#" method="get">
                                                 <input class="search-submit" type="submit" />
-                                                <input id="m_search" name="s" type="text" placeholder="Type and hit enter..." />                        
+                                                <input id="m_search" name="s" type="text" placeholder="Type and hit enter..." />
                                             </form>
                                         </div><!-- #search end -->
                                     </div><!-- MAIN NAVIGATION END -->                                </nav><!-- .navbar.navbar-default end -->
@@ -179,7 +179,7 @@
         <div class="page-content">
             <div class="container">
                 <div class="row">
-				
+
                      <aside class="col-md-3 aside aside-left">
                         <ul class="aside-widgets">
                             <li class="widget widget_nav_menu clearfix">
@@ -252,7 +252,7 @@
                                 <br />
 
                                 <p>
-                                    Let us know what can we do for you. Contact 
+                                    Let us know what can we do for you. Contact
                                     us today!
                                 </p>
 
@@ -367,7 +367,7 @@ Overland transportation throughout Tanzania and East Africa.
                     </div><!-- .col-md-9 end -->
                 </div><!-- .row end -->
             </div><!-- .container end -->
-        </div><!-- .page-content end -->       
+        </div><!-- .page-content end -->
 
      <div id="footer-wrapper" class="footer-dark">
             <footer id="footer">
@@ -381,7 +381,7 @@ Overland transportation throughout Tanzania and East Africa.
                                 </div>
 
                                 <p>
-                                    Subscribe to our newsletter and we will 
+                                    Subscribe to our newsletter and we will
                                     inform you about newest projects and promotions.
                                 </p>
 
@@ -391,11 +391,11 @@ Overland transportation throughout Tanzania and East Africa.
                                     <input class="email" type="email" placeholder="Your email...">
                                     <input type="submit" class="submit" value="">
                                 </form>
-                                
+
                                 <br/> <br/>
                                  <img src="img/payment-options.png" alt="Payment Options" style="width:100%; ">
-                                
-                                
+
+
                             </li><!-- .widget.widget_newsletterwidget end -->
                         </ul><!-- .col-md-3.footer-widget-container end -->
 
@@ -411,8 +411,8 @@ Overland transportation throughout Tanzania and East Africa.
                                     <li><a href="terms-conditions.php">Terms & Conditions</a></li>
                                     <li><a href="contact-us.php">Contact Us</a></li>
                                 </ul>
-								
-							
+
+
                             </li><!-- .widget-pages end -->
                         </ul><!-- .col-md-3.footer-widget-container end -->
 
@@ -434,7 +434,7 @@ Overland transportation throughout Tanzania and East Africa.
 									 <li><a href="large-projects.php">Large Projects</a></li>
 									 <li><a href="rail-transportation.php">Rail Transportation</a></li>
                                 </ul>
-								
+
                             </li><!-- .widget-pages end -->
                         </ul><!-- .col-md-3.footer-widget-container end -->
 
@@ -448,7 +448,7 @@ Overland transportation throughout Tanzania and East Africa.
 								King Palace House 2nd floor,<br />
 								 Mnazi Mmoja Area<br />
 								 P.0. Box 68045 <br />
-								Dar es salaam - Tanzania 
+								Dar es salaam - Tanzania
                                 </address>
 
                                 <span class="text-big">
@@ -487,7 +487,7 @@ Overland transportation throughout Tanzania and East Africa.
         </div><!-- #footer-wrapper end -->
         <script src="js/jquery-2.1.4.min.js"></script><!-- jQuery library -->
         <script src="js/bootstrap.min.js"></script><!-- .bootstrap script -->
-        <script src="js/jquery.srcipts.min.js"></script><!-- modernizr, retina, stellar for parallax -->  
+        <script src="js/jquery.srcipts.min.js"></script><!-- modernizr, retina, stellar for parallax -->
         <script src="js/jquery.dlmenu.min.js"></script><!-- for responsive menu -->
         <script src="style-switcher/styleSwitcher.js"></script><!-- styleswitcher script -->
         <script src="js/include.js"></script><!-- custom js functions -->
