@@ -47,8 +47,9 @@
                                     <!-- .navbar-header start -->
                                     <div class="navbar-header">
                                         <div class="logo">
-                                            <a href="index.html">
-                                                <img src="img/logo.png" alt="Iwe Freight"/>
+                                            <a href="#" style="padding-bottom: 3px; font-size: 13px; color: #2780BA; font-weight: 700;">
+                                                {{--  <img src="{{asset('giant/img/logo.png')}}" alt="Giant Freight"/>  --}}
+                                                Giant Freight Limited
                                             </a>
                                         </div><!-- .logo end -->
                                     </div><!-- .navbar-header start -->
@@ -56,25 +57,13 @@
                                     <!-- MAIN NAVIGATION -->
                                     <div class="collapse navbar-collapse">
                                         <ul class="nav navbar-nav">
-											<li><a href="index.php">Home</a></li>
-                                            <li><a href="about.php">About</a></li>
+											<li><a href="{{ url('/') }}">Home</a></li>
+                                            <li><a href="{{ url('/about') }}">About</a></li>
 
 											<li class="dropdown">
-                                                <a href="#" data-toggle="dropdown" class="dropdown-toggle">Services</a>
+                                                <a href="{{ url('/') }}" data-toggle="dropdown" class="dropdown-toggle">Services</a>
                                                 <ul class="dropdown-menu">
                                                     <li><a href="services01.php">Services overview</a></li>
-                                                    <li class="dropdown dropdown-submenu">
-                                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Logistics</a>
-                                                        <ul class="dropdown-menu">
-                                                            <li><a href="services02.php">Logistics</a></li>
-                                                            <li><a href="overland-transportation.php">Overland transportation</a></li>
-                                                            <li><a href="air-freight.php">Air freight</a></li>
-                                                            <li><a href="ocean-freight.php">Ocean freight</a></li>
-                                                            <li><a href="large-projects.php">Large projects</a></li>
-                                                            <li><a href="rail-transportation.php">Rail international shipping</a></li>
-
-                                                        </ul><!-- .dropdown-menu end -->
-                                                    </li><!-- .dropdown-submenu end -->
                                                     <li><a href="warehousing.php">Warehousing</a></li>
                                                     <li><a href="supply-chain-management.php">Supply chain management</a></li>
                                                     <li><a href="packaging-options.php">Packaging options</a></li>

@@ -61,18 +61,6 @@
                                                 <a href="#" data-toggle="dropdown" class="dropdown-toggle">Our Services</a>
                                                 <ul class="dropdown-menu">
                                                     <li><a href="#">Services overview</a></li>
-                                                    <li class="dropdown dropdown-submenu">
-                                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Logistics</a>
-                                                        <ul class="dropdown-menu">
-                                                            <li><a href="#">Logistics</a></li>
-                                                            <li><a href="#">Overland transportation</a></li>
-                                                            <li><a href="#">Air freight</a></li>
-                                                            <li><a href="#">Ocean freight</a></li>
-                                                            <li><a href="#">Large projects</a></li>
-                                                            <li><a href="#">Rail international shipping</a></li>
-
-                                                        </ul><!-- .dropdown-menu end -->
-                                                    </li><!-- .dropdown-submenu end -->
                                                     <li><a href="#">Warehousing</a></li>
                                                     <li><a href="#">Supply chain management</a></li>
                                                     <li><a href="#">Packaging options</a></li>
