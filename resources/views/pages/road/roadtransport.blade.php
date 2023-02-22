@@ -118,7 +118,6 @@
 
 
 												<li><a href="#">Media</a></li>
-												<li><a href="#">Terms & Conditions</a></li>
 												<li><a href="#">Contacts</a></li>
                                             </ul><!-- .dl-menu end -->
                                         </div><!-- #dl-menu end -->
@@ -322,11 +321,11 @@
         @include('partials.footer')
         <!-- #footer-wrapper end -->
 
-        <script src="js/jquery-2.1.4.min.js"></script><!-- jQuery library -->
-        <script src="js/bootstrap.min.js"></script><!-- .bootstrap script -->
-        <script src="js/jquery.srcipts.min.js"></script><!-- modernizr, retina, stellar for parallax -->
-        <script src="js/jquery.dlmenu.min.js"></script><!-- for responsive menu -->
-        <script src="style-switcher/styleSwitcher.js"></script><!-- styleswitcher script -->
-        <script src="js/include.js"></script><!-- custom js functions -->
+        <script src="{{asset('giant/js/jquery-2.1.4.min.js')}}"></script><!-- jQuery library -->
+        <script src="{{asset('giant/js/bootstrap.min.js')}}"></script><!-- .bootstrap script -->
+        <script src="{{asset('giant/js/jquery.srcipts.min.js')}}"></script><!-- modernizr, retina, stellar for parallax -->
+        <script src="{{asset('giant/js/jquery.dlmenu.min.js')}}"></script><!-- for responsive menu -->
+        <script src="{{asset('giant/style-switcher/styleSwitcher.js')}}"></script><!-- styleswitcher script -->
+        <script src="{{asset('giant/js/include.js')}}"></script><!-- custom js functions -->
     </body>
 </html>
