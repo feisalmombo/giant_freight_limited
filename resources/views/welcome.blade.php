@@ -60,10 +60,12 @@
                                                 <a href="{{ url('/') }}" data-toggle="dropdown" class="dropdown-toggle">Our Services</a>
                                                 <ul class="dropdown-menu">
                                                     <li><a href="{{url('/road-transport')}}">Road Transport</a></li>
+                                                    <li><a href="#">Air Freight</a></li>
+                                                    <li><a href="#">Ocean Freight</a></li>
+                                                    <li><a href="#">Customs Clearance</a></li>
                                                     <li><a href="#">Warehousing</a></li>
-                                                    <li><a href="#">Supply chain management</a></li>
-                                                    <li><a href="#">Packaging options</a></li>
-                                                    <li><a href="#">Consulting services</a></li>
+                                                    <li><a href="#">Value Added Servives</a></li>
+                                                    <li><a href="#">Railway Services</a></li>
                                                 </ul><!-- .dropdown-menu end -->
                                             </li><!-- .dropdown end -->
 
