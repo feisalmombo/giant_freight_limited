@@ -63,20 +63,22 @@
 											<li class="dropdown">
                                                 <a href="{{ url('/') }}" data-toggle="dropdown" class="dropdown-toggle">Services</a>
                                                 <ul class="dropdown-menu">
-                                                    <li><a href="services01.php">Services overview</a></li>
-                                                    <li><a href="warehousing.php">Warehousing</a></li>
-                                                    <li><a href="supply-chain-management.php">Supply chain management</a></li>
-                                                    <li><a href="packaging-options.php">Packaging options</a></li>
-                                                    <li><a href="consulting-services.php">Consulting services</a></li>
+                                                    <li><a href="{{url('/road-transport')}}">Road Transport</a></li>
+                                                    <li><a href="#">Air Freight</a></li>
+                                                    <li><a href="#">Ocean Freight</a></li>
+                                                    <li><a href="#">Customs Clearance</a></li>
+                                                    <li><a href="#">Warehousing</a></li>
+                                                    <li><a href="#">Value Added Servives</a></li>
+                                                    <li><a href="#">Railway Services</a></li>
                                                 </ul><!-- .dropdown-menu end -->
                                             </li><!-- .dropdown end -->
 
 
-											<li><a href="media.php">Media</a></li>
+											<li><a href="#">Media</a></li>
 
-											<li><a href="terms-conditions.php">Terms & Conditions</a></li>
+											<li><a href="#">Terms & Conditions</a></li>
 
-											<li><a href="contact-us.php">Contacts</a></li>
+											<li><a href="#">Contacts</a></li>
 
                                         </ul><!-- .nav.navbar-nav end -->
 
@@ -86,16 +88,16 @@
 
                                             <ul class="dl-menu">
                                                 <li>
-                                                    <a href="index.php">Home</a>
+                                                    <a href="{{ url('/') }}">Home</a>
 
                                                 </li>
 
-                                                <li><a href="about-php">About</a></li>
+                                                <li><a href="{{ url('/about') }}">About</a></li>
 
                                                 <li>
                                                     <a href="#">Services</a>
                                                     <ul class="dl-submenu">
-                                                        <li><a href="services01.php">Services overview</a></li>
+                                                        <li><a href="{{ url('/') }}">Services overview</a></li>
                                                         <li>
                                                             <a href="#">Logistics</a>
                                                             <ul class="dl-submenu">
