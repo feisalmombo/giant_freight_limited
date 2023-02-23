@@ -140,6 +140,10 @@
                                 <li>
                                     <a href="{{ url('/contact') }}">Contact Us</a>
                                 </li>
+
+                                <li>
+                                    <a href="{{ url('/contact') }}">Contact Us</a>
+                                </li>
                             </ul><!-- .breadcrumb end -->
                         </div><!-- .breadcrumb-container end -->
                     </div><!-- .col-md-12 end -->
@@ -157,16 +161,16 @@
 
                         <p>
                             We are a locally owned and operated company situated right in the heart of Dar-Es-Salaam city. Our location is arround mnazi mmoja area very close to Dar es salaam ferry. We are committed in providing the best quality service at competitive rates. We pride ourselves in our personalized and responsive services. Our dedicated team of professionals ensure timely completion of work and professionalism.
-<br/><br/>
-Call us today by calling us at +255 712736581, +255 685908198 or fill out the online contact form.
-<br/>
-Iwe Freight Ltd, P. O. Box 68045, Email: info@iwefreight.com
+                        <br/><br/>
+                        Call us today by calling us at +255 758 557 772, +255 767 166 162 or fill out the online contact form.
+                        <br/>
+                        Giant Freight Limited, P. O. Box 70963, Email: info@giantfreight.com
                         </p>
 
                         <br />
 
                         <!-- .contact form start -->
-                        <form  action="https://www.iwefreight.com/form-sender-iwe.php" method="post">
+                        <form  action="#" method="post">
 
 
                             <fieldset>
@@ -220,12 +224,12 @@ Iwe Freight Ltd, P. O. Box 68045, Email: info@iwefreight.com
 
                     <div class="col-md-6">
                         <div class="custom-heading">
-                            <h3>Iwe Freight headquarters</h3>
+                            <h3>Giant Freight headquarters</h3>
                         </div><!-- .custom-heading end -->
 
                         <div >
 
-						<figure><iframe src="https://www.google.com/maps/d/embed?mid=1Y_ZayGZCO1nBW0eefSiHBtGDvsjpfvWp" width="640" height="480"></iframe></figure>
+						<figure><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15846.285025679535!2d39.2844832!3d-6.8218833!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x185c4bd2425e83dd%3A0x23a8e5e2a3caac42!2sMotionstarlight%20Logistics%20Co%20Ltd!5e0!3m2!1sen!2stz!4v1646864698037!5m2!1sen!2stz" width="640" height="480"></iframe></figure>
 						</div>
 
                         <div class="custom-heading">
@@ -233,21 +237,22 @@ Iwe Freight Ltd, P. O. Box 68045, Email: info@iwefreight.com
                         </div><!-- .custom-heading end -->
 
                         <address>
-                            King Palace House 2nd floor, Mnazi Mmoja Area<br />
-							P.0. Box 68045 <br />
+                            Railway Street, Plot 158, Near Clock Tower Najmi Manzil Building,
+                            4th Floor Room Number 4B<br />
+							P.0. Box 70963 <br />
 							Dar es salaam - Tanzania <br />
                         </address>
 
                         <span class="text-big colored">
 
 
-                            <a href=""><img src="img/pics/ws-lnk.png" alt="" style="display: inline; width: 30px; margin-top: 5px;"> +255 712 736 581 </a>
+                            <a href=""><img src="{{asset('giant/img/pics/ws-lnk.png')}}" alt="" style="display: inline; width: 30px; margin-top: 5px;"> +255 712 736 581 </a>
 
-                            <a href=""><img src="img/pics/cell2.jpg" alt="" style="display: inline; width: 15px; margin-top: 5px;"> +255 685 908 198</a>
+                            <a href=""><img src="{{asset('giant/img/pics/cell2.jpg')}}" alt="" style="display: inline; width: 15px; margin-top: 5px;"> +255 685 908 198</a>
                         </span>
                         <br />
 
-                        <a href="mailto:">info@iwefreight.com</a>
+                        <a href="mailto:">info@giantfreight.com</a>
                     </div><!-- .col-md-6 end -->
                 </div><!-- .row end -->
             </div><!-- .container end -->
@@ -336,16 +341,16 @@ Iwe Freight Ltd, P. O. Box 68045, Email: info@iwefreight.com
                                 </address>
 
                                 <span class="text-big">
-                                    +255 712 736 581
+                                    +255 758 557 772
                                 </span>
                                 <br />
 
-                                <a href="mailto:">info@iwefreight.com</a>
+                                <a href="mailto:">info@giantfreight.com</a>
                                 <br />
                                 <ul class="footer-social-icons">
-                                    <li><a href="https://web.facebook.com/Iwe-Freight-Ltd-705979053122625/?hc_ref=ARSkjwRofd0-nlx-qrVTMdJ6Zz09OVvo8nV1cfyPUzK1xTkXb6Qn0yk4BnOWJRJnJ7M&fref=nf&__xts__%5B0%5D=68.ARBj7FdUsztlEmYc7M7DkxCRxyCR5WJTdcHhbGcKSFaMDEkfKvWz_tBLyqhvGKW9SmGzKZ3zrkbnPKkIuZt0Tn4l8Z1jrEUnqdxkjjly-yb2Owt8AEUCAvz6r4jiic5kx-PG4nBW3srj09Yo8PZ6S8KcKEzaFiQEmpKCAkxJmGn3bK5GsR9RbMfjmCpb00y9E21PMytWt442KZLLyDvJjm6ApzrQLGCTp8ConCrHeaxdakDqRTNm4jlIiE_aI1Tb8sQ8ivSuA15vxst08XARXi9r3UGEipQFjKyRGCQj0UrF8QTFnxhOI2pZW9lxAMp0-ZMEqCNlHvRWYuB_jIRCMzQ&__tn__=kC-R" class="fa fa-facebook"></a></li>
-                                    <li><a href="https://www.instagram.com/iwefreightltd/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://twitter.com/LtdIwe" class="fa fa-twitter"></a></li>
+                                    <li><a href="#" class="fa fa-facebook"></a></li>
+                                    <li><a href="#" class="fa fa-instagram"></a></li>
+                                    <li><a href="#" class="fa fa-twitter"></a></li>
                                 </ul><!-- .footer-social-icons end -->
                             </li><!-- .widget.widget-text end -->
                         </ul><!-- .col-md-3.footer-widget-container end -->
@@ -357,7 +362,7 @@ Iwe Freight Ltd, P. O. Box 68045, Email: info@iwefreight.com
                 <div class="container">
                     <div class="row">
                         <div class="col-md-6">
-                            <p>IWE FREIGHT LTD 2001-2019. All RIGHTS RESERVED.</p>
+                            <p>Giant Freight Limited 2001-2019. All RIGHTS RESERVED.</p>
                         </div><!-- .col-md-6 end -->
 
                         <div class="col-md-6">
