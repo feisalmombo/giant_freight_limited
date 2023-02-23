@@ -22,7 +22,7 @@
 
     <!-- Google Web fonts -->
     <link href='http://fonts.googleapis.com/css?family=Raleway:400,500,600,700,800' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,800,700,600' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,800,700,600' rel='stylesheet' type='text/css'>
 
     <!-- Font icons -->
     <link rel="stylesheet" href="{{asset('giant/icon-fonts/font-awesome-4.3.0/css/font-awesome.min.css')}}"/><!-- Fontawesome icons css -->
@@ -258,207 +258,16 @@
             </div><!-- .container end -->
         </div><!-- .page-content end -->
 
- <div id="footer-wrapper" class="footer-dark">
-            <footer id="footer">
-                <div class="container">
-                    <div class="row">
-                        <ul class="col-md-3 col-sm-6 footer-widget-container clearfix">
-                            <!-- .widget.widget_text -->
-                            <li class="widget widget_newsletterwidget">
-                                <div class="title">
-                                    <h3>Newsletter subscribe</h3>
-                                </div>
+        <!-- #footer end -->
+        @include('partials.footer')
+        <!-- #footer end -->
 
-                                <p>
-                                    Subscribe to our newsletter and we will
-                                    inform you about newest projects and promotions.
-                                </p>
-
-                                <br />
-
-                                <form class="newsletter">
-                                    <input class="email" type="email" placeholder="Your email...">
-                                    <input type="submit" class="submit" value="">
-                                </form>
-
-                                <br/> <br/>
-                                 <img src="img/payment-options.png" alt="Payment Options" style="width:100%; ">
-
-
-                            </li><!-- .widget.widget_newsletterwidget end -->
-                        </ul><!-- .col-md-3.footer-widget-container end -->
-
-                        <ul class="col-md-3 col-sm-6 footer-widget-container">
-                            <!-- .widget-pages start -->
-                            <li class="widget widget_pages">
-                                <div class="title">
-                                    <h3>quick links</h3>
-                                </div>
-
-                                <ul>
-                                    <li><a href="about.php">About us</a></li>
-                                    <li><a href="terms-conditions.php">Terms & Conditions</a></li>
-                                    <li><a href="contact-us.php">Contact Us</a></li>
-                                </ul>
-
-
-                            </li><!-- .widget-pages end -->
-                        </ul><!-- .col-md-3.footer-widget-container end -->
-
-                        <ul class="col-md-3 col-sm-6 footer-widget-container">
-                            <!-- .widget-pages start -->
-                            <li class="widget widget_pages">
-                                <div class="title">
-                                    <h3>Industry solutions</h3>
-                                </div>
-
-                                <ul>
-									 <li><a href="warehousing.php">Ware Housing</a></li>
-									 <li><a href="supply-chain-management.php">Supply Chain Management</a></li>
-									 <li><a href="packaging-options.php">Packaging Options</a></li>
-									 <li><a href="consulting-services.php">Consulting Services</a></li>
-									 <li><a href="services02.php">Logistics</a></li>
-									 <li><a href="overland-transportation.php">Overland Transportation</a></li>
-									 <li><a href="ocean-freight.php">Ocean Freight</a></li>
-									 <li><a href="large-projects.php">Large Projects</a></li>
-									 <li><a href="rail-transportation.php">Rail Transportation</a></li>
-                                </ul>
-
-                            </li><!-- .widget-pages end -->
-                        </ul><!-- .col-md-3.footer-widget-container end -->
-
-                        <ul class="col-md-3 col-sm-6 footer-widget-container">
-                            <li class="widget widget-text">
-                                <div class="title">
-                                    <h3>contact us</h3>
-                                </div>
-
-                                <address>
-								King Palace House 2nd floor,<br />
-								 Mnazi Mmoja Area<br />
-								 P.0. Box 68045 <br />
-								Dar es salaam - Tanzania
-                                </address>
-
-                                <span class="text-big">
-                                    +255 758 557 772
-                                </span>
-                                <br />
-
-                                <a href="mailto:">info@giantfreight.com</a>
-                                <br />
-                                <ul class="footer-social-icons">
-                                    <li><a href="#" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-instagram"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                </ul><!-- .footer-social-icons end -->
-                            </li><!-- .widget.widget-text end -->
-                        </ul><!-- .col-md-3.footer-widget-container end -->
-                    </div><!-- .row end -->
-                </div><!-- .container end -->
-            </footer><!-- #footer end -->
-
-            <div class="copyright-container">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6">
-                            <p>Giant Freight Limited 2001-2019. All RIGHTS RESERVED.</p>
-                        </div><!-- .col-md-6 end -->
-
-                        <div class="col-md-6">
-                            <p class="align-right">DESIGNED AND DEVELOPED BY ASALI MEDIA</p>
-                        </div><!-- .col-md-6 end -->
-                    </div><!-- .row end -->
-                </div><!-- .container end -->
-            </div><!-- .copyright-container end -->
-
-            <a href="#" class="scroll-up">Scroll</a>
-        </div><!-- #footer-wrapper end -->
-        <script src="js/jquery-2.1.4.min.js"></script><!-- jQuery library -->
-        <script src="js/bootstrap.min.js"></script><!-- .bootstrap script -->
-        <script src="js/jquery.srcipts.min.js"></script><!-- modernizr, retina, stellar for parallax -->
-        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script> <!-- google maps -->
-        <script src="js/jquery.ui.map.full.min.js"></script><!-- google maps -->
-        <script src="js/jquery.dlmenu.min.js"></script><!-- for responsive menu -->
-
-        <script src="js/include.js"></script><!-- custom js functions -->
-
-        <script>
-            /* <![CDATA[ */
-            jQuery(document).ready(function ($) {
-                'use strict';
-                // GOOGLE MAPS START
-                window.marker = null;
-
-                function initialize() {
-                    var map;
-
-                    var nottingham = new google.maps.LatLng(52.934658, -1.131450);
-
-                    var style = [
-                        {"featureType": "road",
-                            "elementType":
-                                    "labels.icon",
-                            "stylers": [
-                                {"saturation": 1},
-                                {"gamma": 1},
-                                {"visibility": "on"},
-                                {"hue": "#e6ff00"}
-                            ]
-                        },
-                        {"elementType": "geometry", "stylers": [
-                                {"saturation": -85}
-                            ]
-                        }
-                    ];
-
-                    var mapOptions = {
-                        // SET THE CENTER
-                        center: nottingham,
-                        // SET THE MAP STYLE & ZOOM LEVEL
-                        mapTypeId: google.maps.MapTypeId.ROADMAP,
-                        zoom: 9,
-                        // SET THE BACKGROUND COLOUR
-                        backgroundColor: "#eeeeee",
-                        // REMOVE ALL THE CONTROLS EXCEPT ZOOM
-                        panControl: true,
-                        zoomControl: true,
-                        mapTypeControl: true,
-                        scaleControl: true,
-                        streetViewControl: true,
-                        overviewMapControl: true,
-                        scrollwheel: false,
-                        zoomControlOptions: {
-                            style: google.maps.ZoomControlStyle.SMALL
-                        }
-
-                    };
-                    map = new google.maps.Map(document.getElementById('map'), mapOptions);
-
-                    // SET THE MAP TYPE
-                    var mapType = new google.maps.StyledMapType(style, {name: "Grayscale"});
-                    map.mapTypes.set('grey', mapType);
-                    map.setMapTypeId('grey');
-
-                    //CREATE A CUSTOM PIN ICON
-                    var marker_image = 'img/pin.png';
-                    var pinIcon = new google.maps.MarkerImage(marker_image, null, null, null, new google.maps.Size(21, 34));
-
-                    marker = new google.maps.Marker({
-                        position: nottingham,
-                        map: map,
-                        icon: pinIcon,
-                        title: ''
-                    });
-                }
-
-                google.maps.event.addDomListener(window, 'load', initialize);
-
-
-
-            });
-            /* ]]> */
-        </script>
+        <script src="{{asset('giant/js/jquery-2.1.4.min.js')}}"></script><!-- jQuery library -->
+        <script src="{{asset('giant/js/bootstrap.min.js')}}"></script><!-- .bootstrap script -->
+        <script src="{{asset('giant/js/jquery.srcipts.min.js')}}"></script><!-- modernizr, retina, stellar for parallax -->
+        <script src="{{asset('giant/js/jquery.dlmenu.min.js')}}"></script><!-- for responsive menu -->
+        <script src="{{asset('giant/style-switcher/styleSwitcher.js')}}"></script><!-- styleswitcher script -->
+        <script src="{{asset('giant/js/include.js')}}"></script><!-- custom js functions -->
     </body>
 
 
