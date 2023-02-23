@@ -53,38 +53,28 @@
 						<!-- MAIN NAVIGATION -->
                                     <div class="collapse navbar-collapse">
                                         <ul class="nav navbar-nav">
-											<li><a href="index.php">Home</a></li>
-                                            <li><a href="about.php">About</a></li>
+											<li><a href="{{ url('/') }}">Home</a></li>
+                                            <li><a href="{{ url('/about') }}">About</a></li>
 
 											<li class="dropdown">
-                                                <a href="#" data-toggle="dropdown" class="dropdown-toggle">Services</a>
+                                                <a href="{{ url('/') }}" data-toggle="dropdown" class="dropdown-toggle">Our Services</a>
                                                 <ul class="dropdown-menu">
-                                                    <li><a href="services01.php">Services overview</a></li>
-                                                    <li class="dropdown dropdown-submenu">
-                                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Logistics</a>
-                                                        <ul class="dropdown-menu">
-                                                            <li><a href="services02.php">Logistics</a></li>
-                                                            <li><a href="overland-transportation.php">Overland transportation</a></li>
-                                                            <li><a href="air-freight.php">Air freight</a></li>
-                                                            <li><a href="ocean-freight.php">Ocean freight</a></li>
-                                                            <li><a href="large-projects.php">Large projects</a></li>
-                                                            <li><a href="rail-transportation.php">Rail international shipping</a></li>
-
-                                                        </ul><!-- .dropdown-menu end -->
-                                                    </li><!-- .dropdown-submenu end -->
-                                                    <li><a href="warehousing.php">Warehousing</a></li>
-                                                    <li><a href="supply-chain-management.php">Supply chain management</a></li>
-                                                    <li><a href="packaging-options.php">Packaging options</a></li>
-                                                    <li><a href="consulting-services.php">Consulting services</a></li>
+                                                    <li><a href="{{url('/road-transport')}}">Road Transport</a></li>
+                                                    <li><a href="#">Air Freight</a></li>
+                                                    <li><a href="#">Ocean Freight</a></li>
+                                                    <li><a href="#">Customs Clearance</a></li>
+                                                    <li><a href="#">Warehousing</a></li>
+                                                    <li><a href="#">Value Added Servives</a></li>
+                                                    <li><a href="#">Railway Services</a></li>
                                                 </ul><!-- .dropdown-menu end -->
                                             </li><!-- .dropdown end -->
 
 
-											<li><a href="media.php">Media</a></li>
+											<li><a href="#">Media</a></li>
 
-											<li><a href="terms-conditions.php">Terms & Conditions</a></li>
+											{{--  <li><a href="#">Terms & Conditions</a></li>  --}}
 
-											<li><a href="contact-us.php">Contacts</a></li>
+											<li><a href="{{ url('/contact') }}">Contacts Us</a></li>
 
                                         </ul><!-- .nav.navbar-nav end -->
 
@@ -94,48 +84,40 @@
 
                                             <ul class="dl-menu">
                                                 <li>
-                                                    <a href="index.php">Home</a>
+                                                    <a href="{{ url('/') }}">Home</a>
 
                                                 </li>
 
-                                                <li><a href="about-php">About</a></li>
+                                                <li><a href="{{ url('/about') }}">About</a></li>
 
                                                 <li>
                                                     <a href="#">Services</a>
                                                     <ul class="dl-submenu">
-                                                        <li><a href="services01.php">Services overview</a></li>
+                                                        <li><a href="{{ url('/') }}">Services overview</a></li>
                                                         <li>
                                                             <a href="#">Logistics</a>
                                                             <ul class="dl-submenu">
-																<li><a href="services02.php">Logistics</a></li>
-																<li><a href="overland-transportation.php">Overland transportation</a></li>
-																<li><a href="air-freight.php">Air freight</a></li>
-																<li><a href="ocean-freight.php">Ocean freight</a></li>
-																<li><a href="large-projects.php">Large projects</a></li>
-																<li><a href="rail-transportation.php">Rail international shipping</a></li>
+																<li><a href="#">Logistics</a></li>
+																<li><a href="#">Overland transportation</a></li>
+																<li><a href="#">Air freight</a></li>
+																<li><a href="#">Ocean freight</a></li>
+																<li><a href="#">Large projects</a></li>
+																<li><a href="#">Rail international shipping</a></li>
                                                             </ul><!-- .dl-submenu end -->
                                                         </li>
-                                                    <li><a href="warehousing.php">Warehousing</a></li>
-                                                    <li><a href="supply-chain-management.php">Supply chain management</a></li>
-                                                    <li><a href="packaging-options.php">Packaging options</a></li>
-                                                    <li><a href="consulting-services.php">Consulting services</a></li>
+                                                        <li><a href="#">Warehousing</a></li>
+                                                        <li><a href="#">Supply chain management</a></li>
+                                                        <li><a href="#">Packaging options</a></li>
+                                                        <li><a href="#">Consulting services</a></li>
                                                     </ul><!-- dl-submenu end -->
                                                 </li>
 
 
-												<li><a href="media.php">Media</a></li>
-												<li><a href="terms-conditions.php">Terms & Conditions</a></li>
-												<li><a href="contact-us.php">Contacts</a></li>
+												<li><a href="#">Media</a></li>
+												<li><a href="{{ url('/contact') }}">Contacts</a></li>
                                             </ul><!-- .dl-menu end -->
                                         </div><!-- #dl-menu end -->
 
-                                        <!-- #search start -->
-                                        <div id="search">
-                                            <form action="#" method="get">
-                                                <input class="search-submit" type="submit" />
-                                                <input id="m_search" name="s" type="text" placeholder="Type and hit enter..." />
-                                            </form>
-                                        </div><!-- #search end -->
                                     </div><!-- MAIN NAVIGATION END -->
                                 </nav><!-- .navbar.navbar-default end -->
                             </div><!-- .col-md-12 end -->
