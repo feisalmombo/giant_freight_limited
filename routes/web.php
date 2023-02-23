@@ -105,6 +105,9 @@ Route::group(['middleware' => 'CheckUserStatus'], function () {
             // About us
             Route::resource('/about', 'AboutController');
 
+            // Contact US
+            Route::resource('/contact', 'ContactController');
+
             // Road Transport Service
             Route::resource('/road-transport', 'RoadController');
 
