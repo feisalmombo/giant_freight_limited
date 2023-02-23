@@ -138,10 +138,7 @@
                             <ul class="breadcrumb clearfix">
                                 <li>You are here:</li>
                                 <li>
-                                    <a href="#">Contact</a>
-                                </li>
-                                <li>
-                                    <a href="#">Contact simple</a>
+                                    <a href="{{ url('/contact') }}">Contact Us</a>
                                 </li>
                             </ul><!-- .breadcrumb end -->
                         </div><!-- .breadcrumb-container end -->
