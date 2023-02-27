@@ -18,7 +18,7 @@
 
                         <form class="newsletter">
                             <input class="email" type="email" placeholder="Your email...">
-                            <input type="submit" class="submit" value="">
+                            <input type="submit" class="submit" value="" disabled>
                         </form>
 
                     </li><!-- .widget.widget_newsletterwidget end -->
