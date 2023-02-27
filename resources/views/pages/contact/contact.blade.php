@@ -218,7 +218,7 @@
                                 <textarea rows="8" class="wpcf7-textarea" id="contact-message"></textarea>
                             </fieldset>
 
-                            <input type="submit" class="wpcf7-submit" value="send" />
+                            <input type="submit" class="wpcf7-submit" value="Submit" disabled/>
                         </form><!-- form-end end -->
                     </div><!-- .col-md-6 end -->
 
