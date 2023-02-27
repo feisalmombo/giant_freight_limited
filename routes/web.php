@@ -111,5 +111,8 @@ Route::group(['middleware' => 'CheckUserStatus'], function () {
             // Road Transport Service
             Route::resource('/road-transport', 'RoadController');
 
+            // Air Freight Service
+            Route::resource('/air-freight', 'AirFreightController');
+
 
 
