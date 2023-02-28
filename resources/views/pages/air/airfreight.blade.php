@@ -205,16 +205,13 @@
 
                             <li class="widget widget-text">
                                 <div class="title">
-                                    <h3>brochure download</h3>
+                                    <h3>Download Our Company Profile</h3>
                                 </div>
 
-                                <img src="img/pics/brochure01.jpg" alt="Trucking brochure"/>
-                                <br />
-
-                                <a href="trucking_brochure.pdf" target="_blank" class="download-link">
+                                <a href="{{ asset('giant/profile/giant-freight-limited.pdf') }}" target="_blank" class="download-link">
                                     <span>
                                         <i class="fa fa-file-pdf-o"></i>
-                                        Giant Freight Limited.pdf
+                                        Company Profile
                                     </span>
                                 </a>
                             </li><!-- .widget.widget-text end -->
@@ -225,7 +222,7 @@
                                    <h3>contact us</h3>
                                 </div>
 
-                                <img src="img/pics/locations.jpg" alt="contact us"/>
+                                <img src="{{asset('giant/img/pics/locations.jpg')}}" alt="contact us"/>
 
                                 <br />
 
@@ -234,7 +231,7 @@
                                     us today!
                                 </p>
 
-                                <a href="contact-us.php" class="read-more">
+                                <a href="{{ url('/contact') }}" class="read-more">
                                     <span>
                                         Contact us
                                         <i class="fa fa-chevron-right"></i>
@@ -244,7 +241,7 @@
                         </ul><!-- .aside-widgets end -->
                     </aside><!-- .aside.aside-left end -->
                     <div class="col-md-9">
-                        <img src="img/pics/img28.jpg" alt=""/>
+                        <img src="{{asset('giant/img/pics/img28.jpg')}}" alt=""/>
 
                         <br />
 
@@ -268,7 +265,7 @@
                             <div class="col-md-6 clearfix">
                                 <h3>Our locations</h3>
 
-                                <img src="img/pics/locations.jpg" alt="locations illustration"/>
+                                <img src="{{asset('giant/img/pics/locations.jpg')}}" alt="locations illustration"/>
 
                                 <br />
 
@@ -279,7 +276,7 @@
 									to move them.
                                 </p>
 
-                                <a href="locations.html" class="read-more">
+                                <a href="#" class="read-more">
                                     <span>
 
                                         <i class="fa fa-chevron-right"></i>
@@ -328,35 +325,7 @@
                             </div><!-- .col-md-6 end -->
                         </div><!-- .row end -->
 
-                        <div class="custom-heading">
-                            <h3>industries covered</h3>
-                        </div><!-- .custom-heading end -->
 
-                        <ul class="service-list-big-icons clearfix">
-                            <li>
-                                <div class="icon-container">
-                                    <img src="img/svg/pi-cargo-retail.svg" alt="retail svg icon"/>
-                                </div>
-
-                                <h4>Textile Logistics</h4>
-                            </li>
-
-                            <li>
-                                <div class="icon-container">
-                                    <img src="img/svg/pi-food-beverage.svg" alt="food and beverage svg icon"/>
-                                </div>
-
-                                <h4>Retail Logistics</h4>
-                            </li>
-
-                            <li>
-                                <div class="icon-container">
-                                    <img src="img/svg/pi-mark-energy.svg" alt="retail svg icon"/>
-                                </div>
-
-                                <h4>Oil & Gas Logistics</h4>
-                            </li>
-                        </ul><!-- .service-list-big-icons end -->
                     </div><!-- .col-md-9 end -->
                 </div><!-- .row end -->
             </div><!-- .container end -->
