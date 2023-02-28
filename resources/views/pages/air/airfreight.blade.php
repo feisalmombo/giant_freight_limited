@@ -390,13 +390,11 @@
 
         <!-- #footer-wrapper start -->
         <!-- #footer-wrapper end -->
-        <script src="js/jquery-2.1.4.min.js"></script><!-- jQuery library -->
-        <script src="js/bootstrap.min.js"></script><!-- .bootstrap script -->
-        <script src="js/jquery.srcipts.min.js"></script><!-- modernizr, retina, stellar for parallax -->
-        <script src="js/jquery.dlmenu.min.js"></script><!-- for responsive menu -->
-        <script src="style-switcher/styleSwitcher.js"></script><!-- styleswitcher script -->
-        <script src="js/include.js"></script><!-- custom js functions -->
+        <script src="{{asset('giant/js/jquery-2.1.4.min.js')}}"></script><!-- jQuery library -->
+        <script src="{{asset('giant/js/bootstrap.min.js')}}"></script><!-- .bootstrap script -->
+        <script src="{{asset('giant/js/jquery.srcipts.min.js')}}"></script><!-- modernizr, retina, stellar for parallax -->
+        <script src="{{asset('giant/js/jquery.dlmenu.min.js')}}"></script><!-- for responsive menu -->
+        <script src="{{asset('giant/style-switcher/styleSwitcher.js')}}"></script><!-- styleswitcher script -->
+        <script src="{{asset('giant/js/include.js')}}"></script><!-- custom js functions -->
     </body>
-
-<!-- Mirrored from pixel-industry.com/html/trucking/air-freight.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 11 Sep 2019 11:08:57 GMT -->
 </html>
