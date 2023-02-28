@@ -72,8 +72,6 @@
 
 											<li><a href="#">Media</a></li>
 
-											{{--  <li><a href="#">Terms & Conditions</a></li>  --}}
-
 											<li><a href="{{ url('/contact') }}">Contacts Us</a></li>
 
                                         </ul><!-- .nav.navbar-nav end -->
