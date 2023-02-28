@@ -90,28 +90,13 @@
 
                                                 <li><a href="{{ url('/about') }}">About</a></li>
 
-                                                <li>
-                                                    <a href="#">Services</a>
-                                                    <ul class="dl-submenu">
-                                                        <li><a href="{{ url('/') }}">Services overview</a></li>
-                                                        <li>
-                                                            <a href="#">Logistics</a>
-                                                            <ul class="dl-submenu">
-																<li><a href="#">Logistics</a></li>
-																<li><a href="#">Overland transportation</a></li>
-																<li><a href="#">Air freight</a></li>
-																<li><a href="#">Ocean freight</a></li>
-																<li><a href="#">Large projects</a></li>
-																<li><a href="#">Rail international shipping</a></li>
-                                                            </ul><!-- .dl-submenu end -->
-                                                        </li>
-                                                        <li><a href="#">Warehousing</a></li>
-                                                        <li><a href="#">Supply chain management</a></li>
-                                                        <li><a href="#">Packaging options</a></li>
-                                                        <li><a href="#">Consulting services</a></li>
-                                                    </ul><!-- dl-submenu end -->
-                                                </li>
-
+                                                <li><a href="{{url('/road-transport')}}">Road Transport</a></li>
+                                                <li><a href="{{ url('/air-freight') }}">Air Freight</a></li>
+                                                <li><a href="#">Ocean Freight</a></li>
+                                                <li><a href="#">Customs Clearance</a></li>
+                                                <li><a href="#">Warehousing</a></li>
+                                                <li><a href="#">Value Added Servives</a></li>
+                                                <li><a href="#">Railway Services</a></li>
 
 												<li><a href="#">Media</a></li>
 												<li><a href="{{ url('/contact') }}">Contacts</a></li>
