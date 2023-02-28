@@ -145,7 +145,7 @@
                                     <a href="{{ url('/') }}">Home</a>
                                 </li>
                                 <li>
-                                    <a href="{{ url('/') }}">Services</a>
+                                    <a href="{{ url('/') }}">Our Services</a>
                                 </li>
 
                                 <li>
