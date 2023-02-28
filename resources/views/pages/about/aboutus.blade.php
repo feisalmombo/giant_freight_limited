@@ -61,7 +61,7 @@
                                                 <a href="{{ url('/') }}" data-toggle="dropdown" class="dropdown-toggle">Our Services</a>
                                                 <ul class="dropdown-menu">
                                                     <li><a href="{{url('/road-transport')}}">Road Transport</a></li>
-                                                    <li><a href="#">Air Freight</a></li>
+                                                    <li><a href="{{url('/air-freight')}}">Air Freight</a></li>
                                                     <li><a href="#">Ocean Freight</a></li>
                                                     <li><a href="#">Customs Clearance</a></li>
                                                     <li><a href="#">Warehousing</a></li>

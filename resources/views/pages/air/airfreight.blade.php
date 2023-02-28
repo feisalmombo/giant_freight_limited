@@ -162,7 +162,7 @@
                         <ul class="aside-widgets">
                             <li class="widget widget_nav_menu clearfix">
                                 <div class="title">
-                                    <h3>Iwe Freight</h3>
+                                    <h3>Giant Freight</h3>
                                 </div>
                                 <ul class="menu">
                                     <li class="menu-item">
@@ -214,7 +214,7 @@
                                 <a href="trucking_brochure.pdf" target="_blank" class="download-link">
                                     <span>
                                         <i class="fa fa-file-pdf-o"></i>
-                                        iwe Freight ltd.pdf
+                                        Giant Freight Limited.pdf
                                     </span>
                                 </a>
                             </li><!-- .widget.widget-text end -->
@@ -253,8 +253,8 @@
                         </div>
 
                         <p>
-                           Iwe Freight is one of the largest air freight transportation providers in East Africa.
-						   At Iwe Freight we can offer you choice and flexibility when shipping by air whether within East Africa
+                            Giant Freight Limited is one of the largest air freight transportation providers in East Africa.
+						   At Giant Freight we can offer you choice and flexibility when shipping by air whether within East Africa
 						   or elsewhere worldwide. We have established relationships with industry partners and will negotiate
 						   the best possible rates on your behalf.
 
@@ -291,7 +291,7 @@
                                 <h3>Your benefits</h3>
 
                                 <p>
-                                     Iwe Freight can look for a tailor-made solutions for all your airfreight.
+                                    Giant Freight can look for a tailor-made solutions for all your airfreight.
                                 </p>
 
                                 <ul class="fa-ul">

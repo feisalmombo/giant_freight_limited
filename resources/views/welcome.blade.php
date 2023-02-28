@@ -53,7 +53,7 @@
                                     <!-- MAIN NAVIGATION -->
                                     <div class="collapse navbar-collapse">
                                         <ul class="nav navbar-nav">
-											<li><a href="#">Home</a></li>
+											<li><a href="{{ url('/') }}">Home</a></li>
                                             <li><a href="{{url('/about')}}">About Us</a></li>
 
 											<li class="dropdown">
@@ -82,11 +82,11 @@
 
                                             <ul class="dl-menu">
                                                 <li>
-                                                    <a href="#">Home</a>
+                                                    <a href="{{ url('/') }}">Home</a>
 
                                                 </li>
 
-                                                <li><a href="#">About</a></li>
+                                                <li><a href="{{url('/about')}}">About</a></li>
 
                                                 <li>
                                                     <a href="#">Our Services</a>
