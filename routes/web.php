@@ -113,6 +113,3 @@ Route::group(['middleware' => 'CheckUserStatus'], function () {
 
             // Air Freight Service
             Route::resource('/air-freight', 'AirFreightController');
-
-
-
