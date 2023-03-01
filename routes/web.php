@@ -113,3 +113,6 @@ Route::group(['middleware' => 'CheckUserStatus'], function () {
 
             // Air Freight Service
             Route::resource('/air-freight', 'AirFreightController');
+
+            // Ocean Freight Service
+            Route::resource('/ocean-freight', 'OceanFreightController');
