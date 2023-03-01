@@ -162,43 +162,35 @@
                         <ul class="aside-widgets">
                             <li class="widget widget_nav_menu clearfix">
                                 <div class="title">
-                                    <h3>Giant Freight</h3>
+                                    <h3>Giant Freight Services</h3>
                                 </div>
                                 <ul class="menu">
                                     <li class="menu-item">
-                                        <a href="warehousing.php">Ware Housing</a>
+                                        <a href="{{url('/road-transport')}}">Road Transport</a>
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="supply-chain-management.php">Supply Chain Management</a>
+                                        <a href="{{url('/air-freight')}}">Air Freight</a>
                                     </li>
 
                                     <li class="menu-item current-menu-item">
-                                        <a href="packaging-options.php">Packaging Options</a>
+                                        <a href="#">Ocean Freight</a>
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="consulting-services.php">Consulting Services</a>
+                                        <a href="#">Customs Clearance</a>
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="services02.php">Logistics</a>
+                                        <a href="#">Warehousing</a>
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="overland-transportation.php">Overland Transportation</a>
+                                        <a href="#">Value Added Servives</a>
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="ocean-freight.php">Ocean Freight</a>
-                                    </li>
-
-                                    <li class="menu-item">
-                                        <a href="large-projects.php">Large Projects</a>
-                                    </li>
-
-                                    <li class="menu-item">
-                                        <a href="rail-transportation.php">Rail Transportation</a>
+                                        <a href="#">Railway Services</a>
                                     </li>
                                 </ul><!-- .menu end -->
                             </li><!-- .widget.widget_nav_menu end -->
