@@ -6,5 +6,8 @@ use Illuminate\Http\Request;
 
 class OceanFreightController extends Controller
 {
-    //
+    public function index()
+    {
+        return view('pages.ocean.oceanfreight');
+    }
 }
