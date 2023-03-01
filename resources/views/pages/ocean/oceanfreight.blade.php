@@ -46,8 +46,9 @@
                                     <!-- .navbar-header start -->
                                     <div class="navbar-header">
                                         <div class="logo">
-                                            <a href="index.html">
-                                                 <img src="img/logo.png" alt="Iwe Freight"/>
+                                            <a href="#" style="padding-bottom: 3px; font-size: 13px; color: #2780BA; font-weight: 700;">
+                                                {{--  <img src="{{asset('giant/img/logo.png')}}" alt="Giant Freight"/>  --}}
+                                                Giant Freight Limited
                                             </a>
                                         </div><!-- .logo end -->
                                     </div><!-- .navbar-header start -->
@@ -55,38 +56,28 @@
                                     <!-- MAIN NAVIGATION -->
                                     <div class="collapse navbar-collapse">
                                         <ul class="nav navbar-nav">
-											<li><a href="index.php">Home</a></li>
-                                            <li><a href="about.php">About</a></li>
+											<li><a href="{{ url('/') }}">Home</a></li>
+                                            <li><a href="{{ url('/about') }}">About</a></li>
 
 											<li class="dropdown">
-                                                <a href="#" data-toggle="dropdown" class="dropdown-toggle">Services</a>
+                                                <a href="{{ url('/') }}" data-toggle="dropdown" class="dropdown-toggle">Our Services</a>
                                                 <ul class="dropdown-menu">
-                                                    <li><a href="services01.php">Services overview</a></li>
-                                                    <li class="dropdown dropdown-submenu">
-                                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Logistics</a>
-                                                        <ul class="dropdown-menu">
-                                                            <li><a href="services02.php">Logistics</a></li>
-                                                            <li><a href="overland-transportation.php">Overland transportation</a></li>
-                                                            <li><a href="air-freight.php">Air freight</a></li>
-                                                            <li><a href="ocean-freight.php">Ocean freight</a></li>
-                                                            <li><a href="large-projects.php">Large projects</a></li>
-                                                            <li><a href="rail-transportation.php">Rail international shipping</a></li>
-
-                                                        </ul><!-- .dropdown-menu end -->
-                                                    </li><!-- .dropdown-submenu end -->
-                                                    <li><a href="warehousing.php">Warehousing</a></li>
-                                                    <li><a href="supply-chain-management.php">Supply chain management</a></li>
-                                                    <li><a href="packaging-options.php">Packaging options</a></li>
-                                                    <li><a href="consulting-services.php">Consulting services</a></li>
+                                                    <li><a href="{{url('/road-transport')}}">Road Transport</a></li>
+                                                    <li><a href="{{ url('/air-freight') }}">Air Freight</a></li>
+                                                    <li><a href="#">Ocean Freight</a></li>
+                                                    <li><a href="#">Customs Clearance</a></li>
+                                                    <li><a href="#">Warehousing</a></li>
+                                                    <li><a href="#">Value Added Servives</a></li>
+                                                    <li><a href="#">Railway Services</a></li>
                                                 </ul><!-- .dropdown-menu end -->
                                             </li><!-- .dropdown end -->
 
 
-											<li><a href="media.php">Media</a></li>
+											<li><a href="#">Media</a></li>
 
-											<li><a href="terms-conditions.php">Terms & Conditions</a></li>
+											{{--  <li><a href="#">Terms & Conditions</a></li>  --}}
 
-											<li><a href="contact-us.php">Contacts</a></li>
+											<li><a href="{{ url('/contact') }}">Contacts Us</a></li>
 
                                         </ul><!-- .nav.navbar-nav end -->
 
@@ -96,48 +87,36 @@
 
                                             <ul class="dl-menu">
                                                 <li>
-                                                    <a href="index.php">Home</a>
+                                                    <a href="#">Home</a>
 
                                                 </li>
 
-                                                <li><a href="about-php">About</a></li>
+                                                <li><a href="#">About</a></li>
 
                                                 <li>
-                                                    <a href="#">Services</a>
+                                                    <a href="#">Our Services</a>
                                                     <ul class="dl-submenu">
-                                                        <li><a href="services01.php">Services overview</a></li>
                                                         <li>
-                                                            <a href="#">Logistics</a>
+                                                            <a href="#">Services</a>
                                                             <ul class="dl-submenu">
-																<li><a href="services02.php">Logistics</a></li>
-																<li><a href="overland-transportation.php">Overland transportation</a></li>
-																<li><a href="air-freight.php">Air freight</a></li>
-																<li><a href="ocean-freight.php">Ocean freight</a></li>
-																<li><a href="large-projects.php">Large projects</a></li>
-																<li><a href="rail-transportation.php">Rail international shipping</a></li>
+                                                                <li><a href="{{url('/road-transport')}}">Road Transport</a></li>
+                                                                <li><a href="{{url('/air-freight')}}">Air Freight</a></li>
+                                                                <li><a href="#">Ocean Freight</a></li>
+                                                                <li><a href="#">Customs Clearance</a></li>
+                                                                <li><a href="#">Warehousing</a></li>
+                                                                <li><a href="#">Value Added Servives</a></li>
+                                                                <li><a href="#">Railway Services</a></li>
                                                             </ul><!-- .dl-submenu end -->
                                                         </li>
-                                                    <li><a href="warehousing.php">Warehousing</a></li>
-                                                    <li><a href="supply-chain-management.php">Supply chain management</a></li>
-                                                    <li><a href="packaging-options.php">Packaging options</a></li>
-                                                    <li><a href="consulting-services.php">Consulting services</a></li>
                                                     </ul><!-- dl-submenu end -->
                                                 </li>
 
 
-												<li><a href="media.php">Media</a></li>
-												<li><a href="terms-conditions.php">Terms & Conditions</a></li>
-												<li><a href="contact-us.php">Contacts</a></li>
+												<li><a href="#">Media</a></li>
+												<li><a href="{{ url('/contact') }}">Contacts</a></li>
                                             </ul><!-- .dl-menu end -->
                                         </div><!-- #dl-menu end -->
 
-                                        <!-- #search start -->
-                                        <div id="search">
-                                            <form action="#" method="get">
-                                                <input class="search-submit" type="submit" />
-                                                <input id="m_search" name="s" type="text" placeholder="Type and hit enter..." />
-                                            </form>
-                                        </div><!-- #search end -->
                                     </div><!-- MAIN NAVIGATION END -->
                                 </nav><!-- .navbar.navbar-default end -->
                             </div><!-- .col-md-12 end -->
@@ -152,24 +131,20 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <h1>Services - Ocean freight</h1>
+                        <h1>Services - Air freight</h1>
 
                         <div class="breadcrumb-container">
                             <ul class="breadcrumb clearfix">
                                 <li>You are here:</li>
                                 <li>
-                                    <a href="index.html">Home</a>
+                                    <a href="{{ url('/') }}">Home</a>
                                 </li>
                                 <li>
-                                    <a href="services02.html">Services</a>
-                                </li>
-
-                                <li>
-                                    <a href="services02.html">Logistics</a>
+                                    <a href="{{ url('/') }}">Our Services</a>
                                 </li>
 
                                 <li>
-                                    <a href="#">Ocean freight</a>
+                                    <a href="{{ url('/ocean-freight') }}">Ocean freight</a>
                                 </li>
                             </ul><!-- .breadcrumb end -->
                         </div><!-- .breadcrumb-container end -->
@@ -183,63 +158,52 @@
             <div class="container">
                 <div class="row">
 
-                     <aside class="col-md-3 aside aside-left">
+                    <aside class="col-md-3 aside aside-left">
                         <ul class="aside-widgets">
                             <li class="widget widget_nav_menu clearfix">
                                 <div class="title">
-                                    <h3>Iwe Freight</h3>
+                                    <h3>Giant Freight Services</h3>
                                 </div>
                                 <ul class="menu">
                                     <li class="menu-item">
-                                        <a href="warehousing.php">Ware Housing</a>
+                                        <a href="{{url('/road-transport')}}">Road Transport</a>
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="supply-chain-management.php">Supply Chain Management</a>
+                                        <a href="{{url('/air-freight')}}">Air Freight</a>
                                     </li>
 
                                     <li class="menu-item current-menu-item">
-                                        <a href="packaging-options.php">Packaging Options</a>
+                                        <a href="#">Ocean Freight</a>
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="consulting-services.php">Consulting Services</a>
+                                        <a href="#">Customs Clearance</a>
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="services02.php">Logistics</a>
+                                        <a href="#">Warehousing</a>
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="overland-transportation.php">Overland Transportation</a>
+                                        <a href="#">Value Added Servives</a>
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="ocean-freight.php">Ocean Freight</a>
-                                    </li>
-
-                                    <li class="menu-item">
-                                        <a href="large-projects.php">Large Projects</a>
-                                    </li>
-
-                                    <li class="menu-item">
-                                        <a href="rail-transportation.php">Rail Transportation</a>
+                                        <a href="#">Railway Services</a>
                                     </li>
                                 </ul><!-- .menu end -->
                             </li><!-- .widget.widget_nav_menu end -->
 
                             <li class="widget widget-text">
                                 <div class="title">
-                                    <h3>brochure download</h3>
+                                    <h3>Download Our Company Profile</h3>
                                 </div>
 
-                                <img src="img/pics/brochure01.jpg" alt="Trucking brochure"/>
-                                <br />
-
-                                <a href="trucking_brochure.pdf" target="_blank" class="download-link">
+                                <a href="{{ asset('giant/profile/giant-freight-limited.pdf') }}" target="_blank" class="download-link">
                                     <span>
                                         <i class="fa fa-file-pdf-o"></i>
-                                        iwe Freight ltd.pdf
+                                        Company Profile
                                     </span>
                                 </a>
                             </li><!-- .widget.widget-text end -->
@@ -250,7 +214,7 @@
                                    <h3>contact us</h3>
                                 </div>
 
-                                <img src="img/pics/locations.jpg" alt="contact us"/>
+                                <img src="{{asset('giant/img/pics/locations.jpg')}}" alt="contact us"/>
 
                                 <br />
 
@@ -259,7 +223,7 @@
                                     us today!
                                 </p>
 
-                                <a href="contact-us.php" class="read-more">
+                                <a href="{{ url('/contact') }}" class="read-more">
                                     <span>
                                         Contact us
                                         <i class="fa fa-chevron-right"></i>
@@ -268,10 +232,11 @@
                             </li><!-- .widget-text end -->
                         </ul><!-- .aside-widgets end -->
                     </aside><!-- .aside.aside-left end -->
+
                     <div class="col-md-9">
                         <div class="row">
                             <div class="col-md-5">
-                                <img src="img/pics/img29.jpg" alt=""/>
+                                <img src="{{asset('giant/img/pics/img29.jpg')}}" alt=""/>
                             </div><!-- .col-md-4 end -->
 
                             <div class="col-md-7">
@@ -294,7 +259,7 @@ Our Sea Freight services are provided to clients intending to import or export g
                                 <h3>Your cargo is safe with us</h3>
 
                                 <p>
-                                   Iwe Freight welcomes your business in East Africa and would like to help you in providing
+                                   Giant Freight welcomes your business in East Africa and would like to help you in providing
 								   our experience in Clearing & Forwarding, Moving & Expert handling of your containers from
 								   Seaport/Airport. We are committed to building strong relationships with our clients and
 								   making sure that they are satisfied.
@@ -482,12 +447,12 @@ Our Sea Freight services are provided to clients intending to import or export g
                                 </span>
                                 <br />
 
-                                <a href="mailto:">info@iwefreight.com</a>
+                                <a href="mailto:">info@giant.com</a>
                                 <br />
                                 <ul class="footer-social-icons">
-                                    <li><a href="https://web.facebook.com/Iwe-Freight-Ltd-705979053122625/?hc_ref=ARSkjwRofd0-nlx-qrVTMdJ6Zz09OVvo8nV1cfyPUzK1xTkXb6Qn0yk4BnOWJRJnJ7M&fref=nf&__xts__%5B0%5D=68.ARBj7FdUsztlEmYc7M7DkxCRxyCR5WJTdcHhbGcKSFaMDEkfKvWz_tBLyqhvGKW9SmGzKZ3zrkbnPKkIuZt0Tn4l8Z1jrEUnqdxkjjly-yb2Owt8AEUCAvz6r4jiic5kx-PG4nBW3srj09Yo8PZ6S8KcKEzaFiQEmpKCAkxJmGn3bK5GsR9RbMfjmCpb00y9E21PMytWt442KZLLyDvJjm6ApzrQLGCTp8ConCrHeaxdakDqRTNm4jlIiE_aI1Tb8sQ8ivSuA15vxst08XARXi9r3UGEipQFjKyRGCQj0UrF8QTFnxhOI2pZW9lxAMp0-ZMEqCNlHvRWYuB_jIRCMzQ&__tn__=kC-R" class="fa fa-facebook"></a></li>
-                                    <li><a href="https://www.instagram.com/iwefreightltd/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://twitter.com/LtdIwe" class="fa fa-twitter"></a></li>
+                                    <li><a href="https://web.facebook.com/Freight-Ltd-705979053122625/?hc_ref=ARSkjwRofd0-nlx-qrVTMdJ6Zz09OVvo8nV1cfyPUzK1xTkXb6Qn0yk4BnOWJRJnJ7M&fref=nf&__xts__%5B0%5D=68.ARBj7FdUsztlEmYc7M7DkxCRxyCR5WJTdcHhbGcKSFaMDEkfKvWz_tBLyqhvGKW9SmGzKZ3zrkbnPKkIuZt0Tn4l8Z1jrEUnqdxkjjly-yb2Owt8AEUCAvz6r4jiic5kx-PG4nBW3srj09Yo8PZ6S8KcKEzaFiQEmpKCAkxJmGn3bK5GsR9RbMfjmCpb00y9E21PMytWt442KZLLyDvJjm6ApzrQLGCTp8ConCrHeaxdakDqRTNm4jlIiE_aI1Tb8sQ8ivSuA15vxst08XARXi9r3UGEipQFjKyRGCQj0UrF8QTFnxhOI2pZW9lxAMp0-ZMEqCNlHvRWYuB_jIRCMzQ&__tn__=kC-R" class="fa fa-facebook"></a></li>
+                                    <li><a href="https://www.instagram.com/freightltd/" class="fa fa-instagram"></a></li>
+                                    <li><a href="https://twitter.com/Ltd" class="fa fa-twitter"></a></li>
                                 </ul><!-- .footer-social-icons end -->
                             </li><!-- .widget.widget-text end -->
                         </ul><!-- .col-md-3.footer-widget-container end -->
@@ -499,7 +464,7 @@ Our Sea Freight services are provided to clients intending to import or export g
                 <div class="container">
                     <div class="row">
                         <div class="col-md-6">
-                            <p>IWE FREIGHT LTD 2001-2019. All RIGHTS RESERVED.</p>
+                            <p>giant FREIGHT LTD 2001-2019. All RIGHTS RESERVED.</p>
                         </div><!-- .col-md-6 end -->
 
                         <div class="col-md-6">

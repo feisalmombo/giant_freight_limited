@@ -231,7 +231,7 @@
                                 </a>
                             </li><!-- .widget-text end -->
                         </ul><!-- .aside-widgets end -->
-                    </aside><!-- .aside.aside-left end -->
+                     </aside><!-- .aside.aside-left end -->
                     <div class="col-md-9">
                         <img src="{{asset('giant/img/pics/img28.jpg')}}" alt=""/>
 
