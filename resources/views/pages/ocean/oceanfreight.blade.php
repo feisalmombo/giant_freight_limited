@@ -322,39 +322,6 @@ Our Sea Freight services are provided to clients intending to import or export g
                             </div><!-- .col-md-12 end -->
                         </div><!-- .row end -->
 
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="custom-heading">
-                                    <h3>industries covered</h3>
-                                </div><!-- .custom-heading end -->
-
-                                <ul class="service-list-big-icons">
-                                    <li>
-                                        <div class="icon-container">
-                                            <img src="img/svg/pi-cargo-retail.svg" alt="retail svg icon"/>
-                                        </div>
-
-                                        <h4>Textile Logistics</h4>
-                                    </li>
-
-                                    <li>
-                                        <div class="icon-container">
-                                            <img src="img/svg/pi-food-beverage.svg" alt="food and beverage svg icon"/>
-                                        </div>
-
-                                        <h4>Retail Logistics</h4>
-                                    </li>
-
-                                    <li>
-                                        <div class="icon-container">
-                                            <img src="img/svg/pi-mark-energy.svg" alt="retail svg icon"/>
-                                        </div>
-
-                                        <h4>Oil & Gas Logistics</h4>
-                                    </li>
-                                </ul><!-- .service-list-big-icons end -->
-                            </div><!-- .col-md-12 end -->
-                        </div><!-- .row end -->
                     </div><!-- .col-md-9 end -->
                 </div><!-- .row end -->
             </div><!-- .container end -->
