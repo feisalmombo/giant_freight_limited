@@ -116,3 +116,6 @@ Route::group(['middleware' => 'CheckUserStatus'], function () {
 
             // Ocean Freight Service
             Route::resource('/ocean-freight', 'OceanFreightController');
+
+            // Rail Service
+            Route::resource('/rail-services', 'RailServicesController');
