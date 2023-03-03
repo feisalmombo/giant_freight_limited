@@ -233,12 +233,12 @@
                     </aside><!-- .aside.aside-left end -->
 
                     <div class="col-md-9">
-                        <img src="img/pics/img39.jpg" alt=""/>
+                        <img src="{{asset('giant/img/pics/img39.jpg')}}" alt=""/>
 
                         <br />
 
                         <div class="custom-heading">
-                            <h2>rail international shipping</h2>
+                            <h2>Rail Services</h2>
                         </div>
 
                         <p>
@@ -250,7 +250,7 @@
 
                         <div class="row">
                             <div class="col-md-5">
-                                <img src="img/pics/img38.jpg" alt=""/>
+                                <img src="{{asset('giant/img/pics/img38.jpg')}}" alt=""/>
                             </div><!-- .col-md-5 end -->
 
                             <div class="col-md-7">
