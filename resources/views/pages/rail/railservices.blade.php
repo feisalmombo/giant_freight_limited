@@ -157,63 +157,52 @@
             <div class="container">
                 <div class="row">
 
-					<aside class="col-md-3 aside aside-left">
+                    <aside class="col-md-3 aside aside-left">
                         <ul class="aside-widgets">
                             <li class="widget widget_nav_menu clearfix">
                                 <div class="title">
-                                    <h3>Iwe Freight</h3>
+                                    <h3>Giant Freight Services</h3>
                                 </div>
                                 <ul class="menu">
                                     <li class="menu-item">
-                                        <a href="warehousing.php">Ware Housing</a>
+                                        <a href="{{url('/road-transport')}}">Road Transport</a>
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="supply-chain-management.php">Supply Chain Management</a>
+                                        <a href="{{url('/air-freight')}}">Air Freight</a>
                                     </li>
 
                                     <li class="menu-item current-menu-item">
-                                        <a href="packaging-options.php">Packaging Options</a>
+                                        <a href="#">Ocean Freight</a>
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="consulting-services.php">Consulting Services</a>
+                                        <a href="#">Customs Clearance</a>
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="services02.php">Logistics</a>
+                                        <a href="#">Warehousing</a>
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="overland-transportation.php">Overland Transportation</a>
+                                        <a href="#">Value Added Servives</a>
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="ocean-freight.php">Ocean Freight</a>
-                                    </li>
-
-                                    <li class="menu-item">
-                                        <a href="large-projects.php">Large Projects</a>
-                                    </li>
-
-                                    <li class="menu-item">
-                                        <a href="rail-transportation.php">Rail Transportation</a>
+                                        <a href="#">Railway Services</a>
                                     </li>
                                 </ul><!-- .menu end -->
                             </li><!-- .widget.widget_nav_menu end -->
 
                             <li class="widget widget-text">
                                 <div class="title">
-                                    <h3>brochure download</h3>
+                                    <h3>Download Our Company Profile</h3>
                                 </div>
 
-                                <img src="img/pics/brochure01.jpg" alt="Trucking brochure"/>
-                                <br />
-
-                                <a href="trucking_brochure.pdf" target="_blank" class="download-link">
+                                <a href="{{ asset('giant/profile/giant-freight-limited.pdf') }}" target="_blank" class="download-link">
                                     <span>
                                         <i class="fa fa-file-pdf-o"></i>
-                                        iwe Freight ltd.pdf
+                                        Company Profile
                                     </span>
                                 </a>
                             </li><!-- .widget.widget-text end -->
@@ -224,7 +213,7 @@
                                    <h3>contact us</h3>
                                 </div>
 
-                                <img src="img/pics/locations.jpg" alt="contact us"/>
+                                <img src="{{asset('giant/img/pics/locations.jpg')}}" alt="contact us"/>
 
                                 <br />
 
@@ -233,7 +222,7 @@
                                     us today!
                                 </p>
 
-                                <a href="contact-us.php" class="read-more">
+                                <a href="{{ url('/contact') }}" class="read-more">
                                     <span>
                                         Contact us
                                         <i class="fa fa-chevron-right"></i>
@@ -242,7 +231,7 @@
                             </li><!-- .widget-text end -->
                         </ul><!-- .aside-widgets end -->
                     </aside><!-- .aside.aside-left end -->
-                    
+
                     <div class="col-md-9">
                         <img src="img/pics/img39.jpg" alt=""/>
 
