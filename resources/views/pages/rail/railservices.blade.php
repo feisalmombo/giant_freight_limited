@@ -157,7 +157,7 @@
             <div class="container">
                 <div class="row">
 
-					 <aside class="col-md-3 aside aside-left">
+					<aside class="col-md-3 aside aside-left">
                         <ul class="aside-widgets">
                             <li class="widget widget_nav_menu clearfix">
                                 <div class="title">
@@ -242,6 +242,7 @@
                             </li><!-- .widget-text end -->
                         </ul><!-- .aside-widgets end -->
                     </aside><!-- .aside.aside-left end -->
+                    
                     <div class="col-md-9">
                         <img src="img/pics/img39.jpg" alt=""/>
 
