@@ -44,8 +44,9 @@
                                     <!-- .navbar-header start -->
                                     <div class="navbar-header">
                                         <div class="logo">
-                                            <a href="index.html">
-                                                 <img src="img/logo.png" alt="Iwe Freight"/>
+                                            <a href="#" style="padding-bottom: 3px; font-size: 13px; color: #2780BA; font-weight: 700;">
+                                                {{--  <img src="{{asset('giant/img/logo.png')}}" alt="Giant Freight"/>  --}}
+                                                Giant Freight Limited
                                             </a>
                                         </div><!-- .logo end -->
                                     </div><!-- .navbar-header start -->
