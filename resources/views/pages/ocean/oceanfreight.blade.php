@@ -190,7 +190,7 @@
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="{{ url('/rail-services') }}">Rail Services</a>
+                                        <a href="{{ url('/rail-services') }}">Railway Services</a>
                                     </li>
                                 </ul><!-- .menu end -->
                             </li><!-- .widget.widget_nav_menu end -->
