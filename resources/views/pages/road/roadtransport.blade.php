@@ -65,7 +65,7 @@
                                                 <ul class="dropdown-menu">
                                                     <li><a href="{{url('/road-transport')}}">Road Transport</a></li>
                                                     <li><a href="{{url('/air-freight')}}">Air Freight</a></li>
-                                                    <li><a href="#">Ocean Freight</a></li>
+                                                    <li><a href="{{ url('/ocean-freight') }}">Ocean Freight</a></li>
                                                     <li><a href="#">Customs Clearance</a></li>
                                                     <li><a href="#">Warehousing</a></li>
                                                     <li><a href="#">Value Added Servives</a></li>
@@ -102,7 +102,7 @@
                                                             <ul class="dl-submenu">
                                                                 <li><a href="{{url('/road-transport')}}">Road Transport</a></li>
                                                                 <li><a href="{{url('/air-freight')}}">Air Freight</a></li>
-                                                                <li><a href="#">Ocean Freight</a></li>
+                                                                <li><a href="{{ url('/ocean-freight') }}">Ocean Freight</a></li>
                                                                 <li><a href="#">Customs Clearance</a></li>
                                                                 <li><a href="#">Warehousing</a></li>
                                                                 <li><a href="#">Value Added Servives</a></li>
@@ -174,7 +174,7 @@
                                     </li>
 
                                     <li class="menu-item current-menu-item">
-                                        <a href="#">Ocean Freight</a>
+                                        <a href="{{ url('/ocean-freight') }}">Ocean Freight</a>
                                     </li>
 
                                     <li class="menu-item">
