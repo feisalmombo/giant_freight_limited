@@ -61,11 +61,11 @@
                                                 <ul class="dropdown-menu">
                                                     <li><a href="{{url('/road-transport')}}">Road Transport</a></li>
                                                     <li><a href="{{url('/air-freight')}}">Air Freight</a></li>
-                                                    <li><a href="#">Ocean Freight</a></li>
+                                                    <li><a href="{{ url('/ocean-freight') }}">Ocean Freight</a></li>
                                                     <li><a href="#">Customs Clearance</a></li>
                                                     <li><a href="#">Warehousing</a></li>
                                                     <li><a href="#">Value Added Servives</a></li>
-                                                    <li><a href="{{ url('/rail-services') }}">Rail Services</a></li>
+                                                    <li><a href="{{ url('/rail-services') }}">Railway Services</a></li>
                                                 </ul><!-- .dropdown-menu end -->
                                             </li><!-- .dropdown end -->
 
@@ -98,11 +98,11 @@
                                                             <ul class="dl-submenu">
                                                                 <li><a href="{{url('/road-transport')}}">Road Transport</a></li>
                                                                 <li><a href="{{url('/air-freight')}}">Air Freight</a></li>
-                                                                <li><a href="#">Ocean Freight</a></li>
+                                                                <li><a href="{{ url('/ocean-freight') }}">Ocean Freight</a></li>
                                                                 <li><a href="#">Customs Clearance</a></li>
                                                                 <li><a href="#">Warehousing</a></li>
                                                                 <li><a href="#">Value Added Servives</a></li>
-                                                                <li><a href="{{ url('/rail-services') }}">Rail Services</a></li>
+                                                                <li><a href="{{ url('/rail-services') }}">Railway Services</a></li>
                                                             </ul><!-- .dl-submenu end -->
                                                         </li>
                                                     </ul><!-- dl-submenu end -->
