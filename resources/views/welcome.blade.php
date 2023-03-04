@@ -65,7 +65,7 @@
                                                     <li><a href="#">Customs Clearance</a></li>
                                                     <li><a href="#">Warehousing</a></li>
                                                     <li><a href="#">Value Added Servives</a></li>
-                                                    <li><a href="{{ URL('/rail-services') }}">Railway Services</a></li>
+                                                    <li><a href="{{ url('/rail-services') }}">Railway Services</a></li>
                                                 </ul><!-- .dropdown-menu end -->
                                             </li><!-- .dropdown end -->
 
@@ -100,7 +100,7 @@
                                                                 <li><a href="#">Customs Clearance</a></li>
                                                                 <li><a href="#">Warehousing</a></li>
                                                                 <li><a href="#">Value Added Servives</a></li>
-                                                                <li><a href="#">Railway Services</a></li>
+                                                                <li><a href="{{ url('/rail-services') }}">Railway Services</a></li>
                                                             </ul><!-- .dl-submenu end -->
                                                         </li>
                                                     </ul><!-- dl-submenu end -->
