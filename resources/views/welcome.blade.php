@@ -384,7 +384,7 @@
 
                                             <p>
                                                 Need custom logistic service? We got
-                                                it covered. From overland, air, rail
+                                                it covered. From overland, air, railway
                                                 and sea transportation. Fast, safe
                                                 and accurate shipment provided all
                                                 over the globe directly to your home.
