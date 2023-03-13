@@ -3,7 +3,7 @@
 <html>
 
 <head>
-    <title>Giant Freight Limited -  Rail Services</title>
+    <title>Giant Freight Limited -  Railway Services</title>
         <meta name="description" content="Giant Freight">
         <meta name="author" content="Giant Freight">
         <meta name="keywords" content="transportation, logistics, transportation , logistics , cargo, business">
@@ -130,7 +130,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <h1>Services - Rail Services</h1>
+                        <h1>Services - Railway Services</h1>
 
                         <div class="breadcrumb-container">
                             <ul class="breadcrumb clearfix">
@@ -143,7 +143,7 @@
                                 </li>
 
                                 <li>
-                                    <a href="{{ url('/rail-services') }}">Rail Services</a>
+                                    <a href="{{ url('/rail-services') }}">Railway Services</a>
                                 </li>
                             </ul><!-- .breadcrumb end -->
                         </div><!-- .breadcrumb-container end -->
@@ -189,7 +189,7 @@
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="#">Rail Services</a>
+                                        <a href="#">Railway Services</a>
                                     </li>
                                 </ul><!-- .menu end -->
                             </li><!-- .widget.widget_nav_menu end -->
@@ -238,11 +238,11 @@
                         <br />
 
                         <div class="custom-heading">
-                            <h2>Rail Services</h2>
+                            <h2>Railway Services</h2>
                         </div>
 
                         <p>
-                          The company maintains an extensive rail network across South Africa that connects with other rail networks in the sub-Saharan region, with its rail infrastructure representing about 80% of Africas total.
+                          The company maintains an extensive railway network across South Africa that connects with other railway networks in the sub-Saharan region, with its railway infrastructure representing about 80% of Africas total.
 
                         </p>
 
