@@ -119,3 +119,6 @@ Route::group(['middleware' => 'CheckUserStatus'], function () {
 
             // Rail Service
             Route::resource('/rail-services', 'RailServicesController');
+
+            // Warehousing Service
+            Route::resource('/warehousing', 'WarehousingController');
