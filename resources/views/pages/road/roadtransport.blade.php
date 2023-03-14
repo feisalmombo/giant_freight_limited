@@ -67,7 +67,7 @@
                                                     <li><a href="{{url('/air-freight')}}">Air Freight</a></li>
                                                     <li><a href="{{ url('/ocean-freight') }}">Ocean Freight</a></li>
                                                     <li><a href="#">Customs Clearance</a></li>
-                                                    <li><a href="#">Warehousing</a></li>
+                                                    <li><a href="{{ url('/warehousing') }}">Warehousing</a></li>
                                                     <li><a href="#">Value Added Servives</a></li>
                                                     <li><a href="{{ url('/rail-services') }}">Railway Services</a></li>
                                                 </ul><!-- .dropdown-menu end -->
@@ -104,7 +104,7 @@
                                                                 <li><a href="{{url('/air-freight')}}">Air Freight</a></li>
                                                                 <li><a href="{{ url('/ocean-freight') }}">Ocean Freight</a></li>
                                                                 <li><a href="#">Customs Clearance</a></li>
-                                                                <li><a href="#">Warehousing</a></li>
+                                                                <li><a href="{{ url('/warehousing') }}">Warehousing</a></li>
                                                                 <li><a href="#">Value Added Servives</a></li>
                                                                 <li><a href="{{ url('/rail-services') }}">Railway Services</a></li>
                                                             </ul><!-- .dl-submenu end -->
@@ -182,7 +182,7 @@
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="#">Warehousing</a>
+                                        <a href="{{ url('/warehousing') }}">Warehousing</a>
                                     </li>
 
                                     <li class="menu-item">
