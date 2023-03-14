@@ -1,0 +1,1 @@
+<h1>WAREHOUSING PAGE</h1>
