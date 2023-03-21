@@ -318,7 +318,7 @@
         </div><!-- .page-content end -->
 
 
-        <!-- #footer-wrapper end -->
+        <!-- #footer-wrapper start -->
         @include('partials.footer')
         <!-- #footer-wrapper end -->
 
