@@ -481,8 +481,4 @@
         <script src="style-switcher/styleSwitcher.js"></script><!-- styleswitcher script -->
         <script src="js/include.js"></script><!-- custom js functions -->
     </body>
-
-<!-- Mirrored from pixel-industry.com/html/trucking/warehousing.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 11 Sep 2019 11:09:12 GMT -->
-
-<!-- Mirrored from www.iwefreight.com/warehousing.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Feb 2023 07:48:07 GMT -->
 </html>
