@@ -245,9 +245,9 @@
                     <div class="col-md-4 col-sm-4">
                         <div class="service-feature-box">
                             <div class="service-media">
-                                <img src="{{asset('giant/img/pics/img01.jpg')}}" alt="Trucking"/>
+                                <img src="{{asset('giant/img/pics/img01.jpg')}}" alt="Road Transport"/>
 
-                                <a href="overland-transportation-2.html" class="read-more02">
+                                <a href="{{ url('/road-transport') }}" class="read-more02">
                                     <span>
                                         Read more
                                         <i class="fa fa-chevron-right"></i>
@@ -257,7 +257,7 @@
 
                             <div class="service-body">
                                 <div class="custom-heading">
-                                    <h4>GROUND SHIPPING</h4>
+                                    <h4>ROAD TRANSPORT</h4>
                                 </div><!-- .custom-heading end -->
 
                                 <p>
@@ -273,9 +273,9 @@
                     <div class="col-md-4 col-sm-4">
                         <div class="service-feature-box">
                             <div class="service-media">
-                                <img src="{{asset('giant/img/pics/img02.jpg')}}" alt="Trucking"/>
+                                <img src="{{asset('giant/img/pics/img02.jpg')}}" alt="Oceab Freight"/>
 
-                                <a href="large-projects-2.html" class="read-more02">
+                                <a href="{{ url('/ocean-freight') }}" class="read-more02">
                                     <span>
                                         Read more
                                         <i class="fa fa-chevron-right"></i>
@@ -285,7 +285,7 @@
 
                             <div class="service-body">
                                 <div class="custom-heading">
-                                    <h4>LARGE PROJECTS</h4>
+                                    <h4>OCEAN FREIGHT</h4>
                                 </div><!-- .custom-heading end -->
 
                                 <p>
@@ -301,9 +301,9 @@
                     <div class="col-md-4 col-sm-4">
                         <div class="service-feature-box">
                             <div class="service-media">
-                                <img src="{{asset('giant/img/pics/img03.jpg')}}" alt="Trucking"/>
+                                <img src="{{asset('giant/img/pics/img03.jpg')}}" alt="Air Freight"/>
 
-                                <a href="air-freight-2.html" class="read-more02">
+                                <a href="{{ url('/air-freight') }}" class="read-more02">
                                     <span>
                                         Read more
                                         <i class="fa fa-chevron-right"></i>
@@ -313,7 +313,7 @@
 
                             <div class="service-body">
                                 <div class="custom-heading">
-                                    <h4>INTERNATIONAL AIR FREIGHT</h4>
+                                    <h4>AIR FREIGHT</h4>
                                 </div><!-- .custom-heading end -->
 
                                 <p>
