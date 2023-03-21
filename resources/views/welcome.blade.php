@@ -313,7 +313,7 @@
                                         <div class="service-media">
                                             <img src="{{asset('giant/img/pics/img02.jpg')}}" alt="Ocean Freight"/>
 
-                                            <a href="" class="read-more02">
+                                            <a href="{{ url('/ocean-freight') }}" class="read-more02">
                                                 <span>
                                                     Read More
                                                     <i class="fa fa-chevron-right"></i>
