@@ -255,7 +255,7 @@
             </div><!-- .container end -->
         </div><!-- .page-content end -->
 
-        <!-- #footer end -->
+        <!-- #footer start -->
         @include('partials.footer')
         <!-- #footer end -->
 
