@@ -204,7 +204,7 @@
                     </div><!-- .col-md-6 end -->
 
                     <div class="col-md-6 animated triggerAnimation" data-animate="zoomIn">
-                        <img src="img/pics/warehouse.jpg" alt=""/>
+                        <img src="{{asset('giant/img/pics/warehouse.jpg')}}" alt=""/>
                     </div><!-- .col-md-6 end -->
                 </div><!-- .row end -->
             </div><!-- .container end -->
