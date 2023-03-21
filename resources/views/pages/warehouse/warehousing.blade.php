@@ -134,17 +134,15 @@
                         <div class="breadcrumb-container">
                             <ul class="breadcrumb clearfix">
                                 <li>You are here:</li>
-
                                 <li>
-                                    <a href="index-2.html">Home</a>
+                                    <a href="{{ url('/') }}">Home</a>
+                                </li>
+                                <li>
+                                    <a href="{{ url('/') }}">Our Services</a>
                                 </li>
 
                                 <li>
-                                    <a href="services02-2.html">Services</a>
-                                </li>
-
-                                <li>
-                                    <a href="#">Warehousing</a>
+                                    <a href="{{ url('/warehousing') }}">Warehousing</a>
                                 </li>
                             </ul><!-- .breadcrumb end -->
                         </div><!-- .breadcrumb-container end -->
