@@ -341,7 +341,7 @@
                                         <div class="service-media">
                                             <img src="{{asset('giant/img/pics/img03.jpg')}}" alt="Air Freight"/>
 
-                                            <a href="" class="read-more02">
+                                            <a href="{{ url('/air-freight') }}" class="read-more02">
                                                 <span>
                                                     Read more
                                                     <i class="fa fa-chevron-right"></i>
@@ -369,7 +369,7 @@
                                         <div class="service-media">
                                             <img src="{{asset('giant/img/pics/img13.jpg')}}" alt="Warehousing"/>
 
-                                            <a href="" class="read-more02">
+                                            <a href="{{ url('/warehousing') }}" class="read-more02">
                                                 <span>
                                                     Read more
                                                     <i class="fa fa-chevron-right"></i>
