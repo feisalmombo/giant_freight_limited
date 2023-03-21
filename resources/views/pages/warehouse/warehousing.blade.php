@@ -1,10 +1,6 @@
 
 <!DOCTYPE html>
 <html>
-
-
-<!-- Mirrored from www.iwefreight.com/warehousing.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Feb 2023 07:48:06 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 
  <title>Iwe Freight - Clearing and forwarding company in East Africa</title>
