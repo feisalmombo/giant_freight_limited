@@ -122,3 +122,6 @@ Route::group(['middleware' => 'CheckUserStatus'], function () {
 
             // Warehousing Service
             Route::resource('/warehousing', 'WarehousingController');
+
+            // Customs Clearance Service
+            Route::resource('/customs-clearance', 'CustomsClearanceController');
