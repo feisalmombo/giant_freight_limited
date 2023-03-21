@@ -245,7 +245,7 @@
                     <div class="col-md-4 col-sm-4">
                         <div class="service-feature-box">
                             <div class="service-media">
-                                <img src="img/pics/img01.jpg" alt="Trucking"/>
+                                <img src="{{asset('giant/img/pics/img01.jpg')}}" alt="Trucking"/>
 
                                 <a href="overland-transportation-2.html" class="read-more02">
                                     <span>
@@ -273,7 +273,7 @@
                     <div class="col-md-4 col-sm-4">
                         <div class="service-feature-box">
                             <div class="service-media">
-                                <img src="img/pics/img02.jpg" alt="Trucking"/>
+                                <img src="{{asset('giant/img/pics/img02.jpg')}}" alt="Trucking"/>
 
                                 <a href="large-projects-2.html" class="read-more02">
                                     <span>
@@ -301,7 +301,7 @@
                     <div class="col-md-4 col-sm-4">
                         <div class="service-feature-box">
                             <div class="service-media">
-                                <img src="img/pics/img03.jpg" alt="Trucking"/>
+                                <img src="{{asset('giant/img/pics/img03.jpg')}}" alt="Trucking"/>
 
                                 <a href="air-freight-2.html" class="read-more02">
                                     <span>
