@@ -232,8 +232,8 @@
                    data-type="text"
                    data-delay="100"
                    data-parallax="10"
-                   >
-                    First class freight services!
+                   />
+                    First freight services!
                 </p>
             </div><!-- slide end -->
         </div><!-- .master-slider end -->
@@ -285,7 +285,7 @@
                                         <div class="service-media">
                                             <img src="{{asset('giant/img/pics/img01.jpg')}}" alt="Road Transport"/>
 
-                                            <a href="#" class="read-more02">
+                                            <a href="{{ url('/road-transport') }}" class="read-more02">
                                                 <span>
                                                     Read More
                                                     <i class="fa fa-chevron-right"></i>
