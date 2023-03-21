@@ -41,52 +41,39 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <nav class="navbar navbar-default nav-left" role="navigation">
-
                                     <!-- .navbar-header start -->
                                     <div class="navbar-header">
                                         <div class="logo">
-                                            <a href="index-2.html">
-                                                <img src="img/logo.png" alt="Iwe Freight"/>
+                                            <a href="#" style="padding-bottom: 3px; font-size: 13px; color: #2780BA; font-weight: 700;">
+                                               {{--  <img src="{{asset('giant/img/logo.png')}}" alt="Giant Freight"/>  --}}
+                                               Giant Freight Limited
                                             </a>
                                         </div><!-- .logo end -->
                                     </div><!-- .navbar-header start -->
 
                                     <!-- MAIN NAVIGATION -->
-                                    <!-- MAIN NAVIGATION -->
                                     <div class="collapse navbar-collapse">
                                         <ul class="nav navbar-nav">
-											<li><a href="index-3.html">Home</a></li>
-                                            <li><a href="about.html">About</a></li>
+											<li><a href="{{ url('/') }}">Home</a></li>
+                                            <li><a href="{{url('/about')}}">About Us</a></li>
 
 											<li class="dropdown">
-                                                <a href="#" data-toggle="dropdown" class="dropdown-toggle">Services</a>
+                                                <a href="{{ url('/') }}" data-toggle="dropdown" class="dropdown-toggle">Our Services</a>
                                                 <ul class="dropdown-menu">
-                                                    <li><a href="services01.html">Services overview</a></li>
-                                                    <li class="dropdown dropdown-submenu">
-                                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Logistics</a>
-                                                        <ul class="dropdown-menu">
-                                                            <li><a href="services02.html">Logistics</a></li>
-                                                            <li><a href="overland-transportation.html">Overland transportation</a></li>
-                                                            <li><a href="air-freight.html">Air freight</a></li>
-                                                            <li><a href="ocean-freight.html">Ocean freight</a></li>
-                                                            <li><a href="large-projects.html">Large projects</a></li>
-                                                            <li><a href="rail-transportation.html">Rail international shipping</a></li>
-
-                                                        </ul><!-- .dropdown-menu end -->
-                                                    </li><!-- .dropdown-submenu end -->
-                                                    <li><a href="warehousing.html">Warehousing</a></li>
-                                                    <li><a href="supply-chain-management.html">Supply chain management</a></li>
-                                                    <li><a href="packaging-options.html">Packaging options</a></li>
-                                                    <li><a href="consulting-services.html">Consulting services</a></li>
+                                                    <li><a href="{{url('/road-transport')}}">Road Transport</a></li>
+                                                    <li><a href="{{url('/air-freight')}}">Air Freight</a></li>
+                                                    <li><a href="{{ url('/ocean-freight') }}">Ocean Freight</a></li>
+                                                    <li><a href="#">Customs Clearance</a></li>
+                                                    <li><a href="{{ url('/warehousing') }}">Warehousing</a></li>
+                                                    <li><a href="#">Value Added Servives</a></li>
+                                                    <li><a href="{{ url('/rail-services') }}">Railway Services</a></li>
                                                 </ul><!-- .dropdown-menu end -->
                                             </li><!-- .dropdown end -->
 
 
-											<li><a href="media.html">Media</a></li>
+											<li><a href="#">Media</a></li>
 
-											<li><a href="terms-conditions.html">Terms & Conditions</a></li>
-
-											<li><a href="contact-us.html">Contacts</a></li>
+											<li><a href="{{ url('/contact') }}">Contacts Us</a></li>
 
                                         </ul><!-- .nav.navbar-nav end -->
 
@@ -96,49 +83,39 @@
 
                                             <ul class="dl-menu">
                                                 <li>
-                                                    <a href="index-3.html">Home</a>
+                                                    <a href="#">Home</a>
 
                                                 </li>
 
-                                                <li><a href="about-php.html">About</a></li>
+                                                <li><a href="#">About</a></li>
 
                                                 <li>
-                                                    <a href="#">Services</a>
+                                                    <a href="#">Our Services</a>
                                                     <ul class="dl-submenu">
-                                                        <li><a href="services01.html">Services overview</a></li>
                                                         <li>
-                                                            <a href="#">Logistics</a>
+                                                            <a href="#">Services</a>
                                                             <ul class="dl-submenu">
-																<li><a href="services02.html">Logistics</a></li>
-																<li><a href="overland-transportation.html">Overland transportation</a></li>
-																<li><a href="air-freight.html">Air freight</a></li>
-																<li><a href="ocean-freight.html">Ocean freight</a></li>
-																<li><a href="large-projects.html">Large projects</a></li>
-																<li><a href="rail-transportation.html">Rail international shipping</a></li>
+                                                                <li><a href="{{url('/road-transport')}}">Road Transport</a></li>
+                                                                <li><a href="{{url('/air-freight')}}">Air Freight</a></li>
+                                                                <li><a href="{{ url('/ocean-freight') }}">Ocean Freight</a></li>
+                                                                <li><a href="#">Customs Clearance</a></li>
+                                                                <li><a href="{{ url('/warehousing') }}">Warehousing</a></li>
+                                                                <li><a href="#">Value Added Servives</a></li>
+                                                                <li><a href="{{ url('/rail-services') }}">Railway Services</a></li>
                                                             </ul><!-- .dl-submenu end -->
                                                         </li>
-                                                    <li><a href="warehousing.html">Warehousing</a></li>
-                                                    <li><a href="supply-chain-management.html">Supply chain management</a></li>
-                                                    <li><a href="packaging-options.html">Packaging options</a></li>
-                                                    <li><a href="consulting-services.html">Consulting services</a></li>
                                                     </ul><!-- dl-submenu end -->
                                                 </li>
 
 
-												<li><a href="media.html">Media</a></li>
-												<li><a href="terms-conditions.html">Terms & Conditions</a></li>
-												<li><a href="contact-us.html">Contacts</a></li>
+												<li><a href="#">Media</a></li>
+												<li><a href="#">Terms & Conditions</a></li>
+												<li><a href="{{ url('/contact') }}">Contacts</a></li>
                                             </ul><!-- .dl-menu end -->
                                         </div><!-- #dl-menu end -->
 
-                                        <!-- #search start -->
-                                        <div id="search">
-                                            <form action="#" method="get">
-                                                <input class="search-submit" type="submit" />
-                                                <input id="m_search" name="s" type="text" placeholder="Type and hit enter..." />
-                                            </form>
-                                        </div><!-- #search end -->
                                     </div><!-- MAIN NAVIGATION END -->
+
                                 </nav><!-- .navbar.navbar-default end -->
                             </div><!-- .col-md-12 end -->
                         </div><!-- .row end -->
