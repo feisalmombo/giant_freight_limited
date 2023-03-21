@@ -329,6 +329,9 @@
             </div><!-- .container end -->
         </div><!-- .page-content end -->
 
+        <!-- #footer-wrapper start -->
+        @include('partials.footer')
+        <!-- #footer-wrapper end -->
 
         <script src="js/jquery-2.1.4.min.js"></script><!-- jQuery library -->
         <script src="js/bootstrap.min.js"></script><!-- .bootstrap script -->
