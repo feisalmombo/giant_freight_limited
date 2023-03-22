@@ -349,7 +349,7 @@
 
                                     <div class="service-body">
                                         <div class="custom-heading">
-                                            <h4>OCEAN FREIGHT</h4>
+                                            <h4>ROAD FREIGHT</h4>
                                         </div><!-- .custom-heading end -->
 
                                         <p>
@@ -365,7 +365,7 @@
                             <div class="col-md-4 col-sm-4">
                                 <div class="service-feature-box">
                                     <div class="service-media">
-                                        <img src="img/pics/img02.jpg" alt="Trucking"/>
+                                        <img src="{{asset('giant/img/pics/img02.jpg')}}" alt="Ocean Freight"/>
 
                                         <a href="{{ url('/ocean-freight') }}" class="read-more02">
                                             <span>
@@ -377,7 +377,7 @@
 
                                     <div class="service-body">
                                         <div class="custom-heading">
-                                            <h4>LARGE PROJECTS</h4>
+                                            <h4>OCEAN FREIGHT</h4>
                                         </div><!-- .custom-heading end -->
 
                                         <p>
@@ -393,9 +393,9 @@
                             <div class="col-md-4 col-sm-4">
                                 <div class="service-feature-box">
                                     <div class="service-media">
-                                        <img src="img/pics/img03.jpg" alt="Trucking"/>
+                                        <img src="{{asset('giant/img/pics/img03.jpg')}}" alt="Air Freight"/>
 
-                                        <a href="air-freight-2.html" class="read-more02">
+                                        <a href="{{ url('/air-freight') }}" class="read-more02">
                                             <span>
                                                 Read more
                                                 <i class="fa fa-chevron-right"></i>
