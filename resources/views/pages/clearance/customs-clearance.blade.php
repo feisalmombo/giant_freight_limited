@@ -162,7 +162,7 @@
                         <ul class="aside-widgets">
                             <li class="widget widget_nav_menu clearfix">
                                 <div class="title">
-                                    <h3>Iwe Freight</h3>
+                                    <h3>Giant Freight</h3>
                                 </div>
                                 <ul class="menu">
                                     <li class="menu-item">
@@ -433,122 +433,7 @@
             </div><!-- .container end -->
         </div><!-- .page-content end -->
 
- <div id="footer-wrapper" class="footer-dark">
-            <footer id="footer">
-                <div class="container">
-                    <div class="row">
-                        <ul class="col-md-3 col-sm-6 footer-widget-container clearfix">
-                            <!-- .widget.widget_text -->
-                            <li class="widget widget_newsletterwidget">
-                                <div class="title">
-                                    <h3>Newsletter subscribe</h3>
-                                </div>
 
-                                <p>
-                                    Subscribe to our newsletter and we will
-                                    inform you about newest projects and promotions.
-                                </p>
-
-                                <br />
-
-                                <form class="newsletter">
-                                    <input class="email" type="email" placeholder="Your email...">
-                                    <input type="submit" class="submit" value="">
-                                </form>
-
-                                <br/> <br/>
-                                 <img src="img/payment-options.png" alt="Payment Options" style="width:100%; ">
-
-
-                            </li><!-- .widget.widget_newsletterwidget end -->
-                        </ul><!-- .col-md-3.footer-widget-container end -->
-
-                        <ul class="col-md-3 col-sm-6 footer-widget-container">
-                            <!-- .widget-pages start -->
-                            <li class="widget widget_pages">
-                                <div class="title">
-                                    <h3>quick links</h3>
-                                </div>
-
-                                <ul>
-                                    <li><a href="about.html">About us</a></li>
-                                    <li><a href="terms-conditions.html">Terms & Conditions</a></li>
-                                    <li><a href="contact-us.html">Contact Us</a></li>
-                                </ul>
-
-
-                            </li><!-- .widget-pages end -->
-                        </ul><!-- .col-md-3.footer-widget-container end -->
-
-                        <ul class="col-md-3 col-sm-6 footer-widget-container">
-                            <!-- .widget-pages start -->
-                            <li class="widget widget_pages">
-                                <div class="title">
-                                    <h3>Industry solutions</h3>
-                                </div>
-
-                                <ul>
-									 <li><a href="warehousing.html">Ware Housing</a></li>
-									 <li><a href="supply-chain-management.html">Supply Chain Management</a></li>
-									 <li><a href="packaging-options.html">Packaging Options</a></li>
-									 <li><a href="consulting-services.html">Consulting Services</a></li>
-									 <li><a href="services02.html">Logistics</a></li>
-									 <li><a href="overland-transportation.html">Overland Transportation</a></li>
-									 <li><a href="ocean-freight.html">Ocean Freight</a></li>
-									 <li><a href="large-projects.html">Large Projects</a></li>
-									 <li><a href="rail-transportation.html">Rail Transportation</a></li>
-                                </ul>
-
-                            </li><!-- .widget-pages end -->
-                        </ul><!-- .col-md-3.footer-widget-container end -->
-
-                        <ul class="col-md-3 col-sm-6 footer-widget-container">
-                            <li class="widget widget-text">
-                                <div class="title">
-                                    <h3>contact us</h3>
-                                </div>
-
-                                <address>
-								King Palace House 2nd floor,<br />
-								 Mnazi Mmoja Area<br />
-								 P.0. Box 68045 <br />
-								Dar es salaam - Tanzania
-                                </address>
-
-                                <span class="text-big">
-                                    +255 712 736 581
-                                </span>
-                                <br />
-
-                                <a href="mailto:">info@iwefreight.com</a>
-                                <br />
-                                <ul class="footer-social-icons">
-                                    <li><a href="https://web.facebook.com/Iwe-Freight-Ltd-705979053122625/?hc_ref=ARSkjwRofd0-nlx-qrVTMdJ6Zz09OVvo8nV1cfyPUzK1xTkXb6Qn0yk4BnOWJRJnJ7M&amp;fref=nf&amp;__xts__%5B0%5D=68.ARBj7FdUsztlEmYc7M7DkxCRxyCR5WJTdcHhbGcKSFaMDEkfKvWz_tBLyqhvGKW9SmGzKZ3zrkbnPKkIuZt0Tn4l8Z1jrEUnqdxkjjly-yb2Owt8AEUCAvz6r4jiic5kx-PG4nBW3srj09Yo8PZ6S8KcKEzaFiQEmpKCAkxJmGn3bK5GsR9RbMfjmCpb00y9E21PMytWt442KZLLyDvJjm6ApzrQLGCTp8ConCrHeaxdakDqRTNm4jlIiE_aI1Tb8sQ8ivSuA15vxst08XARXi9r3UGEipQFjKyRGCQj0UrF8QTFnxhOI2pZW9lxAMp0-ZMEqCNlHvRWYuB_jIRCMzQ&amp;__tn__=kC-R" class="fa fa-facebook"></a></li>
-                                    <li><a href="https://www.instagram.com/iwefreightltd/" class="fa fa-instagram"></a></li>
-                                    <li><a href="https://twitter.com/LtdIwe" class="fa fa-twitter"></a></li>
-                                </ul><!-- .footer-social-icons end -->
-                            </li><!-- .widget.widget-text end -->
-                        </ul><!-- .col-md-3.footer-widget-container end -->
-                    </div><!-- .row end -->
-                </div><!-- .container end -->
-            </footer><!-- #footer end -->
-
-            <div class="copyright-container">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6">
-                            <p>IWE FREIGHT LTD 2001-2019. All RIGHTS RESERVED.</p>
-                        </div><!-- .col-md-6 end -->
-
-                        <div class="col-md-6">
-                            <p class="align-right">DESIGNED AND DEVELOPED BY ASALI MEDIA</p>
-                        </div><!-- .col-md-6 end -->
-                    </div><!-- .row end -->
-                </div><!-- .container end -->
-            </div><!-- .copyright-container end -->
-
-            <a href="#" class="scroll-up">Scroll</a>
-        </div><!-- #footer-wrapper end -->
         <script src="js/jquery-2.1.4.min.js"></script><!-- jQuery library -->
         <script src="js/bootstrap.min.js"></script><!-- .bootstrap script -->
         <script src="js/jquery.srcipts.min.js"></script><!-- modernizr, retina, stellar for parallax -->
