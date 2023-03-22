@@ -131,20 +131,20 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <h1>Services - Ocean freight</h1>
+                        <h1>Services - Customs Clearance</h1>
 
                         <div class="breadcrumb-container">
                             <ul class="breadcrumb clearfix">
                                 <li>You are here:</li>
                                 <li>
-                                    <a href="index-2.html">Home</a>
+                                    <a href="{{ url('/') }}">Home</a>
                                 </li>
                                 <li>
-                                    <a href="services02-2.html">Services</a>
+                                    <a href="{{ url('/') }}">Our Services</a>
                                 </li>
 
                                 <li>
-                                    <a href="#">Consulting services</a>
+                                    <a href="{{ url('/customs-clearance') }}">Customs Clearance</a>
                                 </li>
                             </ul><!-- .breadcrumb end -->
                         </div><!-- .breadcrumb-container end -->
