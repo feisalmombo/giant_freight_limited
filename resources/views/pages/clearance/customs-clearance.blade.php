@@ -236,7 +236,7 @@
                     <div class="col-md-9">
                         <div class="row">
                             <div class="col-md-5">
-                                <img src="img/pics/img40.jpg" alt=""/>
+                                <img src="{{asset('giant/img/pics/img40.jpg')}}" alt="Consulting Services"/>
                             </div><!-- .col-md-4 end -->
 
                             <div class="col-md-7">
@@ -337,9 +337,9 @@
                             <div class="col-md-4 col-sm-4">
                                 <div class="service-feature-box">
                                     <div class="service-media">
-                                        <img src="img/pics/img01.jpg" alt="Trucking"/>
+                                        <img src="{{asset('giant/img/pics/img01.jpg')}}" alt="Road Transport"/>
 
-                                        <a href="overland-transportation-2.html" class="read-more02">
+                                        <a href="{{ url('/road-transport') }}" class="read-more02">
                                             <span>
                                                 Read more
                                                 <i class="fa fa-chevron-right"></i>
@@ -349,7 +349,7 @@
 
                                     <div class="service-body">
                                         <div class="custom-heading">
-                                            <h4>GROUND SHIPPING</h4>
+                                            <h4>OCEAN FREIGHT</h4>
                                         </div><!-- .custom-heading end -->
 
                                         <p>
@@ -367,7 +367,7 @@
                                     <div class="service-media">
                                         <img src="img/pics/img02.jpg" alt="Trucking"/>
 
-                                        <a href="large-projects-2.html" class="read-more02">
+                                        <a href="{{ url('/ocean-freight') }}" class="read-more02">
                                             <span>
                                                 Read more
                                                 <i class="fa fa-chevron-right"></i>
