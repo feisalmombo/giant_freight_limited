@@ -178,7 +178,7 @@
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="#">Customs Clearance</a>
+                                        <a href="{{ url('/customs-clearance') }}">Customs Clearance</a>
                                     </li>
 
                                     <li class="menu-item">
