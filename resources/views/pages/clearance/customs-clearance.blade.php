@@ -1,11 +1,6 @@
 
 <!DOCTYPE html>
 <html>
-    
-
-
-<!-- Mirrored from www.iwefreight.com/consulting-services.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Feb 2023 07:48:14 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     
  <title>Iwe Freight - Clearing and forwarding company in East Africa</title>
@@ -581,8 +576,4 @@
         <script src="style-switcher/styleSwitcher.js"></script><!-- styleswitcher script -->
         <script src="js/include.js"></script><!-- custom js functions -->
     </body>
-
-
-
-<!-- Mirrored from www.iwefreight.com/consulting-services.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Feb 2023 07:50:15 GMT -->
 </html>
