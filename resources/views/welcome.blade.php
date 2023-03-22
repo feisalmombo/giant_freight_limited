@@ -62,7 +62,7 @@
                                                     <li><a href="{{url('/road-transport')}}">Road Transport</a></li>
                                                     <li><a href="{{url('/air-freight')}}">Air Freight</a></li>
                                                     <li><a href="{{ url('/ocean-freight') }}">Ocean Freight</a></li>
-                                                    <li><a href="#">Customs Clearance</a></li>
+                                                    <li><a href="{{ url('/customs-clearance') }}">Customs Clearance</a></li>
                                                     <li><a href="{{ url('/warehousing') }}">Warehousing</a></li>
                                                     <li><a href="#">Value Added Servives</a></li>
                                                     <li><a href="{{ url('/rail-services') }}">Railway Services</a></li>
@@ -97,7 +97,7 @@
                                                                 <li><a href="{{url('/road-transport')}}">Road Transport</a></li>
                                                                 <li><a href="{{url('/air-freight')}}">Air Freight</a></li>
                                                                 <li><a href="{{ url('/ocean-freight') }}">Ocean Freight</a></li>
-                                                                <li><a href="#">Customs Clearance</a></li>
+                                                                <li><a href="{{ url('/customs-clearance') }}">Customs Clearance</a></li>
                                                                 <li><a href="{{ url('/warehousing') }}">Warehousing</a></li>
                                                                 <li><a href="#">Value Added Servives</a></li>
                                                                 <li><a href="{{ url('/rail-services') }}">Railway Services</a></li>
@@ -427,7 +427,7 @@
                                         <div class="service-media">
                                             <img src="{{asset('giant/img/pics/img15.jpg')}}" alt="Customs Clearance"/>
 
-                                            <a href="#" class="read-more02">
+                                            <a href="{{ url('/customs-clearance') }}" class="read-more02">
                                                 <span>
                                                     Read more
                                                     <i class="fa fa-chevron-right"></i>
