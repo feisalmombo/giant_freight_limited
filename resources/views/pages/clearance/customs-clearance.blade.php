@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    
+
     <title>Giant Freight Limited - Customs Clearance</title>
     <meta name="description" content="Giant Freight">
     <meta name="author" content="Giant Freight">
@@ -29,8 +29,8 @@
 </head>
 
     <body>
-        
-        
+
+
         <div class="header-wrapper header-transparent">
             <!-- .header.header-style01 start -->
             <header id="header"  class="header-style01">
@@ -46,8 +46,9 @@
                                     <!-- .navbar-header start -->
                                     <div class="navbar-header">
                                         <div class="logo">
-                                            <a href="index-2.html">
-                                                 <img src="img/logo.png" alt="Iwe Freight"/>
+                                            <a href="#" style="padding-bottom: 3px; font-size: 13px; color: #2780BA; font-weight: 700;">
+                                                {{--  <img src="{{asset('giant/img/logo.png')}}" alt="Giant Freight"/>  --}}
+                                                Giant Freight Limited
                                             </a>
                                         </div><!-- .logo end -->
                                     </div><!-- .navbar-header start -->
@@ -55,39 +56,29 @@
                                     <!-- MAIN NAVIGATION -->
                                     <div class="collapse navbar-collapse">
                                         <ul class="nav navbar-nav">
-											<li><a href="index-3.html">Home</a></li>
-                                            <li><a href="about.html">About</a></li>
-                                            
+											<li><a href="{{ url('/') }}">Home</a></li>
+                                            <li><a href="{{ url('/about') }}">About</a></li>
+
 											<li class="dropdown">
-                                                <a href="#" data-toggle="dropdown" class="dropdown-toggle">Services</a>
+                                                <a href="{{ url('/') }}" data-toggle="dropdown" class="dropdown-toggle">Our Services</a>
                                                 <ul class="dropdown-menu">
-                                                    <li><a href="services01.html">Services overview</a></li>
-                                                    <li class="dropdown dropdown-submenu">
-                                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Logistics</a>
-                                                        <ul class="dropdown-menu">
-                                                            <li><a href="services02.html">Logistics</a></li>
-                                                            <li><a href="overland-transportation.html">Overland transportation</a></li>
-                                                            <li><a href="air-freight.html">Air freight</a></li>
-                                                            <li><a href="ocean-freight.html">Ocean freight</a></li>
-                                                            <li><a href="large-projects.html">Large projects</a></li>
-                                                            <li><a href="rail-transportation.html">Rail international shipping</a></li>
-                                                            
-                                                        </ul><!-- .dropdown-menu end -->
-                                                    </li><!-- .dropdown-submenu end -->
-                                                    <li><a href="warehousing.html">Warehousing</a></li>
-                                                    <li><a href="supply-chain-management.html">Supply chain management</a></li>
-                                                    <li><a href="packaging-options.html">Packaging options</a></li>
-                                                    <li><a href="consulting-services.html">Consulting services</a></li>
+                                                    <li><a href="{{url('/road-transport')}}">Road Transport</a></li>
+                                                    <li><a href="{{ url('/air-freight') }}">Air Freight</a></li>
+                                                    <li><a href="{{ url('/ocean-freight') }}">Ocean Freight</a></li>
+                                                    <li><a href="#">Customs Clearance</a></li>
+                                                    <li><a href="{{ url('/warehousing') }}">Warehousing</a></li>
+                                                    <li><a href="#">Value Added Servives</a></li>
+                                                    <li><a href="{{ url('/rail-services') }}">Railway Services</a></li>
                                                 </ul><!-- .dropdown-menu end -->
                                             </li><!-- .dropdown end -->
 
-											
-											<li><a href="media.html">Media</a></li>
 
-											<li><a href="terms-conditions.html">Terms & Conditions</a></li>
-											
-											<li><a href="contact-us.html">Contacts</a></li>
-											
+											<li><a href="#">Media</a></li>
+
+											{{--  <li><a href="#">Terms & Conditions</a></li>  --}}
+
+											<li><a href="{{ url('/contact') }}">Contacts Us</a></li>
+
                                         </ul><!-- .nav.navbar-nav end -->
 
                                         <!-- RESPONSIVE MENU -->
@@ -96,49 +87,38 @@
 
                                             <ul class="dl-menu">
                                                 <li>
-                                                    <a href="index-3.html">Home</a>
-                                                    
+                                                    <a href="#">Home</a>
+
                                                 </li>
 
-                                                <li><a href="about-php.html">About</a></li>
+                                                <li><a href="#">About</a></li>
 
                                                 <li>
-                                                    <a href="#">Services</a>
+                                                    <a href="#">Our Services</a>
                                                     <ul class="dl-submenu">
-                                                        <li><a href="services01.html">Services overview</a></li>
                                                         <li>
-                                                            <a href="#">Logistics</a>
+                                                            <a href="#">Services</a>
                                                             <ul class="dl-submenu">
-																<li><a href="services02.html">Logistics</a></li>
-																<li><a href="overland-transportation.html">Overland transportation</a></li>
-																<li><a href="air-freight.html">Air freight</a></li>
-																<li><a href="ocean-freight.html">Ocean freight</a></li>
-																<li><a href="large-projects.html">Large projects</a></li>
-																<li><a href="rail-transportation.html">Rail international shipping</a></li>
+                                                                <li><a href="{{url('/road-transport')}}">Road Transport</a></li>
+                                                                <li><a href="{{url('/air-freight')}}">Air Freight</a></li>
+                                                                <li><a href="{{ url('/ocean-freight') }}">Ocean Freight</a></li>
+                                                                <li><a href="#">Customs Clearance</a></li>
+                                                                <li><a href="{{ url('/warehousing') }}">Warehousing</a></li>
+                                                                <li><a href="#">Value Added Servives</a></li>
+                                                                <li><a href="{{ url('/rail-services') }}">Railway Services</a></li>
                                                             </ul><!-- .dl-submenu end -->
                                                         </li>
-                                                    <li><a href="warehousing.html">Warehousing</a></li>
-                                                    <li><a href="supply-chain-management.html">Supply chain management</a></li>
-                                                    <li><a href="packaging-options.html">Packaging options</a></li>
-                                                    <li><a href="consulting-services.html">Consulting services</a></li>
                                                     </ul><!-- dl-submenu end -->
                                                 </li>
-												
-												
-												<li><a href="media.html">Media</a></li>
-												<li><a href="terms-conditions.html">Terms & Conditions</a></li>
-												<li><a href="contact-us.html">Contacts</a></li>
+
+
+												<li><a href="#">Media</a></li>
+												<li><a href="{{ url('/contact') }}">Contacts</a></li>
                                             </ul><!-- .dl-menu end -->
                                         </div><!-- #dl-menu end -->
 
-                                        <!-- #search start -->
-                                        <div id="search">
-                                            <form action="#" method="get">
-                                                <input class="search-submit" type="submit" />
-                                                <input id="m_search" name="s" type="text" placeholder="Type and hit enter..." />                        
-                                            </form>
-                                        </div><!-- #search end -->
-                                    </div><!-- MAIN NAVIGATION END -->                                </nav><!-- .navbar.navbar-default end -->
+                                    </div><!-- MAIN NAVIGATION END -->
+                                </nav><!-- .navbar.navbar-default end -->
                             </div><!-- .col-md-12 end -->
                         </div><!-- .row end -->
                     </div><!-- .main-nav end -->
@@ -177,7 +157,7 @@
         <div class="page-content">
             <div class="container">
                 <div class="row">
-				
+
                      <aside class="col-md-3 aside aside-left">
                         <ul class="aside-widgets">
                             <li class="widget widget_nav_menu clearfix">
@@ -250,7 +230,7 @@
                                 <br />
 
                                 <p>
-                                    Let us know what can we do for you. Contact 
+                                    Let us know what can we do for you. Contact
                                     us today!
                                 </p>
 
@@ -281,7 +261,7 @@
                                 </p>
 
                                 <p>
-                                   Since 2000, we’ve helped small startups and large multinational organizations alike optimize their logistics processes.  Our goal is to help you build a successful and sustainable supply chain. 
+                                   Since 2000, we’ve helped small startups and large multinational organizations alike optimize their logistics processes.  Our goal is to help you build a successful and sustainable supply chain.
                                 </p>
                             </div><!-- .col-md-5 end -->
                         </div><!-- .row end -->
@@ -291,7 +271,7 @@
                                 <h3>Efficient supply chain</h3>
 
                                 <p>
-                                   Our company has through years of experience in this industry, been able to create a network of associates throughout East Africa and around the world, which helps us to provide safe, reliable, economical and customized logistic solutions to our clients. Our logistics team has years of experience in this business and can handle long and short term and large or small scale assignments with utter professionalism. 
+                                   Our company has through years of experience in this industry, been able to create a network of associates throughout East Africa and around the world, which helps us to provide safe, reliable, economical and customized logistic solutions to our clients. Our logistics team has years of experience in this business and can handle long and short term and large or small scale assignments with utter professionalism.
                                 </p>
 
                                 <ul class="fa-ul">
@@ -329,31 +309,31 @@
                                 <ul class="fa-ul">
                                     <li>
                                         <i class="fa fa-li fa-long-arrow-right"></i>
-                                        Higher quality service by optimizing transport 
+                                        Higher quality service by optimizing transport
                                         routes, means of transportation and reducing costs
                                     </li>
 
                                     <li>
                                         <i class="fa fa-li fa-long-arrow-right"></i>
-                                        Strong optimized supply chain infrastructure 
+                                        Strong optimized supply chain infrastructure
                                         that will make a competitive advantage to your business
                                     </li>
 
                                     <li>
                                         <i class="fa fa-li fa-long-arrow-right"></i>
-                                        Synchronized demand and supply which will enable 
-                                        easier and more accurate predictions of your 
+                                        Synchronized demand and supply which will enable
+                                        easier and more accurate predictions of your
                                         clients needs
                                     </li>
 
                                     <li>
                                         <i class="fa fa-li fa-long-arrow-right"></i>
-                                        Effective quality measurement and monitoring 
+                                        Effective quality measurement and monitoring
                                         will enable you to reduce costs and optimize your business.
                                     </li>
                                 </ul><!-- .fa-ul end -->
                             </div><!-- .col-md-6 end -->
-                        </div><!-- .row end -->                        
+                        </div><!-- .row end -->
 
                         <div class="row">
                             <div class="col-md-12">
@@ -383,9 +363,9 @@
                                         </div><!-- .custom-heading end -->
 
                                         <p>
-                                            We have a wide experience in overland 
-                                            industry specific logistic solutions like 
-                                            pharmaceutical logistics, retail and 
+                                            We have a wide experience in overland
+                                            industry specific logistic solutions like
+                                            pharmaceutical logistics, retail and
                                             automotive logistics by train or road.
                                         </p>
                                     </div><!-- .service-body end -->
@@ -411,10 +391,10 @@
                                         </div><!-- .custom-heading end -->
 
                                         <p>
-                                            We bring your goods safely to worldwide 
+                                            We bring your goods safely to worldwide
                                             destinations with our great sea fright
                                             services. We offer LLC and FLC shipments
-                                            that are fast and effective with no delays. 
+                                            that are fast and effective with no delays.
                                         </p>
                                     </div><!-- .service-body end -->
                                 </div><!-- .service-feature-box-end -->
@@ -439,9 +419,9 @@
                                         </div><!-- .custom-heading end -->
 
                                         <p>
-                                            We provide full supply chain management 
-                                            package including cost effective and fast 
-                                            sea freight. You can also combine this 
+                                            We provide full supply chain management
+                                            package including cost effective and fast
+                                            sea freight. You can also combine this
                                             package with other means of transportation.
                                         </p>
                                     </div><!-- .service-body end -->
@@ -451,7 +431,7 @@
                     </div><!-- .col-md-9 end -->
                 </div><!-- .row end -->
             </div><!-- .container end -->
-        </div><!-- .page-content end -->       
+        </div><!-- .page-content end -->
 
  <div id="footer-wrapper" class="footer-dark">
             <footer id="footer">
@@ -465,7 +445,7 @@
                                 </div>
 
                                 <p>
-                                    Subscribe to our newsletter and we will 
+                                    Subscribe to our newsletter and we will
                                     inform you about newest projects and promotions.
                                 </p>
 
@@ -475,11 +455,11 @@
                                     <input class="email" type="email" placeholder="Your email...">
                                     <input type="submit" class="submit" value="">
                                 </form>
-                                
+
                                 <br/> <br/>
                                  <img src="img/payment-options.png" alt="Payment Options" style="width:100%; ">
-                                
-                                
+
+
                             </li><!-- .widget.widget_newsletterwidget end -->
                         </ul><!-- .col-md-3.footer-widget-container end -->
 
@@ -495,8 +475,8 @@
                                     <li><a href="terms-conditions.html">Terms & Conditions</a></li>
                                     <li><a href="contact-us.html">Contact Us</a></li>
                                 </ul>
-								
-							
+
+
                             </li><!-- .widget-pages end -->
                         </ul><!-- .col-md-3.footer-widget-container end -->
 
@@ -518,7 +498,7 @@
 									 <li><a href="large-projects.html">Large Projects</a></li>
 									 <li><a href="rail-transportation.html">Rail Transportation</a></li>
                                 </ul>
-								
+
                             </li><!-- .widget-pages end -->
                         </ul><!-- .col-md-3.footer-widget-container end -->
 
@@ -532,7 +512,7 @@
 								King Palace House 2nd floor,<br />
 								 Mnazi Mmoja Area<br />
 								 P.0. Box 68045 <br />
-								Dar es salaam - Tanzania 
+								Dar es salaam - Tanzania
                                 </address>
 
                                 <span class="text-big">
@@ -571,7 +551,7 @@
         </div><!-- #footer-wrapper end -->
         <script src="js/jquery-2.1.4.min.js"></script><!-- jQuery library -->
         <script src="js/bootstrap.min.js"></script><!-- .bootstrap script -->
-        <script src="js/jquery.srcipts.min.js"></script><!-- modernizr, retina, stellar for parallax -->  
+        <script src="js/jquery.srcipts.min.js"></script><!-- modernizr, retina, stellar for parallax -->
         <script src="js/jquery.dlmenu.min.js"></script><!-- for responsive menu -->
         <script src="style-switcher/styleSwitcher.js"></script><!-- styleswitcher script -->
         <script src="js/include.js"></script><!-- custom js functions -->
