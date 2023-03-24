@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-
     <title>Giant Freight Limited - Customs Clearance</title>
     <meta name="description" content="Giant Freight">
     <meta name="author" content="Giant Freight">
@@ -26,6 +25,7 @@
 
     <!-- Font icons -->
     <link rel="stylesheet" href="{{asset('giant/icon-fonts/font-awesome-4.3.0/css/font-awesome.min.css')}}"/><!-- Fontawesome icons css -->
+    
 </head>
 
     <body>
