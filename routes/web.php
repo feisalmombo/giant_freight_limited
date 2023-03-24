@@ -125,3 +125,6 @@ Route::group(['middleware' => 'CheckUserStatus'], function () {
 
             // Customs Clearance Service
             Route::resource('/customs-clearance', 'CustomsClearanceController');
+
+            // Customs Clearance Service
+            Route::resource('/value-added', 'ValueAddedController');
