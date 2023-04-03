@@ -65,7 +65,7 @@
                                                     <li><a href="{{ url('/ocean-freight') }}">Ocean Freight</a></li>
                                                     <li><a href="{{ url('/customs-clearance') }}">Customs Clearance</a></li>
                                                     <li><a href="{{ url('/warehousing') }}">Warehousing</a></li>
-                                                    <li><a href="#">Value Added Servives</a></li>
+                                                    <li><a href="{{ url('/value-added') }}">Value Added Servives</a></li>
                                                     <li><a href="{{ url('/rail-services') }}">Railway Services</a></li>
                                                 </ul><!-- .dropdown-menu end -->
                                             </li><!-- .dropdown end -->
@@ -100,7 +100,7 @@
                                                                 <li><a href="{{ url('/ocean-freight') }}">Ocean Freight</a></li>
                                                                 <li><a href="{{ url('/customs-clearance') }}">Customs Clearance</a></li>
                                                                 <li><a href="{{ url('/warehousing') }}">Warehousing</a></li>
-                                                                <li><a href="#">Value Added Servives</a></li>
+                                                                <li><a href="{{ url('/value-added') }}">Value Added Servives</a></li>
                                                                 <li><a href="{{ url('/rail-services') }}">Railway Services</a></li>
                                                             </ul><!-- .dl-submenu end -->
                                                         </li>
@@ -184,7 +184,7 @@
                                     </li>
 
                                     <li class="menu-item">
-                                        <a href="#">Value Added Servives</a>
+                                        <a href="{{ url('/value-added') }}">Value Added Servives</a>
                                     </li>
 
                                     <li class="menu-item">
