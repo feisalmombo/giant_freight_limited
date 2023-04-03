@@ -241,6 +241,7 @@
                             </li><!-- .widget-text end -->
                         </ul><!-- .aside-widgets end -->
                     </aside><!-- .aside.aside-left end -->
+                    
                     <div class="col-md-9">
                         <img src="img/pics/img35.jpg" alt=""/>
 
@@ -249,14 +250,6 @@
                         <div class="custom-heading">
                             <h2>secure packaging</h2>
                         </div><!-- .custom-heading end -->
-
-                        <p>
-                            At Iwe Freight we offer you the best service and careful handling for moving your home or office at competitive rates. Our team has experienced with various land/air/sea freight moves throughout Tanzania and East Africa as well as to other parts of the world.
-
-Packing: Packing of goods in accordance to international freight regulations for export or for moving to a different local location by road. Let us handle this for you!
-
-
-                        </p>
 
                       
 
