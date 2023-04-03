@@ -232,7 +232,7 @@
                     </aside><!-- .aside.aside-left end -->
 
                     <div class="col-md-9">
-                        <img src="img/pics/img35.jpg" alt=""/>
+                        <img src="{{asset('giant/img/pics/img35.jpg')}}" alt=""/>
 
                         <br />
 
