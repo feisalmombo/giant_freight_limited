@@ -54,7 +54,7 @@
                              <li><a href="{{ url('/customs-clearance') }}">Customs Clearance</a></li>
                              <li><a href="{{ url('/warehousing') }}">Warehousing</a></li>
                              <li><a href="{{ url('/rail-services') }}">Railway Services</a></li>
-                             <li><a href="#">Value Added Services</a></li>
+                             <li><a href="{{ url('/value-added') }}">Value Added Services</a></li>
                         </ul>
 
                     </li><!-- .widget-pages end -->
