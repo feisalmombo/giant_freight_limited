@@ -130,22 +130,20 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <h1>Services - Packaging options</h1>
+                        <h1>Services - Value Added Service</h1>
 
                         <div class="breadcrumb-container">
                             <ul class="breadcrumb clearfix">
                                 <li>You are here:</li>
-
                                 <li>
-                                    <a href="index.html">Home</a>
+                                    <a href="{{ url('/') }}">Home</a>
+                                </li>
+                                <li>
+                                    <a href="{{ url('/') }}">Our Services</a>
                                 </li>
 
                                 <li>
-                                    <a href="services02.html">Services</a>
-                                </li>
-
-                                <li>
-                                    <a href="#">Packaging options</a>
+                                    <a href="{{ url('/value-added') }}">Road Transport</a>
                                 </li>
                             </ul><!-- .breadcrumb end -->
                         </div><!-- .breadcrumb-container end -->
