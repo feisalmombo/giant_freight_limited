@@ -296,6 +296,7 @@
                             </table><!-- .table end -->
                         </div><!-- .table-responsive end -->
                     </div><!-- .col-md-9 end -->
+
                 </div><!-- .row end -->
             </div><!-- .container end -->
         </div><!-- .page-content end -->       
@@ -416,6 +417,8 @@
 
             <a href="#" class="scroll-up">Scroll</a>
         </div><!-- #footer-wrapper end -->
+
+        
         <script src="js/jquery-2.1.4.min.js"></script><!-- jQuery library -->
         <script src="js/bootstrap.min.js"></script><!-- .bootstrap script -->
         <script src="js/jquery.srcipts.min.js"></script><!-- modernizr, retina, stellar for parallax -->  
