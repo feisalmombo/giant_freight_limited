@@ -30,7 +30,7 @@
 </head>
 
     <body>
-        
+
         <div class="header-wrapper header-transparent">
             <!-- .header.header-style01 start -->
             <header id="header"  class="header-style01">
@@ -240,7 +240,7 @@
                             <h2>secure packaging</h2>
                         </div><!-- .custom-heading end -->
 
-                      
+
 
                         <br />
 
@@ -254,7 +254,7 @@
 
                         <br />
 
-                        <img src="img/pics/packaging.jpg" alt=""/>
+                        <img src="{{asset('giant/img/pics/packaging.jpg')}}" alt=""/>
 
                         <br /><br />
 
@@ -299,7 +299,7 @@
 
                 </div><!-- .row end -->
             </div><!-- .container end -->
-        </div><!-- .page-content end -->       
+        </div><!-- .page-content end -->
 
         <!-- #footer-wrapper start -->
         @include('partials.footer')
