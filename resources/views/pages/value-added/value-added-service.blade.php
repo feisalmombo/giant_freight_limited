@@ -143,7 +143,7 @@
                                 </li>
 
                                 <li>
-                                    <a href="{{ url('/value-added') }}">Road Transport</a>
+                                    <a href="{{ url('/value-added') }}">Value Added Service/a>
                                 </li>
                             </ul><!-- .breadcrumb end -->
                         </div><!-- .breadcrumb-container end -->
