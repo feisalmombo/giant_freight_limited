@@ -16,7 +16,7 @@
 
                         <br />
 
-                        <form class="newsletter">
+                        <form class="newsletter" method="POST" action="">
                             <input class="email" type="email" placeholder="Your email...">
                             <input type="submit" class="submit" value="" disabled>
                         </form>
