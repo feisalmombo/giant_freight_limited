@@ -99,7 +99,7 @@
                 </div><!-- .col-md-6 end -->
 
                 <div class="col-md-6">
-                    <p class="align-right">DESIGNED AND DEVELOPED BY Feisal Suleiman Mombo</p>
+                    <p class="align-right">DESIGNED AND DEVELOPED BY EFE TECH CO LTD</p>
                 </div><!-- .col-md-6 end -->
             </div><!-- .row end -->
         </div><!-- .container end -->
