@@ -252,11 +252,11 @@
                            Moving services for organizations are increasingly complicated and cumbersome to handle. To assist you we offer this service and will do everything for you including packing, labeling, installations of office equipment, transportation, etc. it becomes our problem when you move!
                         </p>
 
-                        <br />
+                        {{--  <br />
 
                         <img src="{{asset('giant/img/pics/packaging.jpg')}}" alt=""/>
 
-                        <br /><br />
+                        <br /><br />  --}}
 
                         {{--  <div class="table-responsive">
                             <table class="table">
