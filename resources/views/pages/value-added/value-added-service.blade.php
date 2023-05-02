@@ -258,7 +258,7 @@
 
                         <br /><br />
 
-                        <div class="table-responsive">
+                        {{--  <div class="table-responsive">
                             <table class="table">
                                 <caption>packaging options table</caption>
 
@@ -294,7 +294,7 @@
                                     </tr>
                                 </tbody>
                             </table><!-- .table end -->
-                        </div><!-- .table-responsive end -->
+                        </div><!-- .table-responsive end -->  --}}
                     </div><!-- .col-md-9 end -->
 
                 </div><!-- .row end -->
