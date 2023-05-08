@@ -3,9 +3,9 @@
 <html>
 
 <head>
-        <title>Giant Freight Limited - Air Freight</title>
-        <meta name="description" content="Giant Freight">
-        <meta name="author" content="Giant Freight">
+        <title>Harvest Logistics Company Limited - Air Freight</title>
+        <meta name="description" content="Harvest Logistics Company Limited">
+        <meta name="author" content="Harvest Logistics Company Limited">
         <meta name="keywords" content="transportation, logistics, transportation , logistics , cargo, business">
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -47,8 +47,8 @@
                                     <div class="navbar-header">
                                         <div class="logo">
                                             <a href="#" style="padding-bottom: 3px; font-size: 13px; color: #2780BA; font-weight: 700;">
-                                                {{--  <img src="{{asset('giant/img/logo.png')}}" alt="Giant Freight"/>  --}}
-                                                Giant Freight Limited
+                                                {{--  <img src="{{asset('giant/img/logo.png')}}" alt="Harvest Logistics Company Limited"/>  --}}
+                                                Harvest Logistics
                                             </a>
                                         </div><!-- .logo end -->
                                     </div><!-- .navbar-header start -->
@@ -162,7 +162,7 @@
                         <ul class="aside-widgets">
                             <li class="widget widget_nav_menu clearfix">
                                 <div class="title">
-                                    <h3>Giant Freight Services</h3>
+                                    <h3>Harvest Logistics Services</h3>
                                 </div>
                                 <ul class="menu">
                                     <li class="menu-item">
@@ -243,8 +243,8 @@
                         </div>
 
                         <p>
-                            Giant Freight Limited is one of the largest air freight transportation providers in East Africa.
-						   At Giant Freight we can offer you choice and flexibility when shipping by air whether within East Africa
+                            Harvest Logistics Company Limited is one of the largest air freight transportation providers in East Africa.
+						   At Harvest Logistics we can offer you choice and flexibility when shipping by air whether within East Africa
 						   or elsewhere worldwide. We have established relationships with industry partners and will negotiate
 						   the best possible rates on your behalf.
 
@@ -281,7 +281,7 @@
                                 <h3>Your benefits</h3>
 
                                 <p>
-                                    Giant Freight can look for a tailor-made solutions for all your airfreight.
+                                    Harvest Logistics Company Limited can look for a tailor-made solutions for all your airfreight.
                                 </p>
 
                                 <ul class="fa-ul">
