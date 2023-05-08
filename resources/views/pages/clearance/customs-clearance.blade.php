@@ -2,9 +2,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Giant Freight Limited - Customs Clearance</title>
-    <meta name="description" content="Giant Freight">
-    <meta name="author" content="Giant Freight">
+    <title>Harvest Logistics Company Limited - Customs Clearance</title>
+    <meta name="description" content="Harvest Logistics Company Limited">
+    <meta name="author" content="Harvest Logistics Company Limited">
     <meta name="keywords" content="transportation, logistics, transportation , logistics , cargo, business">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -25,7 +25,7 @@
 
     <!-- Font icons -->
     <link rel="stylesheet" href="{{asset('giant/icon-fonts/font-awesome-4.3.0/css/font-awesome.min.css')}}"/><!-- Fontawesome icons css -->
-    
+
 </head>
 
     <body>
@@ -47,8 +47,8 @@
                                     <div class="navbar-header">
                                         <div class="logo">
                                             <a href="#" style="padding-bottom: 3px; font-size: 13px; color: #2780BA; font-weight: 700;">
-                                                {{--  <img src="{{asset('giant/img/logo.png')}}" alt="Giant Freight"/>  --}}
-                                                Giant Freight Limited
+                                                {{--  <img src="{{asset('giant/img/logo.png')}}" alt="Harvest Logistics Company Limited"/>  --}}
+                                                Harvest Logistics
                                             </a>
                                         </div><!-- .logo end -->
                                     </div><!-- .navbar-header start -->
@@ -162,7 +162,7 @@
                         <ul class="aside-widgets">
                             <li class="widget widget_nav_menu clearfix">
                                 <div class="title">
-                                    <h3>Giant Freight Services</h3>
+                                    <h3>Harvest Logistics Services</h3>
                                 </div>
                                 <ul class="menu">
                                     <li class="menu-item">
@@ -251,7 +251,7 @@
                                 </p>
 
                                 <p>
-                                   Since 2000, we’ve helped small startups and large multinational organizations alike optimize their logistics processes.  Our goal is to help you build a successful and sustainable supply chain.
+                                   Since 2000, we have helped small startups and large multinational organizations alike optimize their logistics processes.  Our goal is to help you build a successful and sustainable supply chain.
                                 </p>
                             </div><!-- .col-md-5 end -->
                         </div><!-- .row end -->
@@ -289,7 +289,7 @@
 
                             <div class="col-md-7 custom-bkg bkg-light-blue">
                                 <div class="custom-heading">
-                                    <h3>Giant Freight</h3>
+                                    <h3>Harvest Logistics</h3>
                                 </div><!-- .custom-heading end -->
 
                                 <p>
