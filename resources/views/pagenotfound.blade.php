@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Home')
+@section('title', 'Page Not Found')
 
 @section('content')
 <style type="text/css" media="screen">
