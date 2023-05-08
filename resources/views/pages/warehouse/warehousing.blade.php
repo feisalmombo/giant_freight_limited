@@ -3,9 +3,9 @@
 <html>
 <head>
 
-    <title>Giant Freight Limited - Warehousing</title>
-    <meta name="description" content="Giant Freight">
-    <meta name="author" content="Giant Freight">
+    <title>Harvest Logistics Company Limited - Warehousing</title>
+    <meta name="description" content="Harvest Logistics Company Limited">
+    <meta name="author" content="Harvest Logistics Company Limited">
     <meta name="keywords" content="transportation, logistics, transportation , logistics , cargo, business">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -46,7 +46,7 @@
                                         <div class="logo">
                                             <a href="#" style="padding-bottom: 3px; font-size: 13px; color: #2780BA; font-weight: 700;">
                                                {{--  <img src="{{asset('giant/img/logo.png')}}" alt="Giant Freight"/>  --}}
-                                               Giant Freight Limited
+                                               Harvest Logistics
                                             </a>
                                         </div><!-- .logo end -->
                                     </div><!-- .navbar-header start -->
