@@ -78,7 +78,7 @@
                         </span>
                         <br />
 
-                        <a href="mailto:">info@giantfreight.com</a>
+                        <a href="mailto:">info@harvestlogistics.com</a>
                         <br />
                         <ul class="footer-social-icons">
                             <li><a href="#" class="fa fa-facebook"></a></li>
@@ -95,7 +95,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <p>Giant Freight Limited 2020-2023. All RIGHTS RESERVED.</p>
+                    <p>Harvest Logistics Company Limited 2020-2023. All RIGHTS RESERVED.</p>
                 </div><!-- .col-md-6 end -->
 
                 <div class="col-md-6">
