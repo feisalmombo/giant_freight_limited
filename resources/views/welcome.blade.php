@@ -244,12 +244,11 @@
                     <div class="col-md-12">
                         <div class="call-to-action clearfix">
                             <div class="text">
-                                <h2>Oligarchy Logistics is right for you</h2>
+                                <h2>Oligarchy Logistics is the best choice</h2>
                                 <p>
-                                    Selecting all services of what Oligarchy Logistics can offer.
-									we are not limited to a unit or sub-Saharan size load
-									but its all about what comes and we can handle it for
-									you at our best. We make sure to keep up with today
+                                    Because, Oligarchy Logistics can offer a good service depending for
+                                    their customers needs.
+                                    We make sure to keep up with today
 									standards to serve and expand and satisfy all our
 									clients globally with integrity, professionalism and
 									reliability.
@@ -269,10 +268,7 @@
             <div class="container">
                 <div class="row">
                     <div class="custom-heading02">
-                        <h2>Our services</h2>
-                        <p>
-                            Oligarchy Logistics
-                        </p>
+                        <h2>Our Services</h2>
                     </div><!-- .custom-heading02 end -->
                 </div><!-- .row end -->
 
