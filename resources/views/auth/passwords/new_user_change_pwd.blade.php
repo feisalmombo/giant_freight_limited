@@ -40,7 +40,7 @@
     <div class="form-input-content">
         <div class="card login-form mb-0">
             <div class="card-body pt-5">
-            <a class="text-center" href="{{url('/')}}"> <h4><strong style="color:#2B3483">Golden Forest Logistics</h4></a>
+            <a class="text-center" href="{{url('/')}}"> <h4><strong style="color:#2B3483">Oligarchy Logistics</h4></a>
             @include('msgs.success')
 
                 <form class="mt-5 mb-5 login-input" method="POST" action="{{ url('/change_password') }}">
