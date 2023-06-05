@@ -196,7 +196,8 @@
                                     <h3>Download Our Company Profile</h3>
                                 </div>
 
-                                <a href="{{ asset('giant/profile/giant-freight-limited.pdf') }}" target="_blank" class="download-link">
+                                {{--  <a href="{{ asset('giant/profile/giant-freight-limited.pdf') }}" target="_blank" class="download-link">  --}}
+                                <a href="#" target="_blank" class="download-link">
                                     <span>
                                         <i class="fa fa-file-pdf-o"></i>
                                         Company Profile
@@ -239,21 +240,17 @@
                         </div>
 
                         <p>
-                        Full loads, part loads and groupage
-                        Overland freight is an affordable shipping method for transporting your goods domestically throughout Tanzania and across East Africa. Whether your ground transport needs are a single shipment, a few pallets or multiple full loads every week, we value and know how to handle your cargo.
-
-                        When your shipment requires overnight, high speed or international delivery outside of East Africa, consider using our sea freight or air freight services as transportation alternatives.
-
-                        Road Transport throughout Tanzania and East Africa.
-
-
+                            We offer second to none transportation services to our clients across Eastern, Central and
+                            Southern Africa. We guarantee reliability and best transit times to all our destinations
+                            within the region. As our client, you will be provided
+                            with daily updates of movement of your goods until they reach final destination.
                         </p>
 
                         <br />
 
                         <br />
 
-                        <h3>Your benefits</h3>
+                        <h3>Benefits</h3>
 
                         <p>
                             Road Transport is designed to deliver the goods on time across East Africa. With ease you can track your goods during the transportation
@@ -261,8 +258,6 @@
                         </p>
 
                         <br />
-
-                        <img class="float-right" width="360" src="{{asset('giant/img/pics/img25.jpg')}}" alt=""/>
 
                         <ul class="fa-ul">
                             <li>
