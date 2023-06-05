@@ -154,12 +154,9 @@
                         </div><!-- .custom-heading.left end -->
 
                         <p>
-                            We are a locally owned and operated company situated right in the heart of Dar-Es-Salaam city. Our location is arround mnazi mmoja area very close to Dar es salaam ferry. We are committed in providing the best quality service at competitive rates. We pride ourselves in our personalized and responsive services. Our dedicated team of professionals ensure timely completion of work and professionalism.
-                        <br/><br/>
-                        Call us today by calling us at +255 758 557 772, +255 767 166 162 or fill out the online contact form.
+                            We are located at Dar es Salaam near Clock Tower Najmi Manzil Building,
+                            4th Floor Room Number 4B.
                         <br/>
-                        Oligarchy Logistics, P. O. Box 70963, Email: info@oligarchylogistics.com
-                        </p>
 
                         <br />
 
@@ -223,7 +220,7 @@
 
                         <div >
 
-						<figure><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15846.285025679535!2d39.2844832!3d-6.8218833!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x185c4bd2425e83dd%3A0x23a8e5e2a3caac42!2sMotionstarlight%20Logistics%20Co%20Ltd!5e0!3m2!1sen!2stz!4v1646864698037!5m2!1sen!2stz" width="640" height="480"></iframe></figure>
+						<figure><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31693.710020287992!2d39.2614786183368!3d-6.8046342852308745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x185c4b27c9af3497%3A0x192fd48c031e92be!2sOligarchy%20Logistics%20Limited!5e0!3m2!1sen!2stz!4v1686004973345!5m2!1sen!2stz" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></figure>
 						</div>
 
                         <div class="custom-heading">
@@ -240,9 +237,9 @@
                         <span class="text-big colored">
 
 
-                            <a href=""><img src="{{asset('giant/img/pics/ws-lnk.png')}}" alt="" style="display: inline; width: 30px; margin-top: 5px;"> +255 712 736 581 </a>
-
-                            <a href=""><img src="{{asset('giant/img/pics/cell2.jpg')}}" alt="" style="display: inline; width: 15px; margin-top: 5px;"> +255 685 908 198</a>
+                            <a href=""><img src="{{asset('giant/img/pics/cell2.jpg')}}" alt="" style="display: inline; width: 15px; margin-top: 5px;"> +255 758 557 772 </a>
+                            <br>
+                            <a href=""><img src="{{asset('giant/img/pics/cell2.jpg')}}" alt="" style="display: inline; width: 15px; margin-top: 5px;"> +255 767 166 162 </a>
                         </span>
                         <br />
 
