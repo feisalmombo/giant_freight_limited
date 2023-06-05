@@ -129,14 +129,14 @@
             <div class="ms-slide">
                 <img src="{{asset('giant/masterslider/blank.gif')}}" data-src="{{asset('giant/img/slider/slide05-01.jpg')}}" alt=""/>
 
-                <h2 class="ms-layer pi-caption01 pi-caption-dark"
+                {{--  <h2 class="ms-layer pi-caption01 pi-caption-dark"
                     style="left: 390px; top: 260px;"
                     data-type="text"
                     data-delay="100"
                     data-parallax="10"
                     >
                     worldwide Freight Services
-                </h2>
+                </h2>  --}}
 
                 {{--  <h2 class="ms-layer pi-caption01 pi-caption-dark"
                     style="left: 390px; top: 320px;"
@@ -192,7 +192,7 @@
                     data-delay="100"
                     data-parallax="10"
                     >
-                    Logistics Service
+                    Oligarchy Logistics
                 </h2>
 
                 {{--  <h2 class="ms-layer pi-caption01 pi-caption-dark"
