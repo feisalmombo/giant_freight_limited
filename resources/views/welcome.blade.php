@@ -4,9 +4,9 @@
 
 <head>
 
- <title>Harvest Logistics Company Limited - Welcome Page</title>
-        <meta name="description" content="Harvest Logistics Company Limited">
-        <meta name="author" content="Harvest Logistics Company Limited">
+ <title>Oligarchy Logistics - Welcome Page</title>
+        <meta name="description" content="Oligarchy Logistics">
+        <meta name="author" content="Oligarchy Logistics">
         <meta name="keywords" content="transportation, logistics, transportation , logistics , cargo, business">
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -45,7 +45,7 @@
                                         <div class="logo">
                                             <a href="#" style="padding-bottom: 3px; font-size: 13px; color: #2780BA; font-weight: 700;">
                                                  {{--  <img src="{{asset('giant/img/logo.png')}}" alt="Giant Freight"/>  --}}
-                                                 Harvest Logistics
+                                                 Oligarchy Logistics
                                             </a>
                                         </div><!-- .logo end -->
                                     </div><!-- .navbar-header start -->
@@ -244,9 +244,9 @@
                     <div class="col-md-12">
                         <div class="call-to-action clearfix">
                             <div class="text">
-                                <h2>Harvest Logistics is right for you</h2>
+                                <h2>Oligarchy Logistics is right for you</h2>
                                 <p>
-                                    Selecting all services of what Harvest Logistics can offer.
+                                    Selecting all services of what Oligarchy Logistics can offer.
 									we are not limited to a unit or sub-Saharan size load
 									but its all about what comes and we can handle it for
 									you at our best. We make sure to keep up with today
@@ -271,7 +271,7 @@
                     <div class="custom-heading02">
                         <h2>Our services</h2>
                         <p>
-                            Harvest Logistics
+                            Oligarchy Logistics
                         </p>
                     </div><!-- .custom-heading02 end -->
                 </div><!-- .row end -->
