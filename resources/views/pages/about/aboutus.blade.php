@@ -235,7 +235,7 @@
                         <img class="float-right" src="{{ asset('giant/img/pics/img16.jpg') }}" alt="" width="360"/>
 
                         <p>
-                            Motionstarlight Logistics company is an independently owned freight forwarding
+                            Oligarchy Logistics Limited is an independently owned freight forwarding
                             company with its headquarters in Dar es salaam.
                         </p>
 
