@@ -192,7 +192,7 @@
                     data-delay="100"
                     data-parallax="10"
                     >
-                    Cargo Services
+                    Logistics Service
                 </h2>
 
                 {{--  <h2 class="ms-layer pi-caption01 pi-caption-dark"
