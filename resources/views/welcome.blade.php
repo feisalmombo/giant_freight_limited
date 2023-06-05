@@ -256,7 +256,7 @@
                                 </p>
                             </div><!-- .text end -->
 
-                            <a href="" class="btn btn-big">
+                            <a href="{{ url('/') }}" class="btn btn-big">
                                 <span>get a quote</span>
                             </a>
                         </div><!-- .call-to-action end -->
