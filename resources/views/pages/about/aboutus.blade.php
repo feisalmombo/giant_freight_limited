@@ -238,16 +238,8 @@
                         <img class="float-right" src="{{ asset('giant/img/pics/img16.jpg') }}" alt="" width="360"/>
 
                         <p>
-                            We are licensed by the Tanzania Customs service providing
-							clearing and forwarding services in Tanzania.
-
-							We are a locally owned and operated company situated right
-							in the heart of Dar-Es-Salaam city company is found by
-							Filbert Mwendwa. Operating since 1984, we are committed in
-							providing the best quality service at competitive rates.
-							We pride ourselves in our personalized and responsive services.
-							Our dedicated team of professionals ensure timely completion
-							of work and professionalism.
+                            Motionstarlight Logistics company is an independently owned freight forwarding
+                            company with its headquarters in Dar es salaam.
                         </p>
 
                         <br />
@@ -260,14 +252,7 @@
 
                                 <p>
 
-								To technology leverage, advanced equipment
-								and innovative ideas to provide efficient, timely
-								and high quality Freight and Logistics services
-								to our esteemed clients.
-
-								To be a service provider in the freight and port
-								operations with a strong presence in East Africa
-								and globally.
+                                 To ensure our customers are provided with the efficient and highest quality service possible.
 
                                 </p>
                             </div><!-- .col-md-5 end -->
@@ -277,37 +262,10 @@
                                     <h3>our Vision</h3>
                                 </div><!-- .custom-heading end -->
 
-                                <ul class="fa-ul">
-                                    <li>
-                                        <i class="fa fa-li fa-long-arrow-right"></i>
-                                        Providing high quality transportation services to all of our clients
-                                    </li>
-
-                                    <li>
-                                        <i class="fa fa-li fa-long-arrow-right"></i>
-                                        Invest in our employees to provide better service and company growth
-                                    </li>
-
-                                    <li>
-                                        <i class="fa fa-li fa-long-arrow-right"></i>
-                                        Worry about enviroment according to latest industry standards
-                                    </li>
-
-                                    <li>
-                                        <i class="fa fa-li fa-long-arrow-right"></i>
-                                        Safety as top priority in assuring safe work procedures
-                                    </li>
-
-                                    <li>
-                                        <i class="fa fa-li fa-long-arrow-right"></i>
-                                        Investing in technology to provide fast, acurate and cost-effective service
-                                    </li>
-
-                                    <li>
-                                        <i class="fa fa-li fa-long-arrow-right"></i>
-                                        Living up to highest industry standards
-                                    </li>
-                                </ul><!-- .fa-ul end -->
+                                <p>
+                                    To provide our customers with the best freight and transport
+                                    solutions for all types of goods in our chosen market.
+                                </p>
                             </div><!-- .col-md-7 end -->
                         </div><!-- .row end -->
 
