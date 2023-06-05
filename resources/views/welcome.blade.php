@@ -464,7 +464,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="custom-heading02 simple">
-                            <h2>Our Clients</h2>
+                            <h2>Our Partners</h2>
                         </div>
                     </div><!-- .col-md-12 end -->
                 </div><!-- .row end -->
@@ -473,7 +473,7 @@
                     <div class="col-md-12">
                         <div class="carousel-container">
                             <div id="client-carousel" class="owl-carousel owl-carousel-navigation">
-                                <div class="owl-item"><img src="{{asset('giant/img/pics/client-01.jpg')}}" alt=""/></div>
+                                <div class="owl-item"><img src="{{asset('giant/img/pics/client-01.jpg')}}" alt="Diamond-Touch-Zambia"/></div>
                             </div><!-- .owl-carousel.owl-carousel-navigation end -->
                         </div><!-- .carousel-container end -->
                     </div><!-- .col-md-12 end -->
