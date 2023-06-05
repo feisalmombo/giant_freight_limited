@@ -5,12 +5,12 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-  <meta name="description" content="Harvest Logistics Company Limited">
-  <meta name="keywords" content="Harvest Logistics Company Limited"/>
-  <meta name="author" content="Harvest Logistics Company Limited">
+  <meta name="description" content="Oligarchy Logistics">
+  <meta name="keywords" content="Oligarchy Logistics"/>
+  <meta name="author" content="Oligarchy Logistics">
   <meta name="csrf-token" content="{{ csrf_token() }}">
 
-  <title>{{config('app.name', 'Harvest Logistics Company Limited') }} | @yield('title')</title>
+  <title>{{config('app.name', 'Oligarchy Logistics') }} | @yield('title')</title>
 
   <!-- Favicon icon -->
   <link rel="icon" type="image/png" sizes="16x16" href="{{asset('temp/images/favicon.png')}}">
@@ -61,9 +61,9 @@
       <!-- Logo -->
       <a href="{{ url('/') }}" class="logo">
         <!-- mini logo for sidebar mini 50x50 pixels -->
-        <span class="logo-mini"><strong style="color:#2B3483">Harvest Logistics</span>
+        <span class="logo-mini"><strong style="color:#2B3483">Oligarchy Logistics</span>
         <!-- logo for regular state and mobile devices -->
-        <span class="logo-lg"><strong style="color:#2B3483">Harvest Logistics</span>
+        <span class="logo-lg"><strong style="color:#2B3483">Oligarchy Logistics</span>
       </a>
 
 
