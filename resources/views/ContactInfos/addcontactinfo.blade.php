@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Logistics Africa | Contact</title>
+    <title>Oligarchy Logistics | Contact</title>
     <!-- web fonts -->
     <link href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap" rel="stylesheet">
     <link href="//fonts.googleapis.com/css?family=Nunito:200,300,400,600,700,800,900&display=swap" rel="stylesheet">
@@ -18,7 +18,7 @@
 <div class="w3l-bootstrap-header fixed-top">
     <nav class="navbar navbar-expand-lg navbar-light p-2">
         <div class="container">
-        <a class="navbar-brand" href="{{url('/')}}"><strong style="color:#2B3483">Logistics Africa</strong><strong style="color:#E58225">.</strong></a>
+        <a class="navbar-brand" href="{{url('/')}}"><strong style="color:#2B3483">Oligarchy Logistics</strong><strong style="color:#E58225">.</strong></a>
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -198,10 +198,7 @@
                 <div class="col-md-4 footer-list-28 mt-5">
                   <h6 class="footer-title-28">Products</h6>
                   <ul>
-                    <li><a href="#" target="_blank">Logistics Africa</a></li>
-                    <li><a href="#" target="_blank">GetPesa</a></li>
-                    <li><a href="#" target="_blank">Welfare Application</a></li>
-                    <li><a href="#" target="_blank">Pesa GetPesa</a></li>
+                    <li><a href="#" target="_blank">Oligarchy Logistics</a></li>
                   </ul>
                 </div>
               </div>
@@ -212,8 +209,8 @@
 
         <div class="midd-footer-28 align-center py-lg-4 py-3 mt-5">
           <div class="container">
-            <p class="copy-footer-28 text-center"> &copy; {{ date('Y') }} Logistics Africa. All Rights Reserved. A Product by <a
-              href="https://getpesa.co.tz/" target="_blank">GetPesa Limited</a></p>
+            <p class="copy-footer-28 text-center"> &copy; {{ date('Y') }} Oligarchy Logistics. All Rights Reserved. A Product by <a
+              href="#" target="_blank">EFE TECH CO. LTD</a></p>
           </div>
         </div>
       </div>
