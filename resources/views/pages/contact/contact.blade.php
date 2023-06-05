@@ -154,8 +154,7 @@
                         </div><!-- .custom-heading.left end -->
 
                         <p>
-                            We are located at Dar es Salaam near Clock Tower Najmi Manzil Building,
-                            4th Floor Room Number 4B.
+                            Let us know what can we do for you. Contact us today for more info!
                         <br/>
 
                         <br />
