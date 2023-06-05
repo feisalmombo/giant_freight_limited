@@ -105,8 +105,6 @@
                                                     </ul><!-- dl-submenu end -->
                                                 </li>
 
-
-												<li><a href="#">Media</a></li>
 												<li><a href="#">Terms & Conditions</a></li>
 												<li><a href="{{ url('/contact') }}">Contacts</a></li>
                                             </ul><!-- .dl-menu end -->
