@@ -7,7 +7,7 @@
 @if(Auth::user()->hasRole('developer') || Auth::user()->hasRole('staff'))
 <section class="content-header">
     <h1 style="font-family:Titillium Web, sans-serif">
-    Welcome To Harvest Logistics Company Limited Dashboard
+    Welcome To Oligarchy logistics Limited Dashboard
   </h1>
 </section>
 @endif
