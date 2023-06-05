@@ -200,7 +200,8 @@
                                     <h3>Download Our Company Profile</h3>
                                 </div>
 
-                                <a href="{{ asset('giant/profile/giant-freight-limited.pdf') }}" target="_blank" class="download-link">
+                                {{--  <a href="{{ asset('giant/profile/giant-freight-limited.pdf') }}" target="_blank" class="download-link">  --}}
+                                <a href="#" target="_blank" class="download-link">
                                     <span>
                                         <i class="fa fa-file-pdf-o"></i>
                                         Company Profile
@@ -245,81 +246,16 @@
                                 </div>
 
                                 <p>
-                                   No matter the origin or destination or the size of your sea freight shipment, our global network of stakeholders in the freight industry means we are able to deliver your goods on time, every time, and at reasonable costs.
-Our Sea Freight services are provided to clients intending to import or export goods through any port of entry/exit in Tanzania. We offer comprehensive services that includes local door to door delivery for all incoming goods. As your agent we will prepare all documentation for your goods, consult with you, process your documents and effect actual clearance of the goods in or out of the port of entry / exit.
-
-
+                                    Our strong partnership with Shipping Lines, enables us to offer our clients competitive rates to
+                                    and fro overseas destination. We pride ourselves to connecting Eastern, Central and Southern Africa to the rest of
+                                    the world by offering customized freight forwarding solutions that suits our clients needs.
+                                    <br>
+                                    With offices located in strategic Port cities (Dar es Salaam and other branches office
+                                    in Tunduma border, Rusumo border, Kabanga border, Kasumulu border, Horohoro, Mtukula border
+                                    and Namanga border in Tanzania).
                                 </p>
 
                             </div><!-- .col-md-5 end -->
-                        </div><!-- .row end -->
-
-                        <div class="row">
-                            <div class="col-md-5">
-                                <h3>Your cargo is safe with us</h3>
-
-                                <p>
-                                   Giant Freight welcomes your business in East Africa and would like to help you in providing
-								   our experience in Clearing & Forwarding, Moving & Expert handling of your containers from
-								   Seaport/Airport. We are committed to building strong relationships with our clients and
-								   making sure that they are satisfied.
-                                </p>
-                            </div><!-- .col-md-4 end -->
-
-                            <div class="col-md-7">
-                                <h3>What makes us the best choice</h3>
-
-                                <ul class="fa-ul">
-                                    <li>
-                                        <i class="fa fa-li fa-long-arrow-right"></i>
-                                        Providing high quality transportation services to all of our clients
-                                    </li>
-
-                                    <li>
-                                        <i class="fa fa-li fa-long-arrow-right"></i>
-                                        Invest in our employees to provide better service and company growth
-                                    </li>
-
-                                    <li>
-                                        <i class="fa fa-li fa-long-arrow-right"></i>
-                                        Worry about enviroment according to latest industry standards
-                                    </li>
-
-                                    <li>
-                                        <i class="fa fa-li fa-long-arrow-right"></i>
-                                        Safety as top priority in assuring safe work procedures
-                                    </li>
-
-                                    <li>
-                                        <i class="fa fa-li fa-long-arrow-right"></i>
-                                        Investing in technology to provide fast, acurate and cost-effective service
-                                    </li>
-
-                                    <li>
-                                        <i class="fa fa-li fa-long-arrow-right"></i>
-                                        Living up to highest industry standards
-                                    </li>
-                                </ul><!-- .fa-ul end -->
-                            </div><!-- .col-md-7 end -->
-                        </div><!-- .row end -->
-
-                        <div class="row">
-                            <div class="col-md-12">
-                                <h3>Worldwide Ocean Transport</h3>
-
-
-
-                                <p>
-                                    As market leader in East Africa, we offer insurance cover for comprehensive sea freight services in our global independent network focused on FCL and LCL shipments break bulk, project logistics, and oversized transport.
-                                </p>
-
-
-                                <p>
-                                    <img class="float-right" src="img/pics/img30.jpg" alt=""/>
-
-                                   Our specialist will assist you in designing the most efficient and cost effective shipping options to ensure your goods reach their specified destinations properly packed and delivered according to every data.
-                                </p>
-                            </div><!-- .col-md-12 end -->
                         </div><!-- .row end -->
 
                     </div><!-- .col-md-9 end -->
