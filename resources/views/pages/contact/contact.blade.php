@@ -3,9 +3,9 @@
 <html>
 <head>
 
-    <title>Harvest Logistics Company Limited - Contact Us</title>
-    <meta name="description" content="Harvest Logistics Company Limited">
-    <meta name="author" content="Harvest Logistics Company Limited">
+    <title>Oligarchy Logistics - Contact Us</title>
+    <meta name="description" content="Oligarchy Logistics">
+    <meta name="author" content="Oligarchy Logistics">
     <meta name="keywords" content="transportation, logistics, transportation , logistics , cargo, business">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -45,8 +45,8 @@
                                     <div class="navbar-header">
                                         <div class="logo">
                                             <a href="#" style="padding-bottom: 3px; font-size: 13px; color: #2780BA; font-weight: 700;">
-                                                {{--  <img src="{{asset('giant/img/logo.png')}}" alt="Harvest Logistics Company Limited"/>  --}}
-                                                Harvest Logistics
+                                                {{--  <img src="{{asset('giant/img/logo.png')}}" alt="Oligarchy Logistics"/>  --}}
+                                                Oligarchy Logistics
                                             </a>
                                         </div><!-- .logo end -->
                                     </div><!-- .navbar-header start -->
@@ -161,7 +161,7 @@
                         <br/><br/>
                         Call us today by calling us at +255 758 557 772, +255 767 166 162 or fill out the online contact form.
                         <br/>
-                        Harvest Logistics Company Limited, P. O. Box 70963, Email: info@harvestlogistics.com
+                        Oligarchy Logistics, P. O. Box 70963, Email: info@oligarchylogistics.com
                         </p>
 
                         <br />
@@ -221,7 +221,7 @@
 
                     <div class="col-md-6">
                         <div class="custom-heading">
-                            <h3>Harvest Logistics Company Limited headquarters</h3>
+                            <h3>Oligarchy Logistics Headquarters</h3>
                         </div><!-- .custom-heading end -->
 
                         <div >
@@ -249,7 +249,7 @@
                         </span>
                         <br />
 
-                        <a href="mailto:">info@harvestlogistics.com</a>
+                        <a href="mailto:">info@oligarchylogistics.com</a>
                     </div><!-- .col-md-6 end -->
                 </div><!-- .row end -->
             </div><!-- .container end -->
