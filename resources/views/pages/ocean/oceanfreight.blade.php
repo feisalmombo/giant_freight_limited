@@ -72,9 +72,6 @@
                                                 </ul><!-- .dropdown-menu end -->
                                             </li><!-- .dropdown end -->
 
-
-											<li><a href="#">Media</a></li>
-
 											{{--  <li><a href="#">Terms & Conditions</a></li>  --}}
 
 											<li><a href="{{ url('/contact') }}">Contacts Us</a></li>
@@ -111,8 +108,6 @@
                                                     </ul><!-- dl-submenu end -->
                                                 </li>
 
-
-												<li><a href="#">Media</a></li>
 												<li><a href="{{ url('/contact') }}">Contacts</a></li>
                                             </ul><!-- .dl-menu end -->
                                         </div><!-- #dl-menu end -->
@@ -131,7 +126,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <h1>Services - Air freight</h1>
+                        <h1>Services - Ocean freight</h1>
 
                         <div class="breadcrumb-container">
                             <ul class="breadcrumb clearfix">
