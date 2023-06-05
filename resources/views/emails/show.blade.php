@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Logistics Africa Newsletter</title>
+<title>Oligarchy Logistics Newsletter</title>
 </head>
 <body>
-<h3>Welcome to Logistics Africa Newsletter</h3>
+<h3>Welcome to Oligarchy Logistics Newsletter</h3>
 <div>
 	<h4>{{ $title }}</h4>
 </div>
