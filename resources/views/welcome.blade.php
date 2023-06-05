@@ -295,10 +295,10 @@
                                             </div><!-- .custom-heading end -->
 
                                             <p>
-                                                We have a wide experience in overland
-                                                industry specific logistic solutions like
-                                                pharmaceutical logistics, retail, ship parts, chemical industry and
-                                                automotive logistics by train or road.
+                                                We offer second to none transportation services to our clients across Eastern, Central and
+                                                Southern Africa. We guarantee reliability and best transit times to all our destinations
+                                                within the region. As our client, you will be provided with daily updates of movement of
+                                                your goods until they reach final destination..........
                                             </p>
                                         </div><!-- .service-body end -->
                                     </div><!-- .service-feature-box-end -->
@@ -323,10 +323,11 @@
                                             </div><!-- .custom-heading end -->
 
                                             <p>
-                                                We bring your goods safely to worldwide
-                                                destinations with our great sea fright
-                                                services. We offer LLC and FLC shipments
-                                                that are fast and effective with no delays.
+                                                Our strong partnership with Shipping Lines, enables us to offer our
+                                                clients competitive rates to and fro overseas destination. We pride ourselves to connecting Eastern,
+                                                Central and Southern Africa to the rest of the
+                                                world by offering customized freight forwarding solutions that suits our clients needs.
+                                                With offices located in strategic Port cities ......
                                             </p>
                                         </div><!-- .service-body end -->
                                     </div><!-- .service-feature-box-end -->
@@ -351,10 +352,9 @@
                                             </div><!-- .custom-heading end -->
 
                                             <p>
-                                                We provide full supply chain management
-                                                package including cost effective and fast
-                                                air freight. You can also combine this
-                                                package with other means of transportation.
+                                                Our Depht of experience in the air freight industry gives Motionstarlight a unique position to negotiate the best possible rate on the behalf of our Customers. You can take advantage of our special spot rates and discounts for the following services to various destinations across the globe
+                                                1. Airport to Airport service:
+                                                2. Door to Door service:
                                             </p>
                                         </div><!-- .service-body end -->
                                     </div><!-- .service-feature-box-end -->
@@ -379,11 +379,9 @@
                                             </div><!-- .custom-heading end -->
 
                                             <p>
-                                                Need custom logistic service? We got
-                                                it covered. From overland, air, railway
-                                                and sea transportation. Fast, safe
-                                                and accurate shipment provided all
-                                                over the globe directly to your home.
+                                                We have a team of dedicated professionals and core system processes that are customizable. We know there are no two businesses that are alike and the only constant is change. We focus on continuous improvement. We’re flexible and we’re committed to reducing costs while improving service!
+
+                                                Our warehouse services......
                                             </p>
                                         </div><!-- .service-body end -->
                                     </div><!-- .service-feature-box-end -->
@@ -408,11 +406,9 @@
                                             </div><!-- .custom-heading end -->
 
                                             <p>
-                                                Trucking offers intelligent warehouse
-                                                solution. Lower your storage and
-                                                good maintenance by using our modern
-                                                and intelligent warehouses. You can
-                                                see all locations on location page.
+                                                If you need to move goods quickly or within a very specific time frame, value added services are the best option. Value Added services are guaranteed, urgent services and come with different unique options.
+
+                                                This makes them ideal for the kind of shipments that require special handling and care........
                                             </p>
                                         </div><!-- .service-body end -->
                                     </div><!-- .service-feature-box-end -->
@@ -437,12 +433,12 @@
                                             </div><!-- .custom-heading end -->
 
                                             <p>
+                                                With Offices located in strategic Port City (Dar es Salaam) Surported by Satellite offices at border points and cities of Kigari, Bunjubura, Lusaka, Harare, Lubumbashi
+
                                                 Don not know what mean of
                                                 transportation would be right for
                                                 you, or you need someone for full
-                                                supply chain management? Please
-                                                contact us. Our team of professionals
-                                                will be happy to help.
+                                                supply chain management?....
                                             </p>
                                         </div><!-- .service-body end -->
                                     </div><!-- .service-feature-box-end -->
