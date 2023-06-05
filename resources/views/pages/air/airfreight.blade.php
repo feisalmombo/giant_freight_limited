@@ -72,11 +72,6 @@
                                                 </ul><!-- .dropdown-menu end -->
                                             </li><!-- .dropdown end -->
 
-
-											<li><a href="#">Media</a></li>
-
-											{{--  <li><a href="#">Terms & Conditions</a></li>  --}}
-
 											<li><a href="{{ url('/contact') }}">Contacts Us</a></li>
 
                                         </ul><!-- .nav.navbar-nav end -->
@@ -111,8 +106,6 @@
                                                     </ul><!-- dl-submenu end -->
                                                 </li>
 
-
-												<li><a href="#">Media</a></li>
 												<li><a href="{{ url('/contact') }}">Contacts</a></li>
                                             </ul><!-- .dl-menu end -->
                                         </div><!-- #dl-menu end -->
@@ -243,42 +236,20 @@
                         </div>
 
                         <p>
-                            Oligarchy Logistics Limited is one of the largest air freight transportation providers in East Africa.
-						   At Oligarchy Logistics we can offer you choice and flexibility when shipping by air whether within East Africa
-						   or elsewhere worldwide. We have established relationships with industry partners and will negotiate
-						   the best possible rates on your behalf.
-
-
+                            Our Depht of experience in the air freight industry gives Oligarch Logistics Limited a unique position to negotiate the best possible rate on the behalf of our Customers.
+                            You can take advantage of our special spot rates and discounts for the following services to various destinations across the globe
+                            <br>
+                            1. Airport to Airport: Air freight service - customer arranges his/her own pickup from the airport
+                            <br>
+                            2. Door to Door service: - Customer has delive done to the address of their choice
                         </p>
 
                         <br /><br />
 
 
                         <div class="row">
-                            <div class="col-md-6 clearfix">
-                                <h3>Our locations</h3>
-
-                                <img src="{{asset('giant/img/pics/locations.jpg')}}" alt="locations illustration"/>
-
-                                <br />
-
-                                <p>
-                                    Air Freight is an essential component to any logistics network.
-									Across our worldwide partners network you can choose the service which best suits your needs.
-									Whether your shipments fly in the bellies of commercial planes or require specialist freighter aircraft
-									to move them.
-                                </p>
-
-                                <a href="#" class="read-more">
-                                    <span>
-
-                                        <i class="fa fa-chevron-right"></i>
-                                    </span>
-                                </a>
-                            </div><!-- .col-md-6 end -->
-
                             <div class="col-md-6">
-                                <h3>Your benefits</h3>
+                                <h3>Benefits</h3>
 
                                 <p>
                                     Oligarchy Logistics Limited can look for a tailor-made solutions for all your airfreight.
