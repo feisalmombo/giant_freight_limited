@@ -198,7 +198,7 @@
                                     <h3>Download Our Company Profile</h3>
                                 </div>
 
-                                <a href="{{ asset('giant/profile/giant-freight-limited.pdf') }}" target="_blank" class="download-link">
+                                <a href="#" target="_blank" class="download-link">
                                     <span>
                                         <i class="fa fa-file-pdf-o"></i>
                                         Company Profile
