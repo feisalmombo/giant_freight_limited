@@ -466,6 +466,9 @@
                         <div class="carousel-container">
                             <div id="client-carousel" class="owl-carousel owl-carousel-navigation">
                                 <div class="owl-item"><img src="{{asset('giant/img/pics/client-01.jpg')}}" alt="Diamond-Touch-Zambia"/></div>
+                                <div class="owl-item"><img src="{{asset('giant/img/pics/client-02.png')}}" alt=""/></div>
+                                <div class="owl-item"><img src="{{asset('giant/img/pics/client-03.png')}}" alt=""/></div>
+                                <div class="owl-item"><img src="{{asset('giant/img/pics/client-04.png')}}" alt=""/></div>
                             </div><!-- .owl-carousel.owl-carousel-navigation end -->
                         </div><!-- .carousel-container end -->
                     </div><!-- .col-md-12 end -->
