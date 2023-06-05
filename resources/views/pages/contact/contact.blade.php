@@ -69,9 +69,6 @@
                                                 </ul><!-- .dropdown-menu end -->
                                             </li><!-- .dropdown end -->
 
-
-											<li><a href="#">Media</a></li>
-
 											{{--  <li><a href="#">Terms & Conditions</a></li>  --}}
 
 											<li><a href="{{ url('/contact') }}">Contacts Us</a></li>
