@@ -70,9 +70,6 @@
                                                 </ul><!-- .dropdown-menu end -->
                                             </li><!-- .dropdown end -->
 
-
-											<li><a href="#">Media</a></li>
-
 											<li><a href="{{ url('/contact') }}">Contacts Us</a></li>
 
                                         </ul><!-- .nav.navbar-nav end -->
@@ -107,8 +104,6 @@
                                                     </ul><!-- dl-submenu end -->
                                                 </li>
 
-
-												<li><a href="#">Media</a></li>
 												<li><a href="#">Terms & Conditions</a></li>
 												<li><a href="{{ url('/contact') }}">Contacts</a></li>
                                             </ul><!-- .dl-menu end -->
@@ -157,174 +152,53 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="custom-heading">
-                            <h2>INTELLIGENT WAREHOUSE SOLUTIONS</h2>
+                            <h2>WAREHOUSE SOLUTIONS</h2>
                         </div><!-- .custom-heading end -->
 
                         <p>
-                            Our warehousing and storage solutions are ideal for goods either in transit, bond or simply stored. We can store your goods for you awaiting export or delivery until you are ready to proceed. We take pride in catering to a broad range of clientele throughout Tanzania with our warehousing service, which is comprehensive, reliable and flexible – qualities that are essential to help businesses in this market.
+                            We have a team of dedicated professionals and core system processes that are customizable. We know there are no two businesses that are alike and the only
+                            constant is change. We focus on continuous improvement. We’re flexible and we’re committed to reducing costs while improving service!
 
-
+                            Our warehouse services are designed to meet the needs of any size business. From startups to large corporations – our services can be scaled to the perfect fit for your operation.
+                            <br>
+                            We offer dedicated and shared warehouse services and an array of distribution services:
                         </p>
 
                         <ul class="fa-ul">
                             <li>
                                 <i class="fa fa-li fa-long-arrow-right"></i>
-                                Providing high quality transportation services to all of our clients
+                                Order processing
                             </li>
 
                             <li>
                                 <i class="fa fa-li fa-long-arrow-right"></i>
-                                Invest in our employees to provide better service and company growth
+                                Fulfillment
                             </li>
 
                             <li>
                                 <i class="fa fa-li fa-long-arrow-right"></i>
-                                Worry about enviroment according to latest industry standards
+                                3PL – Transportation services
                             </li>
 
                             <li>
                                 <i class="fa fa-li fa-long-arrow-right"></i>
-                                Safety as top priority in assuring safe work procedures
+                                Pick and pack
                             </li>
 
                             <li>
                                 <i class="fa fa-li fa-long-arrow-right"></i>
-                                Investing in technology to provide fast, acurate and cost-effective service
-                            </li>
-
-                            <li>
-                                <i class="fa fa-li fa-long-arrow-right"></i>
-                                Living up to highest industry standards
+                                Investing in technology to provide fast, acurate and cost-effective serviceMulti-channel distribution
                             </li>
                         </ul><!-- .fa-ul end -->
 
                         <p>
-                           Consult with our experts today for your logistics, warehousing and distribution services requirements, and allow us to make a positive difference in your business
+                            Our success is primarily based on our experience. If you have complex supply chain issues – we’re your answer. We are Oligarchy logistics!
                         </p>
                     </div><!-- .col-md-6 end -->
 
                     <div class="col-md-6 animated triggerAnimation" data-animate="zoomIn">
                         <img src="{{asset('giant/img/pics/warehouse.jpg')}}" alt=""/>
                     </div><!-- .col-md-6 end -->
-                </div><!-- .row end -->
-            </div><!-- .container end -->
-        </div><!-- .page-content end -->
-
-        <div class="page-content parallax parallax04 dark mb-70">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="custom-heading02 simple">
-                            <h2>Secure Storage</h2>
-                        </div><!-- .custom-heading02 end -->
-
-                        <div class="statement">
-                            <p>
-                                As a contractor we promise to take care of all
-                                supply chain management, to make your shipments
-                                travel safe, fast and on time.
-                            </p>
-                        </div>
-                    </div><!-- .col-md-12 end -->
-                </div><!-- .row end -->
-            </div><!-- .container end -->
-        </div><!-- .page-content end -->
-
-        <div class="page-content">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="custom-heading02">
-                            <h2>Other services</h2>
-                            <p>tailored logistics services</p>
-                        </div>
-                    </div><!-- .col-md-12 end -->
-                </div><!-- .row end -->
-
-                <div class="row">
-                    <div class="col-md-4 col-sm-4">
-                        <div class="service-feature-box">
-                            <div class="service-media">
-                                <img src="{{asset('giant/img/pics/img01.jpg')}}" alt="Road Transport"/>
-
-                                <a href="{{ url('/road-transport') }}" class="read-more02">
-                                    <span>
-                                        Read more
-                                        <i class="fa fa-chevron-right"></i>
-                                    </span>
-                                </a>
-                            </div><!-- .service-media end -->
-
-                            <div class="service-body">
-                                <div class="custom-heading">
-                                    <h4>ROAD TRANSPORT</h4>
-                                </div><!-- .custom-heading end -->
-
-                                <p>
-                                    We have a wide experience in overland
-                                    industry specific logistic solutions like
-                                    pharmaceutical logistics, retail and
-                                    automotive logistics by train or road.
-                                </p>
-                            </div><!-- .service-body end -->
-                        </div><!-- .service-feature-box-end -->
-                    </div><!-- .col-md-4 end -->
-
-                    <div class="col-md-4 col-sm-4">
-                        <div class="service-feature-box">
-                            <div class="service-media">
-                                <img src="{{asset('giant/img/pics/img02.jpg')}}" alt="Oceab Freight"/>
-
-                                <a href="{{ url('/ocean-freight') }}" class="read-more02">
-                                    <span>
-                                        Read more
-                                        <i class="fa fa-chevron-right"></i>
-                                    </span>
-                                </a>
-                            </div><!-- .service-media end -->
-
-                            <div class="service-body">
-                                <div class="custom-heading">
-                                    <h4>OCEAN FREIGHT</h4>
-                                </div><!-- .custom-heading end -->
-
-                                <p>
-                                    We bring your goods safely to worldwide
-                                    destinations with our great sea fright
-                                    services. We offer LLC and FLC shipments
-                                    that are fast and effective with no delays.
-                                </p>
-                            </div><!-- .service-body end -->
-                        </div><!-- .service-feature-box-end -->
-                    </div><!-- .col-md-4 end -->
-
-                    <div class="col-md-4 col-sm-4">
-                        <div class="service-feature-box">
-                            <div class="service-media">
-                                <img src="{{asset('giant/img/pics/img03.jpg')}}" alt="Air Freight"/>
-
-                                <a href="{{ url('/air-freight') }}" class="read-more02">
-                                    <span>
-                                        Read more
-                                        <i class="fa fa-chevron-right"></i>
-                                    </span>
-                                </a>
-                            </div><!-- .service-media end -->
-
-                            <div class="service-body">
-                                <div class="custom-heading">
-                                    <h4>AIR FREIGHT</h4>
-                                </div><!-- .custom-heading end -->
-
-                                <p>
-                                    We provide full supply chain management
-                                    package including cost effective and fast
-                                    sea freight. You can also combine this
-                                    package with other means of transportation.
-                                </p>
-                            </div><!-- .service-body end -->
-                        </div><!-- .service-feature-box-end -->
-                    </div><!-- .col-md-4 end -->
                 </div><!-- .row end -->
             </div><!-- .container end -->
         </div><!-- .page-content end -->
