@@ -72,11 +72,6 @@
                                                 </ul><!-- .dropdown-menu end -->
                                             </li><!-- .dropdown end -->
 
-
-											<li><a href="#">Media</a></li>
-
-											{{--  <li><a href="#">Terms & Conditions</a></li>  --}}
-
 											<li><a href="{{ url('/contact') }}">Contacts Us</a></li>
 
                                         </ul><!-- .nav.navbar-nav end -->
@@ -111,8 +106,6 @@
                                                     </ul><!-- dl-submenu end -->
                                                 </li>
 
-
-												<li><a href="#">Media</a></li>
 												<li><a href="{{ url('/contact') }}">Contacts</a></li>
                                             </ul><!-- .dl-menu end -->
                                         </div><!-- #dl-menu end -->
@@ -200,7 +193,8 @@
                                     <h3>Download Our Company Profile</h3>
                                 </div>
 
-                                <a href="{{ asset('giant/profile/giant-freight-limited.pdf') }}" target="_blank" class="download-link">
+                                {{--  <a href="{{ asset('giant/profile/giant-freight-limited.pdf') }}" target="_blank" class="download-link">  --}}
+                                <a href="#" target="_blank" class="download-link">
                                     <span>
                                         <i class="fa fa-file-pdf-o"></i>
                                         Company Profile
@@ -256,168 +250,6 @@
                             </div><!-- .col-md-5 end -->
                         </div><!-- .row end -->
 
-                        <div class="row">
-                            <div class="col-md-5">
-                                <h3>Efficient supply chain</h3>
-
-                                <p>
-                                   Our company has through years of experience in this industry, been able to create a network of associates throughout East Africa and around the world, which helps us to provide safe, reliable, economical and customized logistic solutions to our clients. Our logistics team has years of experience in this business and can handle long and short term and large or small scale assignments with utter professionalism.
-                                </p>
-
-                                <ul class="fa-ul">
-                                    <li>
-                                        <i class="fa fa-li fa-long-arrow-right"></i>
-                                        Providing high quality transportation services to all of our clients
-                                    </li>
-
-                                    <li>
-                                        <i class="fa fa-li fa-long-arrow-right"></i>
-                                        Invest in our employees to provide better service and company growth
-                                    </li>
-
-                                    <li>
-                                        <i class="fa fa-li fa-long-arrow-right"></i>
-                                        Worry about enviroment according to latest industry standards
-                                    </li>
-
-                                    <li>
-                                        <i class="fa fa-li fa-long-arrow-right"></i>
-                                        Safety as top priority in assuring safe work procedures
-                                    </li>
-                                </ul><!-- .fa-ul end -->
-                            </div><!-- .col-md-4 end -->
-
-                            <div class="col-md-7 custom-bkg bkg-light-blue">
-                                <div class="custom-heading">
-                                    <h3>Oligarchy Logistics</h3>
-                                </div><!-- .custom-heading end -->
-
-                                <p>
-                                    We are an authorized, insured and licensed logistics service provider, who has over the years not only gained a credible market reputation, but has also been able to win the hearts of hundreds of our clients, both national and international. We aim to provide a mutually benefitting logistics service to our clients, which is what has helped us become one of the most reliable logistic service providers in the nation.
-                                </p>
-
-                                <ul class="fa-ul">
-                                    <li>
-                                        <i class="fa fa-li fa-long-arrow-right"></i>
-                                        Higher quality service by optimizing transport
-                                        routes, means of transportation and reducing costs
-                                    </li>
-
-                                    <li>
-                                        <i class="fa fa-li fa-long-arrow-right"></i>
-                                        Strong optimized supply chain infrastructure
-                                        that will make a competitive advantage to your business
-                                    </li>
-
-                                    <li>
-                                        <i class="fa fa-li fa-long-arrow-right"></i>
-                                        Synchronized demand and supply which will enable
-                                        easier and more accurate predictions of your
-                                        clients needs
-                                    </li>
-
-                                    <li>
-                                        <i class="fa fa-li fa-long-arrow-right"></i>
-                                        Effective quality measurement and monitoring
-                                        will enable you to reduce costs and optimize your business.
-                                    </li>
-                                </ul><!-- .fa-ul end -->
-                            </div><!-- .col-md-6 end -->
-                        </div><!-- .row end -->
-
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="custom-heading">
-                                    <h3>other services</h3>
-                                </div><!-- .custom-heading end -->
-                            </div><!-- .col-md-12 end -->
-                        </div><!-- .row end -->
-
-                        <div class="row">
-                            <div class="col-md-4 col-sm-4">
-                                <div class="service-feature-box">
-                                    <div class="service-media">
-                                        <img src="{{asset('giant/img/pics/img01.jpg')}}" alt="Road Transport"/>
-
-                                        <a href="{{ url('/road-transport') }}" class="read-more02">
-                                            <span>
-                                                Read more
-                                                <i class="fa fa-chevron-right"></i>
-                                            </span>
-                                        </a>
-                                    </div><!-- .service-media end -->
-
-                                    <div class="service-body">
-                                        <div class="custom-heading">
-                                            <h4>ROAD FREIGHT</h4>
-                                        </div><!-- .custom-heading end -->
-
-                                        <p>
-                                            We have a wide experience in overland
-                                            industry specific logistic solutions like
-                                            pharmaceutical logistics, retail and
-                                            automotive logistics by train or road.
-                                        </p>
-                                    </div><!-- .service-body end -->
-                                </div><!-- .service-feature-box-end -->
-                            </div><!-- .col-md-4 end -->
-
-                            <div class="col-md-4 col-sm-4">
-                                <div class="service-feature-box">
-                                    <div class="service-media">
-                                        <img src="{{asset('giant/img/pics/img02.jpg')}}" alt="Ocean Freight"/>
-
-                                        <a href="{{ url('/ocean-freight') }}" class="read-more02">
-                                            <span>
-                                                Read more
-                                                <i class="fa fa-chevron-right"></i>
-                                            </span>
-                                        </a>
-                                    </div><!-- .service-media end -->
-
-                                    <div class="service-body">
-                                        <div class="custom-heading">
-                                            <h4>OCEAN FREIGHT</h4>
-                                        </div><!-- .custom-heading end -->
-
-                                        <p>
-                                            We bring your goods safely to worldwide
-                                            destinations with our great sea fright
-                                            services. We offer LLC and FLC shipments
-                                            that are fast and effective with no delays.
-                                        </p>
-                                    </div><!-- .service-body end -->
-                                </div><!-- .service-feature-box-end -->
-                            </div><!-- .col-md-4 end -->
-
-                            <div class="col-md-4 col-sm-4">
-                                <div class="service-feature-box">
-                                    <div class="service-media">
-                                        <img src="{{asset('giant/img/pics/img03.jpg')}}" alt="Air Freight"/>
-
-                                        <a href="{{ url('/air-freight') }}" class="read-more02">
-                                            <span>
-                                                Read more
-                                                <i class="fa fa-chevron-right"></i>
-                                            </span>
-                                        </a>
-                                    </div><!-- .service-media end -->
-
-                                    <div class="service-body">
-                                        <div class="custom-heading">
-                                            <h4>AIR FREIGHT</h4>
-                                        </div><!-- .custom-heading end -->
-
-                                        <p>
-                                            We provide full supply chain management
-                                            package including cost effective and fast
-                                            sea freight. You can also combine this
-                                            package with other means of transportation.
-                                        </p>
-                                    </div><!-- .service-body end -->
-                                </div><!-- .service-feature-box-end -->
-                            </div><!-- .col-md-4 end -->
-                        </div><!-- .row end -->
                     </div><!-- .col-md-9 end -->
                 </div><!-- .row end -->
             </div><!-- .container end -->
