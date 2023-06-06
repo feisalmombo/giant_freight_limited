@@ -70,11 +70,6 @@
                                                 </ul><!-- .dropdown-menu end -->
                                             </li><!-- .dropdown end -->
 
-
-											<li><a href="#">Media</a></li>
-
-											{{--  <li><a href="#">Terms & Conditions</a></li>  --}}
-
 											<li><a href="{{ url('/contact') }}">Contacts Us</a></li>
 
                                         </ul><!-- .nav.navbar-nav end -->
@@ -109,8 +104,6 @@
                                                     </ul><!-- dl-submenu end -->
                                                 </li>
 
-
-												<li><a href="#">Media</a></li>
 												<li><a href="{{ url('/contact') }}">Contacts</a></li>
                                             </ul><!-- .dl-menu end -->
                                         </div><!-- #dl-menu end -->
@@ -199,7 +192,8 @@
                                     <h3>Download Our Company Profile</h3>
                                 </div>
 
-                                <a href="{{ asset('giant/profile/giant-freight-limited.pdf') }}" target="_blank" class="download-link">
+                                {{--  <a href="{{ asset('giant/profile/giant-freight-limited.pdf') }}" target="_blank" class="download-link">  --}}
+                                <a href="#" target="_blank" class="download-link">
                                     <span>
                                         <i class="fa fa-file-pdf-o"></i>
                                         Company Profile
@@ -242,63 +236,13 @@
                         </div>
 
                         <p>
-                          The company maintains an extensive railway network across South Africa that connects with other railway networks in the sub-Saharan region, with its railway infrastructure representing about 80% of Africas total.
+                            When time is of the essence, our Railway services are your best option as we offer daily worldwide deliveries.
+                            We understand our clients contractual obligations to time sensitive cargo. Regardless if you shipping perishables,
+                            hazardous or any other time bound cargo that needs to be delivered fast and on time, we got you
+                            covered. Suspendisse ultrices gravida.
 
                         </p>
-
-                        <br />
-
-                        <div class="row">
-                            <div class="col-md-5">
-                                <img src="{{asset('giant/img/pics/img38.jpg')}}" alt=""/>
-                            </div><!-- .col-md-5 end -->
-
-                            <div class="col-md-7">
-                                <ul class="fa-ul large-icons">
-                                    <li>
-                                        <div class="icon-container animated triggerAnimation" data-animate="zoomIn">
-                                            <i class="fa fa-check-circle"></i>
-                                        </div>
-
-                                        <div class="li-content">
-                                            <h3>Fast Worldwide delivery</h3>
-
-                                            <p>
-                                               The company is proud of its reputation for technological leadership beyond Africa as well as with-in Africa, where it is active in some 17 countries delivery is most efficient.
-                                            </p>
-                                        </div><!-- .li-content end -->
-                                    </li>
-
-                                    <li>
-                                        <div class="icon-container animated triggerAnimation" data-animate="zoomIn">
-                                            <i class="fa fa-check-circle"></i>
-                                        </div>
-
-                                        <div class="li-content">
-                                            <h3>End-to-end solution available</h3>
-
-                                            <p>
-                                                All end to end solutions are available.
-                                            </p>
-                                        </div><!-- .li-content end -->
-                                    </li>
-
-                                    <li>
-                                        <div class="icon-container animated triggerAnimation" data-animate="zoomIn">
-                                            <i class="fa fa-check-circle"></i>
-                                        </div>
-
-                                        <div class="li-content">
-                                            <h3>Safety & Compliance</h3>
-
-                                            <p>
-                                                Safety is our first priority, we handle all matters seriously and with attention to detail.
-                                            </p>
-                                        </div><!-- .li-content end -->
-                                    </li>
-                                </ul><!-- .fa-ul .fa-ul-large end -->
-                            </div><!-- .col-md-7 end -->
-                        </div><!-- .row end -->
+                        <br>
 
                     </div><!-- .col-md-9 end -->
                 </div><!-- .row end -->
