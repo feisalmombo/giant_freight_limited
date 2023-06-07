@@ -34,26 +34,6 @@
 
         <!-- .master-slider start -->
         <div id="masterslider" class="master-slider ms-skin-default mb-0">
-            <!-- slide start -->
-            <div class="ms-slide">
-                <img src="{{asset('giant/masterslider/blank.gif')}}" data-src="{{asset('giant/img/slider/slide05-01.jpg')}}" alt=""/>
-
-                <img class="ms-layer" src="{{asset('giant/masterslider/blank.gif')}}" data-src="{{asset('giant/img/slider/slide05-03.png')}}" alt=""
-                     style="left: 390px; top: 220px;"
-                     data-type="image"
-                     data-delay="100"
-                     data-parallax="15"
-                     />
-
-                <p class="ms-layer pi-text"
-                   style="left: 390px; top: 470px;"
-                   data-type="text"
-                   data-delay="100"
-                   data-parallax="10"
-                   >
-                    Air freight all over
-                </p>
-            </div><!-- slide end -->
 
             <!-- slide start -->
             <div class="ms-slide">
@@ -91,6 +71,28 @@
                     First freight services!
                 </p>
             </div><!-- slide end -->
+
+            <!-- slide start -->
+            {{--  <div class="ms-slide">
+                <img src="{{asset('giant/masterslider/blank.gif')}}" data-src="{{asset('giant/img/slider/slide05-01.jpg')}}" alt=""/>
+
+                <img class="ms-layer" src="{{asset('giant/masterslider/blank.gif')}}" data-src="{{asset('giant/img/slider/slide05-03.png')}}" alt=""
+                     style="left: 390px; top: 220px;"
+                     data-type="image"
+                     data-delay="100"
+                     data-parallax="15"
+                     />
+
+                <p class="ms-layer pi-text"
+                   style="left: 390px; top: 470px;"
+                   data-type="text"
+                   data-delay="100"
+                   data-parallax="10"
+                   >
+                    Air freight all over
+                </p>
+            </div>  --}}
+            <!-- slide end -->
         </div><!-- .master-slider end -->
 
         <div class="page-content parallax parallax01 dark mb-70">
