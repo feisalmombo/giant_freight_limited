@@ -38,34 +38,7 @@
             <div class="ms-slide">
                 <img src="{{asset('giant/masterslider/blank.gif')}}" data-src="{{asset('giant/img/slider/slide05-01.jpg')}}" alt=""/>
 
-                {{--  <h2 class="ms-layer pi-caption01 pi-caption-dark"
-                    style="left: 390px; top: 260px;"
-                    data-type="text"
-                    data-delay="100"
-                    data-parallax="10"
-                    >
-                    worldwide Freight Services
-                </h2>  --}}
-
-                {{--  <h2 class="ms-layer pi-caption01 pi-caption-dark"
-                    style="left: 390px; top: 320px;"
-                    data-type="text"
-                    data-delay="100"
-                    data-parallax="10"
-                    >
-                    freight
-                </h2>
-
-                <h2 class="ms-layer pi-caption01 pi-caption-dark"
-                    style="left: 390px; top: 380px;"
-                    data-type="text"
-                    data-delay="100"
-                    data-parallax="10"
-                    >
-                    services
-                </h2>  --}}
-
-                <img class="ms-layer" src="{{asset('giant/masterslider/blank.gif')}}" data-src="{{asset('giant/img/slider/slide05-02.png')}}" alt=""
+                <img class="ms-layer" src="{{asset('giant/masterslider/blank.gif')}}" data-src="{{asset('giant/img/slider/slide05-03.png')}}" alt=""
                      style="left: 390px; top: 220px;"
                      data-type="image"
                      data-delay="100"
@@ -80,15 +53,6 @@
                    >
                     Air freight all over
                 </p>
-
-                {{--  <p class="ms-layer pi-text"
-                   style="left: 390px; top: 500px;"
-                   data-type="text"
-                   data-delay="100"
-                   data-parallax="10"
-                   >
-                    We got it covered
-                </p>  --}}
             </div><!-- slide end -->
 
             <!-- slide start -->
@@ -103,24 +67,6 @@
                     >
                     Oligarchy Logistics
                 </h2>
-
-                {{--  <h2 class="ms-layer pi-caption01 pi-caption-dark"
-                    style="left: 390px; top: 400px;"
-                    data-type="text"
-                    data-delay="100"
-                    data-parallax="10"
-                    >
-                    overland
-                </h2>  --}}
-
-                {{--  <h2 class="ms-layer pi-caption01 pi-caption-dark"
-                    style="left: 390px; top: 460px;"
-                    data-type="text"
-                    data-delay="100"
-                    data-parallax="10"
-                    >
-                    or sea
-                </h2>  --}}
 
                 <img class="ms-layer" src="{{asset('giant/masterslider/blank.gif')}}" data-src="{{asset('giant/img/slider/slide05-04.png')}}" alt=""
                      style="left: 800px; top: 430px;"
