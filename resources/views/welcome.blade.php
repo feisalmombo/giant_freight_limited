@@ -63,12 +63,13 @@
                      />
 
                 <p class="ms-layer pi-text"
-                   style="left: 395px; top: 520px;"
+                   style="left: 395px; top: 520px; color: #000; font-weight:bold"
                    data-type="text"
                    data-delay="100"
                    data-parallax="10"
                    />
-                    First freight services!
+                   Oligarchy Logistics Limited is an independently <br><br>
+                   owned freight forwarding company with its headquarters in Dar es salaam.
                 </p>
             </div><!-- slide end -->
 
